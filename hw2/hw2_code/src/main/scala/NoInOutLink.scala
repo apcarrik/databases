@@ -20,20 +20,38 @@ object NoInOutLink {
 
         val links = sc
             .textFile(links_file, num_partitions)
-            // TODO
-
+            .map(l=>l.split(": "))
+            .flatMap( arr => {
+                val node = arr(0)
+                val neighbors_str = arr(1)
+                val neighbors = neighbors_str.split(" ")
+                neighbors.map(neighbor => (node.toLong, neighbor.toLong))
+            })
         val titles = sc
             .textFile(titles_file, num_partitions)
-            // TODO
+            .zipWithIndex()
+            .map(t=>(t._2.toLong+1,t._1))
 
         /* No Outlinks */
-        val no_outlinks = ???
+        val no_outlinks_idx = titles.map(t=>(t._1))
+          .subtract(links.map(l=>(l._1)))
+          .toArray()
+        val no_outlinks = titles
+          .filter(t => no_outlinks_idx.contains(t._1))
         println("[ NO OUTLINKS ]")
-        // TODO
+        no_outlinks
+          .take(10)
+          .foreach(println)
 
         /* No Inlinks */
-        val no_inlinks = ???
+        val no_inlinks_idx = titles.map(t=>(t._1))
+          .subtract(links.map(l=>(l._2)))
+          .toArray()
+        val no_inlinks = titles
+          .filter(t => no_inlinks_idx.contains(t._1))
         println("\n[ NO INLINKS ]")
-        // TODO
+        no_inlinks
+          .take(10)
+          .foreach(println)
     }
 }

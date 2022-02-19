@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/sparkapp_2.10-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/PageRank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/PageRank$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	NoInOutLink$$anonfun$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/github/databases/hw2/hw2_code/target/scala-2.10/classes/NoInOutLink$$anonfun$7.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
