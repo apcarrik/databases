@@ -74,7 +74,7 @@ object PageRank {
           .map(tp => (tp._2._2, (tp._1, tp._2._1)))
           .sortByKey(false)
           .map(tp => (tp._2._1, (tp._2._2, tp._1)))
-          .take(11)
+          .take(10)
           .foreach(println)
     }
 }
