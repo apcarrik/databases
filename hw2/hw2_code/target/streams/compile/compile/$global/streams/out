@@ -1,2 +1,4 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere were 2 deprecation warning(s); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/github/databases/hw2/hw2_code/src/main/scala/PageRank.scala:59:33: recursive value y_pageranks needs type[0m
+[0m[[0m[31merror[0m] [0m[0m              .takeSample(false,y_pageranks.count.toInt,1).foreach(println)[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
