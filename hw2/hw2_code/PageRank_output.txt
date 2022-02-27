@@ -1,17 +1,4 @@
-Copy your printed results here.
-
-
-[ NO OUTLINKS ]
-(1,A)
-
-[ NO INLINKS ]
-(7,G)
-(8,H)
-(9,I)
-(10,J)
-(11,K)
-
-[ PageRank ]
+[ PageRanks ]
 (3,(C,36.72612315790153))
 (2,(B,36.00158480709947))
 (5,(E,8.088543592074133))
