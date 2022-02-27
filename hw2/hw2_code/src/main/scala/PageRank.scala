@@ -72,5 +72,6 @@ object PageRank {
             .sortBy(_._2._2, ascending = false)
             .take(10)
             .foreach(println)
+
     }
 }
