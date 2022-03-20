@@ -1,0 +1,9 @@
+Find the schema of both collections and write the schema in q1.txt.
+
+Article: {
+
+}
+
+Inproceedings: {
+
+}
