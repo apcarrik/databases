@@ -58,10 +58,12 @@ class Answers:
         """
 
         # *** CODE HERE *** 
+        count_article = self.article.count_documents({})
+        count_inproceedings = self.inproceedings.count_documents({})
 
         return [{
-            'article_count': ..., 
-            'inproceedings_count': ...,
+            'article_count': count_article, 
+            'inproceedings_count': count_inproceedings,
         }]
 
     def q3(self):
@@ -80,9 +82,19 @@ class Answers:
 
 
         # *** CODE HERE *** 
-   
+        self.inproceedings.update_many({}, {'$set' : {'area' : 'UNKNOWN'}})
 
-        return [{'area': ..., 'count': ...}] 
+        for area in area_to_title:
+            for conference in area_to_title[area]:
+                self.inproceedings.update_many({'booktitle' : conference}, {'$set' : {'area' : area}})
+
+        ans = []
+        for area in ['Database', 'Theory', 'Systems', 'ML-AI', 'UNKNOWN']:
+            ans.append({'area': area, 'count': self.inproceedings.count_documents({'area' : area})})
+
+        ans.sort(key = lambda d: d['area'])
+
+        return ans 
 
     def q4a(self):
 
@@ -93,8 +105,17 @@ class Answers:
         """
 
         # *** CODE HERE *** 
+        res = self.inproceedings.aggregate([
+            {'$match' : {'area' : 'Database'}},
+            {'$unwind' : "$authors"},
+            {'$group' : {'_id' : '$authors', 'num_papers' : {'$sum' : 1}}},
+            {'$sort' : {'num_papers' : -1, '_id' : 1}},
+            {'$limit' : 20},
+            {'$project' : {'author' : '$_id', '_id' : 0, 'num_papers' : 1}}
+        ])
 
-        return [{'author': ..., 'num_papers': ...}]
+
+        return [_ for _ in res]
 
     def q4b(self):
         """
@@ -103,9 +124,16 @@ class Answers:
         Result must be an array composed of objects of the structure {'author': ...} sorted in ascending order by author name.
         """
 
-        # *** CODE HERE *** 
-
-        return [{'author': ...}]
+        res = self.inproceedings.aggregate([
+            {'$match' : {'area' : {'$ne' : 'UNKNOWN'}}},
+            {'$unwind' : "$authors"},
+            {'$group' : {'_id' : {'authors' : '$authors', 'area' : '$area'}}},
+            {'$group' : {'_id' : '$_id.authors', 'count_area' : {'$sum' : 1}}},
+            {'$match' : {'count_area' : 2}},
+            {'$project' : {'author' : '$_id', '_id' : 0}},
+            {'$sort' : {'author' : 1}},
+        ])
+        return [_ for _ in res]
     
     def q4c(self):
         """
@@ -115,8 +143,26 @@ class Answers:
         """
         
         # *** CODE HERE *** 
-
-        return [{'author': ..., 'num_papers': ...}]
+        res = self.inproceedings.aggregate([
+            {'$match' : {'area' : 'Database'}},
+            {'$unwind' : "$authors"},
+            {'$group' : {'_id' : '$authors', 'num_papers' : {'$sum' : 1}}},
+            {'$sort' : {'num_papers' : -1, '_id' : 1}},
+            {'$limit' : 20},
+            {'$project' : {'author' : '$_id', '_id' : 0, 'num_papers' : 1}},
+            {'$lookup' : {'from' : 'Article',
+                          'localField' : 'author',
+                          'foreignField' : 'authors',
+                          'pipeline' : [{'$match' : {'year' : {'$gte' : 2000}}}, {'$unwind' : '$authors'}],
+                          "as" : "articles"}},
+            {'$unwind' : "$articles"},
+            {'$match' : {'$expr' : {'$eq' : ["$author", "$articles.authors"]}}},
+            {'$group' : {'_id' : '$author', 'num_papers' : {'$sum' : 1}}},
+            {'$sort' : {'num_papers' : -1, '_id' : 1}},
+            {'$limit' : 5},
+            {'$project' : {'author' : '$_id', '_id' : 0, 'num_papers' : 1}}
+        ])
+        return [_ for _ in res]
 
 if __name__ == "__main__":
 
