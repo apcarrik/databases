@@ -4,3 +4,4 @@ hw1/*.dtd
 hw1/.ipynb_checkpoints/*
 .DS_Store
 /**/.DS_Store
+hw3/hw/dblp.xml
