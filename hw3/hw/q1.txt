@@ -1,9 +1,9 @@
 Find the schema of both collections and write the schema in q1.txt.
 
 Article: {
-
+    '_id', 'pubkey', 'title', 'year', 'authors'
 }
 
 Inproceedings: {
-
+    '_id', 'pubkey', 'title', 'booktitle', 'year', 'authors'
 }

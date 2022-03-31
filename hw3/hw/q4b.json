@@ -1,0 +1,11273 @@
+[
+    {
+        "author": "A. Bagchi"
+    },
+    {
+        "author": "A. Kumaran 0001"
+    },
+    {
+        "author": "A. L. Narasimha Reddy"
+    },
+    {
+        "author": "A. Prasad Sistla"
+    },
+    {
+        "author": "Aaron Clauset"
+    },
+    {
+        "author": "Aaron Harwood"
+    },
+    {
+        "author": "Aaron Roth"
+    },
+    {
+        "author": "Aaron Sidford"
+    },
+    {
+        "author": "Aarti Gupta"
+    },
+    {
+        "author": "Abbas Bazzi"
+    },
+    {
+        "author": "Abbas Edalat"
+    },
+    {
+        "author": "Abdallah Saffidine"
+    },
+    {
+        "author": "Abdul Sattar 0001"
+    },
+    {
+        "author": "Abdul Wasay"
+    },
+    {
+        "author": "Abdulhakim Ali Qahtan"
+    },
+    {
+        "author": "Abdur Chowdhury"
+    },
+    {
+        "author": "Abha Moitra"
+    },
+    {
+        "author": "Abhay Kumar Jha"
+    },
+    {
+        "author": "Abhi Shelat"
+    },
+    {
+        "author": "Abhimanyu Das"
+    },
+    {
+        "author": "Abhinav Gupta"
+    },
+    {
+        "author": "Abhiram G. Ranade"
+    },
+    {
+        "author": "Abhishek Gupta"
+    },
+    {
+        "author": "Abraham Bernstein"
+    },
+    {
+        "author": "Abraham Flaxman"
+    },
+    {
+        "author": "Abram L. Friesen"
+    },
+    {
+        "author": "Achille Fokoue"
+    },
+    {
+        "author": "Adam D. Smith"
+    },
+    {
+        "author": "Adam J. Grove"
+    },
+    {
+        "author": "Adam J. Storm"
+    },
+    {
+        "author": "Adam Kalai"
+    },
+    {
+        "author": "Adam Kirsch"
+    },
+    {
+        "author": "Adam R. Klivans"
+    },
+    {
+        "author": "Adam Tauman Kalai"
+    },
+    {
+        "author": "Adi Shraibman"
+    },
+    {
+        "author": "Aditya Bhaskara"
+    },
+    {
+        "author": "Aditya G. Parameswaran"
+    },
+    {
+        "author": "Aditya Kanade"
+    },
+    {
+        "author": "Aditya Ramesh"
+    },
+    {
+        "author": "Aditya V. Nori"
+    },
+    {
+        "author": "Adrian Segall"
+    },
+    {
+        "author": "Adrian Vetta"
+    },
+    {
+        "author": "Adrian Vladu"
+    },
+    {
+        "author": "Adrian Walker"
+    },
+    {
+        "author": "Aggelos Kiayias"
+    },
+    {
+        "author": "Agostino Cortesi"
+    },
+    {
+        "author": "Ahmed Bouajjani"
+    },
+    {
+        "author": "Ahmed El Alaoui"
+    },
+    {
+        "author": "Ahmed Hefny"
+    },
+    {
+        "author": "Ahsanul Haque"
+    },
+    {
+        "author": "Aidong Zhang"
+    },
+    {
+        "author": "Aixin Sun"
+    },
+    {
+        "author": "Ajit A. Diwan"
+    },
+    {
+        "author": "Akinori Yonezawa"
+    },
+    {
+        "author": "Akio Kokubu"
+    },
+    {
+        "author": "Akira Hattori"
+    },
+    {
+        "author": "Akira Matsumoto"
+    },
+    {
+        "author": "Akshay Goel"
+    },
+    {
+        "author": "Al Borchers"
+    },
+    {
+        "author": "Alaa R. Alameldeen"
+    },
+    {
+        "author": "Alain Biem"
+    },
+    {
+        "author": "Alan E. Gelfand"
+    },
+    {
+        "author": "Alan Fern"
+    },
+    {
+        "author": "Alan J. Hu"
+    },
+    {
+        "author": "Alan L. Cox"
+    },
+    {
+        "author": "Alan L. Rector"
+    },
+    {
+        "author": "Alan L. Tharp"
+    },
+    {
+        "author": "Alan Schmitt"
+    },
+    {
+        "author": "Alan Skelley"
+    },
+    {
+        "author": "Alan Weiss"
+    },
+    {
+        "author": "Albert A. Rizzo"
+    },
+    {
+        "author": "Albert Atserias"
+    },
+    {
+        "author": "Albert G. Greenberg"
+    },
+    {
+        "author": "Albert Gu"
+    },
+    {
+        "author": "Alberto Apostolico"
+    },
+    {
+        "author": "Alberto Bertoni"
+    },
+    {
+        "author": "Alberto L. Sangiovanni-Vincentelli"
+    },
+    {
+        "author": "Alberto Marchetti-Spaccamela"
+    },
+    {
+        "author": "Alberto Martelli"
+    },
+    {
+        "author": "Alberto Pettorossi"
+    },
+    {
+        "author": "Alejandro Lpez-Ortiz"
+    },
+    {
+        "author": "Alejandro P. Buchmann"
+    },
+    {
+        "author": "Aleksandar Nikolov"
+    },
+    {
+        "author": "Aleksander Madry"
+    },
+    {
+        "author": "Alessandro Bozzon"
+    },
+    {
+        "author": "Alessandro D'Atri"
+    },
+    {
+        "author": "Alessandro Panconesi"
+    },
+    {
+        "author": "Alessandro Roncato"
+    },
+    {
+        "author": "Alex Aiken"
+    },
+    {
+        "author": "Alex Dekhtyar"
+    },
+    {
+        "author": "Alex X. Liu"
+    },
+    {
+        "author": "Alexander A. Sherstov"
+    },
+    {
+        "author": "Alexander Borgida"
+    },
+    {
+        "author": "Alexander C. Berg"
+    },
+    {
+        "author": "Alexander J. Ratner"
+    },
+    {
+        "author": "Alexander L. Wolf"
+    },
+    {
+        "author": "Alexander Russell"
+    },
+    {
+        "author": "Alexander Skopalik"
+    },
+    {
+        "author": "Alexander Thomasian"
+    },
+    {
+        "author": "Alexandra Meliou"
+    },
+    {
+        "author": "Alexandre E. Eichenberger"
+    },
+    {
+        "author": "Alexandre Proutire"
+    },
+    {
+        "author": "Alexandre V. Evfimievski"
+    },
+    {
+        "author": "Alexandros Karatzoglou"
+    },
+    {
+        "author": "Alexandros Koliousis"
+    },
+    {
+        "author": "Alexandros Nanopoulos"
+    },
+    {
+        "author": "Alfred V. Aho"
+    },
+    {
+        "author": "Ali Ghodsi 0002"
+    },
+    {
+        "author": "Ali R. Hurson"
+    },
+    {
+        "author": "Ali Vakilian"
+    },
+    {
+        "author": "Alice X. Zheng"
+    },
+    {
+        "author": "Alina Ene"
+    },
+    {
+        "author": "Alireza Farhadi"
+    },
+    {
+        "author": "Alistair Moffat"
+    },
+    {
+        "author": "Alistair Stewart"
+    },
+    {
+        "author": "Alkida Balliu"
+    },
+    {
+        "author": "Allan Hartstein"
+    },
+    {
+        "author": "Allen Clement"
+    },
+    {
+        "author": "Allen Newell"
+    },
+    {
+        "author": "Alok Kumar"
+    },
+    {
+        "author": "Aloke Guha"
+    },
+    {
+        "author": "Alon Efrat"
+    },
+    {
+        "author": "Alon Itai"
+    },
+    {
+        "author": "Alon Orlitsky"
+    },
+    {
+        "author": "Alon Y. Halevy"
+    },
+    {
+        "author": "Alon Y. Levy"
+    },
+    {
+        "author": "Alpa Jain"
+    },
+    {
+        "author": "Alun D. Preece"
+    },
+    {
+        "author": "Alvin Cheung"
+    },
+    {
+        "author": "Alvin M. Despain"
+    },
+    {
+        "author": "Aman Shaikh"
+    },
+    {
+        "author": "Aman Singla"
+    },
+    {
+        "author": "Aman Sinha"
+    },
+    {
+        "author": "Ambuj K. Singh"
+    },
+    {
+        "author": "Ameet Talwalkar"
+    },
+    {
+        "author": "Ameya Velingker"
+    },
+    {
+        "author": "Amihood Amir"
+    },
+    {
+        "author": "Amin Vahdat"
+    },
+    {
+        "author": "Amir Averbuch"
+    },
+    {
+        "author": "Amir Jafari"
+    },
+    {
+        "author": "Amir Yehudayoff"
+    },
+    {
+        "author": "Amir Zandieh"
+    },
+    {
+        "author": "Amit Daniely"
+    },
+    {
+        "author": "Amit Deshpande 0001"
+    },
+    {
+        "author": "Amit P. Sheth"
+    },
+    {
+        "author": "Amitabh Chaudhary"
+    },
+    {
+        "author": "Amnon Lotem"
+    },
+    {
+        "author": "Amnon Meyers"
+    },
+    {
+        "author": "Amol Deshpande"
+    },
+    {
+        "author": "Amos Fiat"
+    },
+    {
+        "author": "Amotz Bar-Noy"
+    },
+    {
+        "author": "Amr Ahmed"
+    },
+    {
+        "author": "Amr El Abbadi"
+    },
+    {
+        "author": "Amy E. Zwarico"
+    },
+    {
+        "author": "Amy Unruh"
+    },
+    {
+        "author": "An Zhu"
+    },
+    {
+        "author": "AnHai Doan"
+    },
+    {
+        "author": "Anand Ranganathan"
+    },
+    {
+        "author": "Anand Srinivasan"
+    },
+    {
+        "author": "Ananda Theertha Suresh"
+    },
+    {
+        "author": "Ananth Grama"
+    },
+    {
+        "author": "Anastasia Ailamaki"
+    },
+    {
+        "author": "Anastasios Zouzias"
+    },
+    {
+        "author": "Anastassia Ailamaki"
+    },
+    {
+        "author": "Anat Bremler-Barr"
+    },
+    {
+        "author": "Anca Muscholl"
+    },
+    {
+        "author": "Andr Hernich"
+    },
+    {
+        "author": "Andr Nichterlein"
+    },
+    {
+        "author": "Andr Platzer"
+    },
+    {
+        "author": "Andre Scedrov"
+    },
+    {
+        "author": "Andre Wibisono"
+    },
+    {
+        "author": "Andrea C. Arpaci-Dusseau"
+    },
+    {
+        "author": "Andrea Cal"
+    },
+    {
+        "author": "Andrea Montanari"
+    },
+    {
+        "author": "Andrea Pietracaprina"
+    },
+    {
+        "author": "Andrea Pugliese 0001"
+    },
+    {
+        "author": "Andrea Turrini"
+    },
+    {
+        "author": "Andrea Vattani"
+    },
+    {
+        "author": "Andreas Haeberlen"
+    },
+    {
+        "author": "Andreas Harth"
+    },
+    {
+        "author": "Andreas Loukas"
+    },
+    {
+        "author": "Andreas Pieris"
+    },
+    {
+        "author": "Andreas Terzis"
+    },
+    {
+        "author": "Andrei A. Bulatov"
+    },
+    {
+        "author": "Andrei A. Krokhin"
+    },
+    {
+        "author": "Andrei Z. Broder"
+    },
+    {
+        "author": "Andrej Brodnik"
+    },
+    {
+        "author": "Andrej Risteski"
+    },
+    {
+        "author": "Andrew C. Myers"
+    },
+    {
+        "author": "Andrew D. Gordon"
+    },
+    {
+        "author": "Andrew Lim"
+    },
+    {
+        "author": "Andrew Selle"
+    },
+    {
+        "author": "Andrew T. Campbell"
+    },
+    {
+        "author": "Andrew Wright"
+    },
+    {
+        "author": "Andrs Z. Salamon"
+    },
+    {
+        "author": "Andrzej Cichocki"
+    },
+    {
+        "author": "Angelika Kimmig"
+    },
+    {
+        "author": "Angelika Steger"
+    },
+    {
+        "author": "Angelina Vidali"
+    },
+    {
+        "author": "Angelo Fanelli 0001"
+    },
+    {
+        "author": "Angelo Montanari"
+    },
+    {
+        "author": "Anja Feldmann"
+    },
+    {
+        "author": "Ankan Saha"
+    },
+    {
+        "author": "Ankit Agrawal"
+    },
+    {
+        "author": "Ankit Sharma 0001"
+    },
+    {
+        "author": "Ankur Gupta 0003"
+    },
+    {
+        "author": "Ankur Jain"
+    },
+    {
+        "author": "Ankur Moitra"
+    },
+    {
+        "author": "Ankur Taly"
+    },
+    {
+        "author": "Ankur Teredesai"
+    },
+    {
+        "author": "Ankush Gupta"
+    },
+    {
+        "author": "Anna Cinzia Squicciarini"
+    },
+    {
+        "author": "Anna Pagh"
+    },
+    {
+        "author": "Annamria Kovcs"
+    },
+    {
+        "author": "Anne Rogers"
+    },
+    {
+        "author": "Anni R. Bruss"
+    },
+    {
+        "author": "Anshumali Shrivastava"
+    },
+    {
+        "author": "Anthony B. O'Hare"
+    },
+    {
+        "author": "Anthony C. Klug"
+    },
+    {
+        "author": "Anthony D. Joseph"
+    },
+    {
+        "author": "Anthony D. Nguyen"
+    },
+    {
+        "author": "Anthony J. Bonner"
+    },
+    {
+        "author": "Anthony K. H. Tung"
+    },
+    {
+        "author": "Anthony Man-Cho So"
+    },
+    {
+        "author": "Anthony Tomasic"
+    },
+    {
+        "author": "Anthony Wirth"
+    },
+    {
+        "author": "Anton J. Kleywegt"
+    },
+    {
+        "author": "Anton Riabov"
+    },
+    {
+        "author": "Antonella Poggi"
+    },
+    {
+        "author": "Antonios Anagnostou"
+    },
+    {
+        "author": "Antonis C. Kakas"
+    },
+    {
+        "author": "Antonn Kucera"
+    },
+    {
+        "author": "Antony A. Faustini"
+    },
+    {
+        "author": "Antony L. Hosking"
+    },
+    {
+        "author": "Antti Ukkonen"
+    },
+    {
+        "author": "Anuj Dawar"
+    },
+    {
+        "author": "Anup Rao"
+    },
+    {
+        "author": "Anupam Datta"
+    },
+    {
+        "author": "Anupam Gupta"
+    },
+    {
+        "author": "Anupama Nandi"
+    },
+    {
+        "author": "Anurag Acharya"
+    },
+    {
+        "author": "Anwitaman Datta"
+    },
+    {
+        "author": "Aparna S. Varde"
+    },
+    {
+        "author": "April Rasala"
+    },
+    {
+        "author": "Aram Galstyan"
+    },
+    {
+        "author": "Aranyak Mehta"
+    },
+    {
+        "author": "Aravind K. Joshi"
+    },
+    {
+        "author": "Aravind Menon"
+    },
+    {
+        "author": "Aravind Srinivasan"
+    },
+    {
+        "author": "Aravindan Vijayaraghavan"
+    },
+    {
+        "author": "Ari Juels"
+    },
+    {
+        "author": "Ariel D. Procaccia"
+    },
+    {
+        "author": "Ariel Kleiner"
+    },
+    {
+        "author": "Ariel Orda"
+    },
+    {
+        "author": "Aris Filos-Ratsikas"
+    },
+    {
+        "author": "Arjmand Samuel"
+    },
+    {
+        "author": "Arjun Guha"
+    },
+    {
+        "author": "Arkadev Chattopadhyay"
+    },
+    {
+        "author": "Arkadiusz Socala"
+    },
+    {
+        "author": "Armin B. Cremers"
+    },
+    {
+        "author": "Armineh Nourbakhsh"
+    },
+    {
+        "author": "Arnd Christian Knig"
+    },
+    {
+        "author": "Arnold L. Rosenberg"
+    },
+    {
+        "author": "Arnold P. Boedihardjo"
+    },
+    {
+        "author": "Arpit Jain"
+    },
+    {
+        "author": "Arpita Ghosh"
+    },
+    {
+        "author": "Arsalan Tavakoli"
+    },
+    {
+        "author": "Arthur L. Delcher"
+    },
+    {
+        "author": "Artur Czumaj"
+    },
+    {
+        "author": "Artur Klauser"
+    },
+    {
+        "author": "Arun Iyengar"
+    },
+    {
+        "author": "Arun Raghavan"
+    },
+    {
+        "author": "Arun Sharma"
+    },
+    {
+        "author": "Arunchandar Vasan"
+    },
+    {
+        "author": "Arvin Park"
+    },
+    {
+        "author": "Arvind Gupta"
+    },
+    {
+        "author": "Arvind K. Sujeeth"
+    },
+    {
+        "author": "Arvind Thiagarajan"
+    },
+    {
+        "author": "Ashish Kundu"
+    },
+    {
+        "author": "Ashish R. Mittal"
+    },
+    {
+        "author": "Ashish Sabharwal"
+    },
+    {
+        "author": "Ashkan Norouzi-Fard"
+    },
+    {
+        "author": "Ashok K. Chandra"
+    },
+    {
+        "author": "Ashutosh Trivedi"
+    },
+    {
+        "author": "Ashwin Lall"
+    },
+    {
+        "author": "Ashwin Ram"
+    },
+    {
+        "author": "Ashwinkumar Badanidiyuru"
+    },
+    {
+        "author": "Aske Plaat"
+    },
+    {
+        "author": "Atish Das Sarma"
+    },
+    {
+        "author": "Atri Rudra"
+    },
+    {
+        "author": "Atsuhiro Takasu"
+    },
+    {
+        "author": "Attila Kondacs"
+    },
+    {
+        "author": "Aurel A. Lazar"
+    },
+    {
+        "author": "Aurko Roy"
+    },
+    {
+        "author": "Austin Donnelly"
+    },
+    {
+        "author": "Avi Mendelson"
+    },
+    {
+        "author": "Avi Pfeffer"
+    },
+    {
+        "author": "Avi Wigderson"
+    },
+    {
+        "author": "Aviad Rubinstein"
+    },
+    {
+        "author": "Avigdor Gal"
+    },
+    {
+        "author": "Avinatan Hassidim"
+    },
+    {
+        "author": "Avishai Wool"
+    },
+    {
+        "author": "Avishek Saha"
+    },
+    {
+        "author": "Aviv Zohar"
+    },
+    {
+        "author": "Avraham Shinnar"
+    },
+    {
+        "author": "Aws Albarghouthi"
+    },
+    {
+        "author": "Azadeh Farzan"
+    },
+    {
+        "author": "Azaria Paz"
+    },
+    {
+        "author": "Azriel Rosenfeld"
+    },
+    {
+        "author": "B. Aditya Prakash"
+    },
+    {
+        "author": "B. Srivathsan"
+    },
+    {
+        "author": "Babak Falsafi"
+    },
+    {
+        "author": "Baharak Rastegari"
+    },
+    {
+        "author": "Bahman Bahmani"
+    },
+    {
+        "author": "Baihua Zheng"
+    },
+    {
+        "author": "Balachander Krishnamurthy"
+    },
+    {
+        "author": "Balaji Prabhakar"
+    },
+    {
+        "author": "Balakrishna R. Iyer"
+    },
+    {
+        "author": "Balaraman Ravindran"
+    },
+    {
+        "author": "Balder ten Cate"
+    },
+    {
+        "author": "Bangsheng Tang"
+    },
+    {
+        "author": "Banu zden"
+    },
+    {
+        "author": "Bao-Gang Hu"
+    },
+    {
+        "author": "Barath Raghavan"
+    },
+    {
+        "author": "Barbara Liskov"
+    },
+    {
+        "author": "Barnaby Martin"
+    },
+    {
+        "author": "Barry K. Rosen"
+    },
+    {
+        "author": "Barry O'Sullivan"
+    },
+    {
+        "author": "Bart de Keijzer"
+    },
+    {
+        "author": "Baruch Awerbuch"
+    },
+    {
+        "author": "Baskar Sridharan"
+    },
+    {
+        "author": "Batya Kenig"
+    },
+    {
+        "author": "Baudouin Le Charlier"
+    },
+    {
+        "author": "Bee-Chung Chen"
+    },
+    {
+        "author": "Behnam Robatmili"
+    },
+    {
+        "author": "Behzad Golshan"
+    },
+    {
+        "author": "Ben Kao"
+    },
+    {
+        "author": "Ben Liblit"
+    },
+    {
+        "author": "Ben Recht"
+    },
+    {
+        "author": "Ben Wegbreit"
+    },
+    {
+        "author": "Beng Chin Ooi"
+    },
+    {
+        "author": "Benjamin C. M. Fung"
+    },
+    {
+        "author": "Benjamin G. Zorn"
+    },
+    {
+        "author": "Benjamin Lubin"
+    },
+    {
+        "author": "Benjamin M. Marlin"
+    },
+    {
+        "author": "Benjamin Moseley"
+    },
+    {
+        "author": "Benjamin Plaut"
+    },
+    {
+        "author": "Benjamin Raichel"
+    },
+    {
+        "author": "Benjamin Schlegel"
+    },
+    {
+        "author": "Benjamin Taskar"
+    },
+    {
+        "author": "Benny Kimelfeld"
+    },
+    {
+        "author": "Bernard Lang"
+    },
+    {
+        "author": "Bernard Wong"
+    },
+    {
+        "author": "Bernd Grtner"
+    },
+    {
+        "author": "Bernd Radig"
+    },
+    {
+        "author": "Bernd Walter"
+    },
+    {
+        "author": "Bernhard Steffen"
+    },
+    {
+        "author": "Bernie J. Lofaso"
+    },
+    {
+        "author": "Berthold Vcking"
+    },
+    {
+        "author": "Bhaskar Ghosh"
+    },
+    {
+        "author": "Bhaskara Marthi"
+    },
+    {
+        "author": "Bhaskaran Raman"
+    },
+    {
+        "author": "Bhavani M. Thuraisingham"
+    },
+    {
+        "author": "Bhupesh Chawda"
+    },
+    {
+        "author": "Biao Qin"
+    },
+    {
+        "author": "Bill Howe"
+    },
+    {
+        "author": "Bin Chen"
+    },
+    {
+        "author": "Bin Cui 0001"
+    },
+    {
+        "author": "Bin Dong"
+    },
+    {
+        "author": "Bin Fan"
+    },
+    {
+        "author": "Bin Fu"
+    },
+    {
+        "author": "Bin He"
+    },
+    {
+        "author": "Bin Liu"
+    },
+    {
+        "author": "Bin Wang 0015"
+    },
+    {
+        "author": "Bin Wei"
+    },
+    {
+        "author": "Bin Yang"
+    },
+    {
+        "author": "Bin Yao 0002"
+    },
+    {
+        "author": "Binbin Chen"
+    },
+    {
+        "author": "Bing Liu 0001"
+    },
+    {
+        "author": "Bing Tian Dai"
+    },
+    {
+        "author": "Bing Xu"
+    },
+    {
+        "author": "Bipin Rajendran"
+    },
+    {
+        "author": "Bishan Yang"
+    },
+    {
+        "author": "Bistra Dilkina"
+    },
+    {
+        "author": "Blent Yener"
+    },
+    {
+        "author": "Bo Chen"
+    },
+    {
+        "author": "Bo Li"
+    },
+    {
+        "author": "Bo Long"
+    },
+    {
+        "author": "Bo Luo"
+    },
+    {
+        "author": "Bo Tang"
+    },
+    {
+        "author": "Bo Tian"
+    },
+    {
+        "author": "Bo Waggoner"
+    },
+    {
+        "author": "Bo Wang"
+    },
+    {
+        "author": "Bo Yang"
+    },
+    {
+        "author": "Bo Zong"
+    },
+    {
+        "author": "Boaz Barak"
+    },
+    {
+        "author": "Bogdan Alexe"
+    },
+    {
+        "author": "Bogdan Warinschi"
+    },
+    {
+        "author": "Bojun Huang"
+    },
+    {
+        "author": "Bolin Ding"
+    },
+    {
+        "author": "Bonnie Berger"
+    },
+    {
+        "author": "Boon Thau Loo"
+    },
+    {
+        "author": "Bor-Yuh Evan Chang"
+    },
+    {
+        "author": "Boris Aronov"
+    },
+    {
+        "author": "Boris Chidlovskii"
+    },
+    {
+        "author": "Boris Motik"
+    },
+    {
+        "author": "Borja Balle"
+    },
+    {
+        "author": "Boualem Benatallah"
+    },
+    {
+        "author": "Boulos Harb"
+    },
+    {
+        "author": "Bowen Du"
+    },
+    {
+        "author": "Brad Karp"
+    },
+    {
+        "author": "Braden Hancock"
+    },
+    {
+        "author": "Bradley C. Kuszmaul"
+    },
+    {
+        "author": "Brandon Reagen"
+    },
+    {
+        "author": "Brendan Juba"
+    },
+    {
+        "author": "Brent Bryan"
+    },
+    {
+        "author": "Brent Heeringa"
+    },
+    {
+        "author": "Brian Babcock"
+    },
+    {
+        "author": "Brian Bullins"
+    },
+    {
+        "author": "Brian Eriksson"
+    },
+    {
+        "author": "Brian Neil Levine"
+    },
+    {
+        "author": "Brian Phillips"
+    },
+    {
+        "author": "Brighten Godfrey"
+    },
+    {
+        "author": "Bruce Leban"
+    },
+    {
+        "author": "Bruce R. Schatz"
+    },
+    {
+        "author": "Bruno Zanuttini"
+    },
+    {
+        "author": "Bryan Smith"
+    },
+    {
+        "author": "Butler W. Lampson"
+    },
+    {
+        "author": "Byron Dom"
+    },
+    {
+        "author": "Byron J. Gao"
+    },
+    {
+        "author": "C. A. R. Hoare"
+    },
+    {
+        "author": "C. C. Chang"
+    },
+    {
+        "author": "C. H. Chen"
+    },
+    {
+        "author": "C. Lee Giles"
+    },
+    {
+        "author": "C. R. Ramakrishnan"
+    },
+    {
+        "author": "C. Raymond Perrault"
+    },
+    {
+        "author": "C. Seshadhri"
+    },
+    {
+        "author": "C. Thach Nguyen"
+    },
+    {
+        "author": "C. V. Ramamoorthy"
+    },
+    {
+        "author": "C.-H. Luke Ong"
+    },
+    {
+        "author": "Cam-Tu Nguyen"
+    },
+    {
+        "author": "Cameron Musco"
+    },
+    {
+        "author": "Camil Demetrescu"
+    },
+    {
+        "author": "Can Wang 0004"
+    },
+    {
+        "author": "Carl A. Gunter"
+    },
+    {
+        "author": "Carl Hauser"
+    },
+    {
+        "author": "Carla E. Brodley"
+    },
+    {
+        "author": "Carla P. Gomes"
+    },
+    {
+        "author": "Carlo Montangero"
+    },
+    {
+        "author": "Carlos Guestrin"
+    },
+    {
+        "author": "Carlotta Domeniconi"
+    },
+    {
+        "author": "Carmine Ventre"
+    },
+    {
+        "author": "Carol A. Broverman"
+    },
+    {
+        "author": "Carola Wenk"
+    },
+    {
+        "author": "Carolina Ruiz"
+    },
+    {
+        "author": "Carolyn L. Talcott"
+    },
+    {
+        "author": "Carsten Moldenhauer"
+    },
+    {
+        "author": "Catriel Beeri"
+    },
+    {
+        "author": "Ce Zhang"
+    },
+    {
+        "author": "Cecilia Magdalena Procopiuc"
+    },
+    {
+        "author": "Cecilia R. Aragon"
+    },
+    {
+        "author": "Celestine Dnner"
+    },
+    {
+        "author": "Chandra Chekuri"
+    },
+    {
+        "author": "Chandra M. R. Kintala"
+    },
+    {
+        "author": "Chang Zhou"
+    },
+    {
+        "author": "Chang-Tien Lu"
+    },
+    {
+        "author": "Changhyun Lee"
+    },
+    {
+        "author": "Changkyu Kim"
+    },
+    {
+        "author": "Chanik Park"
+    },
+    {
+        "author": "Chao Chen"
+    },
+    {
+        "author": "Chao Li"
+    },
+    {
+        "author": "Chao Wang"
+    },
+    {
+        "author": "Chao Xu 0006"
+    },
+    {
+        "author": "Chao Zhang"
+    },
+    {
+        "author": "Chao-Kai Chiang"
+    },
+    {
+        "author": "Chaofeng Sha"
+    },
+    {
+        "author": "Chaokun Wang"
+    },
+    {
+        "author": "Chaouki T. Abdallah"
+    },
+    {
+        "author": "Charles A. Sutton"
+    },
+    {
+        "author": "Charles D. Coleman"
+    },
+    {
+        "author": "Charles E. Leiserson"
+    },
+    {
+        "author": "Charles Elkan"
+    },
+    {
+        "author": "Charles Forgy"
+    },
+    {
+        "author": "Charles Kellogg"
+    },
+    {
+        "author": "Charles Lefurgy"
+    },
+    {
+        "author": "Charles N. Fischer"
+    },
+    {
+        "author": "Charles Paperman"
+    },
+    {
+        "author": "Charles R. Dyer"
+    },
+    {
+        "author": "Charu C. Aggarwal"
+    },
+    {
+        "author": "Chee-Keng Yap"
+    },
+    {
+        "author": "Chen Avin"
+    },
+    {
+        "author": "Chen Li"
+    },
+    {
+        "author": "Chen Li 0001"
+    },
+    {
+        "author": "Chen Liang"
+    },
+    {
+        "author": "Chen Lin"
+    },
+    {
+        "author": "Chen Liu"
+    },
+    {
+        "author": "Chen Sun"
+    },
+    {
+        "author": "Chen Wang"
+    },
+    {
+        "author": "Chen Xu"
+    },
+    {
+        "author": "Chen Zhang"
+    },
+    {
+        "author": "Cheng Chen"
+    },
+    {
+        "author": "Cheng Luo"
+    },
+    {
+        "author": "Cheng Sheng 0001"
+    },
+    {
+        "author": "Cheng Wang"
+    },
+    {
+        "author": "Cheng Yang"
+    },
+    {
+        "author": "ChengXiang Zhai"
+    },
+    {
+        "author": "Chengcheng Xu"
+    },
+    {
+        "author": "Chenglong Wang"
+    },
+    {
+        "author": "Chengqi Zhang"
+    },
+    {
+        "author": "Chengxiang Zhai"
+    },
+    {
+        "author": "Chengyu Lin"
+    },
+    {
+        "author": "Chenhao Xie"
+    },
+    {
+        "author": "Chi Wang 0001"
+    },
+    {
+        "author": "Chi-Jen Lu"
+    },
+    {
+        "author": "Chi-Yuan Lo"
+    },
+    {
+        "author": "Chiaki Sakama"
+    },
+    {
+        "author": "Chih-Wei Hsu"
+    },
+    {
+        "author": "Chihao Zhang"
+    },
+    {
+        "author": "Chin-Yew Lin"
+    },
+    {
+        "author": "Ching-Tien Ho"
+    },
+    {
+        "author": "Ching-Yung Lin"
+    },
+    {
+        "author": "Chita R. Das"
+    },
+    {
+        "author": "Chitra Venkatramani"
+    },
+    {
+        "author": "Chitta Baral"
+    },
+    {
+        "author": "Chong Peng"
+    },
+    {
+        "author": "Chris Gniady"
+    },
+    {
+        "author": "Chris H. Q. Ding"
+    },
+    {
+        "author": "Chris Nyberg"
+    },
+    {
+        "author": "Chris Olston"
+    },
+    {
+        "author": "Chris Stolte"
+    },
+    {
+        "author": "Christian Borgs"
+    },
+    {
+        "author": "Christian Komusiewicz"
+    },
+    {
+        "author": "Christian S. Collberg"
+    },
+    {
+        "author": "Christine Chung"
+    },
+    {
+        "author": "Christine W. Chan"
+    },
+    {
+        "author": "Christof Lding"
+    },
+    {
+        "author": "Christoph Berkholz"
+    },
+    {
+        "author": "Christoph von Praun"
+    },
+    {
+        "author": "Christophe G. Giraud-Carrier"
+    },
+    {
+        "author": "Christophe Gravier"
+    },
+    {
+        "author": "Christopher B. Colohan"
+    },
+    {
+        "author": "Christopher Leckie"
+    },
+    {
+        "author": "Christopher Meek"
+    },
+    {
+        "author": "Christopher Musco"
+    },
+    {
+        "author": "Christopher Olston"
+    },
+    {
+        "author": "Christos Boutsidis"
+    },
+    {
+        "author": "Christos Tzamos"
+    },
+    {
+        "author": "Chuan-lin Wu"
+    },
+    {
+        "author": "Chunbin Lin"
+    },
+    {
+        "author": "Chunhua Tian"
+    },
+    {
+        "author": "Chunming Qiao"
+    },
+    {
+        "author": "Chunqiang Tang"
+    },
+    {
+        "author": "Chunxiao Xing"
+    },
+    {
+        "author": "Chunyan Miao"
+    },
+    {
+        "author": "Claire Kenyon"
+    },
+    {
+        "author": "Clarence A. Ellis"
+    },
+    {
+        "author": "Claude Frasson"
+    },
+    {
+        "author": "Claude Kirchner"
+    },
+    {
+        "author": "Claudio Bettini"
+    },
+    {
+        "author": "Claudio Gentile"
+    },
+    {
+        "author": "Claudio Gutirrez 0001"
+    },
+    {
+        "author": "Clemens Kupke"
+    },
+    {
+        "author": "Cliff Stein"
+    },
+    {
+        "author": "Clifford A. Lynch"
+    },
+    {
+        "author": "Clment L. Canonne"
+    },
+    {
+        "author": "Clyde P. Kruskal"
+    },
+    {
+        "author": "Colin Sandon"
+    },
+    {
+        "author": "Cong Ding"
+    },
+    {
+        "author": "Cong Wang"
+    },
+    {
+        "author": "Cong Xu"
+    },
+    {
+        "author": "Cong Yu 0001"
+    },
+    {
+        "author": "Constantinos Daskalakis"
+    },
+    {
+        "author": "Cosmin E. Oancea"
+    },
+    {
+        "author": "Craig A. Knoblock"
+    },
+    {
+        "author": "Craig A. Tovey"
+    },
+    {
+        "author": "Craig Peterson"
+    },
+    {
+        "author": "Cristian Estan"
+    },
+    {
+        "author": "Cristian Molinaro"
+    },
+    {
+        "author": "Cristiana Amza"
+    },
+    {
+        "author": "Cristopher Moore"
+    },
+    {
+        "author": "Csaba D. Tth"
+    },
+    {
+        "author": "Csar Fernndez"
+    },
+    {
+        "author": "Cynthia A. Phillips"
+    },
+    {
+        "author": "Cyrus Rashtchian"
+    },
+    {
+        "author": "D. G. Shin"
+    },
+    {
+        "author": "D. Lee"
+    },
+    {
+        "author": "D. Richard Hipp"
+    },
+    {
+        "author": "D. Sivakumar"
+    },
+    {
+        "author": "D. T. Lee"
+    },
+    {
+        "author": "Dacheng Tao"
+    },
+    {
+        "author": "Daehoon Kim"
+    },
+    {
+        "author": "Daehyun Kim"
+    },
+    {
+        "author": "Dahlia Malkhi"
+    },
+    {
+        "author": "Daisy Zhe Wang"
+    },
+    {
+        "author": "Dalit Naor"
+    },
+    {
+        "author": "Damian Niwinski"
+    },
+    {
+        "author": "Damian Straszak"
+    },
+    {
+        "author": "Damien Sereni"
+    },
+    {
+        "author": "Dan E. Willard"
+    },
+    {
+        "author": "Dan Feldman"
+    },
+    {
+        "author": "Dan Garber"
+    },
+    {
+        "author": "Dan Geiger"
+    },
+    {
+        "author": "Dan Grossman"
+    },
+    {
+        "author": "Dan I. Moldovan"
+    },
+    {
+        "author": "Dan Kogan"
+    },
+    {
+        "author": "Dan Olteanu"
+    },
+    {
+        "author": "Dan Rubenstein"
+    },
+    {
+        "author": "Dan W. Hammerstrom"
+    },
+    {
+        "author": "Dan Wang"
+    },
+    {
+        "author": "Dan Zhang"
+    },
+    {
+        "author": "Dana Fisman"
+    },
+    {
+        "author": "Dana Ron"
+    },
+    {
+        "author": "Daniel A. Spielman"
+    },
+    {
+        "author": "Daniel B. Schwartz"
+    },
+    {
+        "author": "Daniel Barbar"
+    },
+    {
+        "author": "Daniel Brand"
+    },
+    {
+        "author": "Daniel Bryce"
+    },
+    {
+        "author": "Daniel Dahlmeier"
+    },
+    {
+        "author": "Daniel Davies"
+    },
+    {
+        "author": "Daniel Fink"
+    },
+    {
+        "author": "Daniel Golovin"
+    },
+    {
+        "author": "Daniel H. Fishman"
+    },
+    {
+        "author": "Daniel Huang"
+    },
+    {
+        "author": "Daniel J. Lehmann"
+    },
+    {
+        "author": "Daniel Keren"
+    },
+    {
+        "author": "Daniel Kifer"
+    },
+    {
+        "author": "Daniel Kuhn"
+    },
+    {
+        "author": "Daniel L. Silver"
+    },
+    {
+        "author": "Daniel Lemire"
+    },
+    {
+        "author": "Daniel Lokshtanov"
+    },
+    {
+        "author": "Daniel M. Dias"
+    },
+    {
+        "author": "Daniel M. Roy 0001"
+    },
+    {
+        "author": "Daniel M. Yellin"
+    },
+    {
+        "author": "Daniel Moss"
+    },
+    {
+        "author": "Daniel Oblinger"
+    },
+    {
+        "author": "Daniel P. Huttenlocher"
+    },
+    {
+        "author": "Daniel P. Miranker"
+    },
+    {
+        "author": "Daniel P. Siewiorek"
+    },
+    {
+        "author": "Daniel R. Dooly"
+    },
+    {
+        "author": "Daniel R. Simon"
+    },
+    {
+        "author": "Daniel Reichman 0001"
+    },
+    {
+        "author": "Daniel Ricketts"
+    },
+    {
+        "author": "Daniel Ritchie"
+    },
+    {
+        "author": "Daniel S. Weld"
+    },
+    {
+        "author": "Daniel Shawcross Wilkerson"
+    },
+    {
+        "author": "Daniel Snchez 0003"
+    },
+    {
+        "author": "Daniel Stefankovic"
+    },
+    {
+        "author": "Daniel Ting"
+    },
+    {
+        "author": "Daniel Vaz"
+    },
+    {
+        "author": "Daniel Weise"
+    },
+    {
+        "author": "Daniel Zink"
+    },
+    {
+        "author": "Daniela Florescu"
+    },
+    {
+        "author": "Daniele Nardi"
+    },
+    {
+        "author": "Daniele Venzano"
+    },
+    {
+        "author": "Danile Gardy"
+    },
+    {
+        "author": "Danny Dolev"
+    },
+    {
+        "author": "Danny Hermelin"
+    },
+    {
+        "author": "Danny Segev"
+    },
+    {
+        "author": "Danupon Nanongkai"
+    },
+    {
+        "author": "Danyel Fisher"
+    },
+    {
+        "author": "Darrell D. E. Long"
+    },
+    {
+        "author": "Darrell Hoy"
+    },
+    {
+        "author": "Darrell Whitley"
+    },
+    {
+        "author": "David A. Bell"
+    },
+    {
+        "author": "David A. Brant"
+    },
+    {
+        "author": "David A. Maltz"
+    },
+    {
+        "author": "David A. Plaisted"
+    },
+    {
+        "author": "David A. Wood"
+    },
+    {
+        "author": "David Anderson"
+    },
+    {
+        "author": "David Applegate"
+    },
+    {
+        "author": "David B. Benson"
+    },
+    {
+        "author": "David B. Lomet"
+    },
+    {
+        "author": "David B. Shmoys"
+    },
+    {
+        "author": "David Brill"
+    },
+    {
+        "author": "David Cohen"
+    },
+    {
+        "author": "David D. Lewis"
+    },
+    {
+        "author": "David Dyer"
+    },
+    {
+        "author": "David E. Culler"
+    },
+    {
+        "author": "David E. Gay"
+    },
+    {
+        "author": "David E. Irwin"
+    },
+    {
+        "author": "David Elliot Shaw"
+    },
+    {
+        "author": "David F. Bacon"
+    },
+    {
+        "author": "David G. Kirkpatrick"
+    },
+    {
+        "author": "David Gamarnik"
+    },
+    {
+        "author": "David Garca-Soriano"
+    },
+    {
+        "author": "David Gelernter"
+    },
+    {
+        "author": "David H. D. Warren"
+    },
+    {
+        "author": "David Harel"
+    },
+    {
+        "author": "David Haussler"
+    },
+    {
+        "author": "David Hung-Chang Du"
+    },
+    {
+        "author": "David J. Burr"
+    },
+    {
+        "author": "David J. DeWitt"
+    },
+    {
+        "author": "David K. Gifford"
+    },
+    {
+        "author": "David K. Jefferson"
+    },
+    {
+        "author": "David Kempe 0001"
+    },
+    {
+        "author": "David Kirk"
+    },
+    {
+        "author": "David Klappholz"
+    },
+    {
+        "author": "David L. Chen"
+    },
+    {
+        "author": "David L. Donoho"
+    },
+    {
+        "author": "David Liben-Nowell"
+    },
+    {
+        "author": "David M. Mount"
+    },
+    {
+        "author": "David Maier 0001"
+    },
+    {
+        "author": "David Miller"
+    },
+    {
+        "author": "David Nagle"
+    },
+    {
+        "author": "David P. Helmbold"
+    },
+    {
+        "author": "David R. Kaeli"
+    },
+    {
+        "author": "David R. Musicant"
+    },
+    {
+        "author": "David R. O'Hallaron"
+    },
+    {
+        "author": "David S. Rosenblum"
+    },
+    {
+        "author": "David Scot Taylor"
+    },
+    {
+        "author": "David Snchez 0001"
+    },
+    {
+        "author": "David Toman"
+    },
+    {
+        "author": "David W. Embley"
+    },
+    {
+        "author": "David W. Shipman"
+    },
+    {
+        "author": "David Wai-Lok Cheung"
+    },
+    {
+        "author": "David Wajc"
+    },
+    {
+        "author": "David Wang 0003"
+    },
+    {
+        "author": "David Zhang"
+    },
+    {
+        "author": "Dawn Song"
+    },
+    {
+        "author": "Dawson R. Engler"
+    },
+    {
+        "author": "Daxin Jiang"
+    },
+    {
+        "author": "Dean Jacobs"
+    },
+    {
+        "author": "Dean P. Foster"
+    },
+    {
+        "author": "Debabrata Dash"
+    },
+    {
+        "author": "Debora Donato"
+    },
+    {
+        "author": "Deborah Estrin"
+    },
+    {
+        "author": "Deborah L. McGuinness"
+    },
+    {
+        "author": "Deep Ganguli"
+    },
+    {
+        "author": "Deepak Goyal"
+    },
+    {
+        "author": "Deepak Kapur"
+    },
+    {
+        "author": "Deepak P"
+    },
+    {
+        "author": "Deeparnab Chakrabarty"
+    },
+    {
+        "author": "Deepinder P. Sidhu"
+    },
+    {
+        "author": "Dekang Lin"
+    },
+    {
+        "author": "Deng Cai"
+    },
+    {
+        "author": "Denis Mindolin"
+    },
+    {
+        "author": "Denise Draper"
+    },
+    {
+        "author": "Dennis F. Kibler"
+    },
+    {
+        "author": "Dennis McLeod"
+    },
+    {
+        "author": "Dennis Olivetti"
+    },
+    {
+        "author": "Depeng Jin"
+    },
+    {
+        "author": "Derek Williams"
+    },
+    {
+        "author": "Derick Wood"
+    },
+    {
+        "author": "Devdatt P. Dubhashi"
+    },
+    {
+        "author": "Dexter Kozen"
+    },
+    {
+        "author": "Dhamir N. Mannai"
+    },
+    {
+        "author": "Dhaval Patel"
+    },
+    {
+        "author": "Dhiraj Joshi"
+    },
+    {
+        "author": "Dhruba Borthakur"
+    },
+    {
+        "author": "Di Chen"
+    },
+    {
+        "author": "Di Xie"
+    },
+    {
+        "author": "Diego Calvanese"
+    },
+    {
+        "author": "Dijun Luo"
+    },
+    {
+        "author": "Dileep Kini"
+    },
+    {
+        "author": "Dilys Thomas"
+    },
+    {
+        "author": "Dimitar Dimitrov"
+    },
+    {
+        "author": "Dimitrios Gunopulos"
+    },
+    {
+        "author": "Dimitrios M. Thilikos"
+    },
+    {
+        "author": "Dimitrios Vytiniotis"
+    },
+    {
+        "author": "Dimitris Bertsimas"
+    },
+    {
+        "author": "Dimitris N. Metaxas"
+    },
+    {
+        "author": "Dimitris Papadias"
+    },
+    {
+        "author": "Dimitris Paparas"
+    },
+    {
+        "author": "Dimitris Plexousakis"
+    },
+    {
+        "author": "Dina Q. Goldin"
+    },
+    {
+        "author": "Dinesh Manocha"
+    },
+    {
+        "author": "Ding Liu"
+    },
+    {
+        "author": "Dingyi Fang"
+    },
+    {
+        "author": "Diodato Ferraioli"
+    },
+    {
+        "author": "Diptikalyan Saha"
+    },
+    {
+        "author": "Dirk Pattinson"
+    },
+    {
+        "author": "Dirk Van Gucht"
+    },
+    {
+        "author": "Dixin Luo"
+    },
+    {
+        "author": "Djordje Jevdjic"
+    },
+    {
+        "author": "Dmitri Loguinov"
+    },
+    {
+        "author": "Dmitriy Zheleznyakov"
+    },
+    {
+        "author": "Domagoj Vrgoc"
+    },
+    {
+        "author": "Domenico Ferrari"
+    },
+    {
+        "author": "Domenico Lembo"
+    },
+    {
+        "author": "Domenico Sacc"
+    },
+    {
+        "author": "Dominik Wojtczak"
+    },
+    {
+        "author": "Don Towsley"
+    },
+    {
+        "author": "Donald A. Varvel"
+    },
+    {
+        "author": "Donald B. Johnson"
+    },
+    {
+        "author": "Donald Cohen"
+    },
+    {
+        "author": "Donald F. Towsley"
+    },
+    {
+        "author": "Donald Kossmann"
+    },
+    {
+        "author": "Donald M. Chiarulli"
+    },
+    {
+        "author": "Donald W. Loveland"
+    },
+    {
+        "author": "Dong Li"
+    },
+    {
+        "author": "Dong Wang"
+    },
+    {
+        "author": "Dong Xiang"
+    },
+    {
+        "author": "Dong Zhou"
+    },
+    {
+        "author": "Dongdong Ge"
+    },
+    {
+        "author": "Dongmei Zhang"
+    },
+    {
+        "author": "Dongsheng Li"
+    },
+    {
+        "author": "Dongwon Lee 0001"
+    },
+    {
+        "author": "Dongxiang Zhang"
+    },
+    {
+        "author": "Dongyan Zhao"
+    },
+    {
+        "author": "Doron Rotem"
+    },
+    {
+        "author": "Dotan Di Castro"
+    },
+    {
+        "author": "Dou Shen"
+    },
+    {
+        "author": "Doug Burger"
+    },
+    {
+        "author": "Doug Ierardi"
+    },
+    {
+        "author": "Douglas B. Lenat"
+    },
+    {
+        "author": "Douglas B. Terry"
+    },
+    {
+        "author": "Douglas C. Schmidt"
+    },
+    {
+        "author": "Douglas Comer"
+    },
+    {
+        "author": "Douglas R. Smith"
+    },
+    {
+        "author": "Douglas Stott Parker Jr."
+    },
+    {
+        "author": "Dov M. Gabbay"
+    },
+    {
+        "author": "Dror Weitz"
+    },
+    {
+        "author": "Duen Horng Chau"
+    },
+    {
+        "author": "Dunja Mladenic"
+    },
+    {
+        "author": "Duong Chi Thang"
+    },
+    {
+        "author": "Dvir Falik"
+    },
+    {
+        "author": "Eamonn J. Keogh"
+    },
+    {
+        "author": "Earl D. Sacerdoti"
+    },
+    {
+        "author": "Edith Elkind"
+    },
+    {
+        "author": "Edith Hemaspaandra"
+    },
+    {
+        "author": "Edith Schonberg"
+    },
+    {
+        "author": "Edmund M. Clarke"
+    },
+    {
+        "author": "Edmund Wong"
+    },
+    {
+        "author": "Edoardo M. Airoldi"
+    },
+    {
+        "author": "Eduard Eiben"
+    },
+    {
+        "author": "Eduardo B. Fernndez"
+    },
+    {
+        "author": "Eduardo D. Sontag"
+    },
+    {
+        "author": "Eduardo Sany Laber"
+    },
+    {
+        "author": "Edward D. Lazowska"
+    },
+    {
+        "author": "Edward G. Coffman Jr."
+    },
+    {
+        "author": "Edward Gan"
+    },
+    {
+        "author": "Edward K. Blum"
+    },
+    {
+        "author": "Edward L. Robertson"
+    },
+    {
+        "author": "Edward Rothberg"
+    },
+    {
+        "author": "Edward S. Davidson"
+    },
+    {
+        "author": "Edward Sciore"
+    },
+    {
+        "author": "Edwin P. D. Pednault"
+    },
+    {
+        "author": "Ee-Peng Lim"
+    },
+    {
+        "author": "Efthymia Tsamoura"
+    },
+    {
+        "author": "Egor V. Kostylev"
+    },
+    {
+        "author": "Ehsan Emamjomeh-Zadeh"
+    },
+    {
+        "author": "Ehud Gudes"
+    },
+    {
+        "author": "Ehud Kalai"
+    },
+    {
+        "author": "Ehud Rivlin"
+    },
+    {
+        "author": "Ehud Y. Shapiro"
+    },
+    {
+        "author": "Einoshin Suzuki"
+    },
+    {
+        "author": "Eitan Altman"
+    },
+    {
+        "author": "Elad Hazan"
+    },
+    {
+        "author": "Elad Verbin"
+    },
+    {
+        "author": "Elad Yom-Tov"
+    },
+    {
+        "author": "Elan Pavlov"
+    },
+    {
+        "author": "Elena Grigorescu"
+    },
+    {
+        "author": "Eli Ben-Sasson"
+    },
+    {
+        "author": "Eli Shamir 0001"
+    },
+    {
+        "author": "Elias Koutsoupias"
+    },
+    {
+        "author": "Eliezer L. Lozinskii"
+    },
+    {
+        "author": "Elizabeth A. M. Shriver"
+    },
+    {
+        "author": "Eljas Soisalon-Soininen"
+    },
+    {
+        "author": "Elke A. Rundensteiner"
+    },
+    {
+        "author": "Ellen Vitercik"
+    },
+    {
+        "author": "Elliot Anshelevich"
+    },
+    {
+        "author": "Elliot K. Kolodner"
+    },
+    {
+        "author": "Elmar Langetepe"
+    },
+    {
+        "author": "Els Laenens"
+    },
+    {
+        "author": "Emanuel Sallinger"
+    },
+    {
+        "author": "Emmanuel Abbe"
+    },
+    {
+        "author": "Emmanuel Filiot"
+    },
+    {
+        "author": "Emmanuel J. Cands"
+    },
+    {
+        "author": "Emmanuel Mller"
+    },
+    {
+        "author": "Emmett Witchel"
+    },
+    {
+        "author": "Enhong Chen"
+    },
+    {
+        "author": "Enrico Franconi"
+    },
+    {
+        "author": "Enrico Nardelli"
+    },
+    {
+        "author": "Enrique H. Ruspini"
+    },
+    {
+        "author": "Eran Segal"
+    },
+    {
+        "author": "Eran Yahav"
+    },
+    {
+        "author": "Erez Petrank"
+    },
+    {
+        "author": "Eric A. Domeshek"
+    },
+    {
+        "author": "Eric Allender"
+    },
+    {
+        "author": "Eric Balkanski"
+    },
+    {
+        "author": "Eric C. Cooper"
+    },
+    {
+        "author": "Eric Liang"
+    },
+    {
+        "author": "Eric Mays"
+    },
+    {
+        "author": "Eric P. Xing"
+    },
+    {
+        "author": "Eric Price"
+    },
+    {
+        "author": "Eric Torng"
+    },
+    {
+        "author": "Eric Wang"
+    },
+    {
+        "author": "Erich Grdel"
+    },
+    {
+        "author": "Erik Sandewall"
+    },
+    {
+        "author": "Erik Vee"
+    },
+    {
+        "author": "Erik Winfree"
+    },
+    {
+        "author": "Errol L. Lloyd"
+    },
+    {
+        "author": "Esen A. Ozkarahan"
+    },
+    {
+        "author": "Esko Ukkonen"
+    },
+    {
+        "author": "Ethan L. Miller"
+    },
+    {
+        "author": "Eugene M. Luks"
+    },
+    {
+        "author": "Eugene Pinsky"
+    },
+    {
+        "author": "Euiwoong Lee"
+    },
+    {
+        "author": "Eun Jung Kim 0002"
+    },
+    {
+        "author": "Eun Yong Kang"
+    },
+    {
+        "author": "Evan W. Steeg"
+    },
+    {
+        "author": "Evangelos E. Milios"
+    },
+    {
+        "author": "Evangelos Kanoulas"
+    },
+    {
+        "author": "Evangelos Simoudis"
+    },
+    {
+        "author": "Evdokia Nikolova"
+    },
+    {
+        "author": "Eve M. Schooler"
+    },
+    {
+        "author": "Evgeny Dantsin"
+    },
+    {
+        "author": "Evgeny Kharlamov"
+    },
+    {
+        "author": "Evripidis Bampis"
+    },
+    {
+        "author": "Eyal Amir"
+    },
+    {
+        "author": "Eyal Even-Dar"
+    },
+    {
+        "author": "F. Bruce Shepherd"
+    },
+    {
+        "author": "F. Kenneth Zadeck"
+    },
+    {
+        "author": "Fabian M. Suchanek"
+    },
+    {
+        "author": "Fabio Papacchini"
+    },
+    {
+        "author": "Fabio Riccardi"
+    },
+    {
+        "author": "Fabio Vandin"
+    },
+    {
+        "author": "Fabrizio Angiulli"
+    },
+    {
+        "author": "Fabrizio Luccio"
+    },
+    {
+        "author": "Facundo Mmoli"
+    },
+    {
+        "author": "Fahiem Bacchus"
+    },
+    {
+        "author": "Faissal M. Sleiman"
+    },
+    {
+        "author": "Fan Deng"
+    },
+    {
+        "author": "Fan Wei"
+    },
+    {
+        "author": "Fan Wu 0006"
+    },
+    {
+        "author": "Fan Zhang"
+    },
+    {
+        "author": "Fang Chen"
+    },
+    {
+        "author": "Fang Wei 0001"
+    },
+    {
+        "author": "Fang-Yi Yu"
+    },
+    {
+        "author": "Fanwei Zhu"
+    },
+    {
+        "author": "Fariba Sadri"
+    },
+    {
+        "author": "Farnam Jahanian"
+    },
+    {
+        "author": "Farokh B. Bastani"
+    },
+    {
+        "author": "Fatma Ozcan"
+    },
+    {
+        "author": "Fedor V. Fomin"
+    },
+    {
+        "author": "Fei Guo"
+    },
+    {
+        "author": "Fei Li"
+    },
+    {
+        "author": "Fei Sha"
+    },
+    {
+        "author": "Fei Wang"
+    },
+    {
+        "author": "Fei Wu 0003"
+    },
+    {
+        "author": "Fei Xu"
+    },
+    {
+        "author": "Feida Zhu"
+    },
+    {
+        "author": "Feifei Li 0001"
+    },
+    {
+        "author": "Feiping Nie"
+    },
+    {
+        "author": "Felix A. Fischer"
+    },
+    {
+        "author": "Felix Halim"
+    },
+    {
+        "author": "Felix Klaedtke"
+    },
+    {
+        "author": "Felix Schrmann"
+    },
+    {
+        "author": "Felix Wu"
+    },
+    {
+        "author": "Feng Cao"
+    },
+    {
+        "author": "Feng Liu"
+    },
+    {
+        "author": "Feng Niu"
+    },
+    {
+        "author": "Feng Pan"
+    },
+    {
+        "author": "Feng Qian"
+    },
+    {
+        "author": "Feng Tian"
+    },
+    {
+        "author": "Feng Yu"
+    },
+    {
+        "author": "Feng Zhao"
+    },
+    {
+        "author": "Feng Zhao 0001"
+    },
+    {
+        "author": "Feng Zhu"
+    },
+    {
+        "author": "Ferdinando Cicalese"
+    },
+    {
+        "author": "Fereidoon Sadri"
+    },
+    {
+        "author": "Fernanda B. Vigas"
+    },
+    {
+        "author": "Fernando C. N. Pereira"
+    },
+    {
+        "author": "Fernando Magno Quinto Pereira"
+    },
+    {
+        "author": "Filippo Furfaro"
+    },
+    {
+        "author": "Fillia Makedon"
+    },
+    {
+        "author": "Flaviu Cristian"
+    },
+    {
+        "author": "Florent Krzakala"
+    },
+    {
+        "author": "Florin Ciucu"
+    },
+    {
+        "author": "Florin Constantin"
+    },
+    {
+        "author": "Foto N. Afrati"
+    },
+    {
+        "author": "Frances A. Rosamond"
+    },
+    {
+        "author": "Francesco Bergadano"
+    },
+    {
+        "author": "Francesco Buccafurri"
+    },
+    {
+        "author": "Francesco Corcoglioniti"
+    },
+    {
+        "author": "Francesco M. Donini"
+    },
+    {
+        "author": "Francesco Silvestri 0001"
+    },
+    {
+        "author": "Francesco Zappa Nardelli"
+    },
+    {
+        "author": "Francis C. Chu"
+    },
+    {
+        "author": "Francis C. M. Lau 0001"
+    },
+    {
+        "author": "Francis Y. L. Chin"
+    },
+    {
+        "author": "Frank Hoffmann"
+    },
+    {
+        "author": "Frank K. H. A. Dehne"
+    },
+    {
+        "author": "Frank M. Hawrusik"
+    },
+    {
+        "author": "Frank Neven"
+    },
+    {
+        "author": "Frank Nielsen"
+    },
+    {
+        "author": "Frank Pfenning"
+    },
+    {
+        "author": "Frank Thomson Leighton"
+    },
+    {
+        "author": "Franois Baccelli"
+    },
+    {
+        "author": "Franois Bodin"
+    },
+    {
+        "author": "Franois Denis"
+    },
+    {
+        "author": "Franois Goasdou"
+    },
+    {
+        "author": "Frans Coetzee"
+    },
+    {
+        "author": "Franz Franchetti"
+    },
+    {
+        "author": "Frdric Chazal"
+    },
+    {
+        "author": "Fred B. Schneider"
+    },
+    {
+        "author": "Fred Douglis"
+    },
+    {
+        "author": "Frederic T. Chong"
+    },
+    {
+        "author": "Frederick H. Lochovsky"
+    },
+    {
+        "author": "Frederik Mallmann-Trenn"
+    },
+    {
+        "author": "Freeman L. Rawson III"
+    },
+    {
+        "author": "Fritz Henglein"
+    },
+    {
+        "author": "Froduald Kabanza"
+    },
+    {
+        "author": "Fuzhen Zhuang"
+    },
+    {
+        "author": "G. Jack Lipovski"
+    },
+    {
+        "author": "G. Wolf"
+    },
+    {
+        "author": "Gabor T. Herman"
+    },
+    {
+        "author": "Gabriel Bender"
+    },
+    {
+        "author": "Gabriel Pui Cheong Fung"
+    },
+    {
+        "author": "Gabriel Robins"
+    },
+    {
+        "author": "Gabriele Puppis"
+    },
+    {
+        "author": "Gad M. Landau"
+    },
+    {
+        "author": "Gaetano Borriello"
+    },
+    {
+        "author": "Gagan Aggarwal"
+    },
+    {
+        "author": "Gagan Agrawal"
+    },
+    {
+        "author": "Gal Shahaf"
+    },
+    {
+        "author": "Gale Martin"
+    },
+    {
+        "author": "Ganesh Ramakrishnan"
+    },
+    {
+        "author": "Gang Chen"
+    },
+    {
+        "author": "Gang Hu"
+    },
+    {
+        "author": "Gang Li"
+    },
+    {
+        "author": "Gang Luo"
+    },
+    {
+        "author": "Gang Xu"
+    },
+    {
+        "author": "Gao Cong"
+    },
+    {
+        "author": "Gaogang Xie"
+    },
+    {
+        "author": "Garud Iyengar"
+    },
+    {
+        "author": "Gary G. Hendrix"
+    },
+    {
+        "author": "Gary Lindstrom"
+    },
+    {
+        "author": "Gary R. Bradski"
+    },
+    {
+        "author": "Gaston H. Gonnet"
+    },
+    {
+        "author": "Gaurav Pandey"
+    },
+    {
+        "author": "Gautam Kamath"
+    },
+    {
+        "author": "Gbor Braun"
+    },
+    {
+        "author": "Gbor Lugosi"
+    },
+    {
+        "author": "Gbor Tardos"
+    },
+    {
+        "author": "Ge Yu"
+    },
+    {
+        "author": "Gencai Chen"
+    },
+    {
+        "author": "Gene Tsudik"
+    },
+    {
+        "author": "Gennaro Parlato"
+    },
+    {
+        "author": "Geoff Hulten"
+    },
+    {
+        "author": "Geoffrey J. Gordon"
+    },
+    {
+        "author": "Geoffrey M. Voelker"
+    },
+    {
+        "author": "Georg Schnitger"
+    },
+    {
+        "author": "George B. Mertzios"
+    },
+    {
+        "author": "George Candea"
+    },
+    {
+        "author": "George H. L. Fletcher"
+    },
+    {
+        "author": "George Konstantinidis"
+    },
+    {
+        "author": "George P. Copeland"
+    },
+    {
+        "author": "George Papageorgiou"
+    },
+    {
+        "author": "Georges Hbrail"
+    },
+    {
+        "author": "Georgios Damaskinos"
+    },
+    {
+        "author": "Georgios Piliouras"
+    },
+    {
+        "author": "Georgos Siganos"
+    },
+    {
+        "author": "Geppino Pucci"
+    },
+    {
+        "author": "Gerald A. Wilson"
+    },
+    {
+        "author": "Gerald Berger"
+    },
+    {
+        "author": "Gerald DeJong"
+    },
+    {
+        "author": "Gerardo I. Simari"
+    },
+    {
+        "author": "Gerd G. Hillebrand"
+    },
+    {
+        "author": "Gerhard Barth"
+    },
+    {
+        "author": "Gerhard J. Woeginger"
+    },
+    {
+        "author": "Gerhard Weikum"
+    },
+    {
+        "author": "Gernot Heiser"
+    },
+    {
+        "author": "Gerome Miklau"
+    },
+    {
+        "author": "Ghim-Eng Yap"
+    },
+    {
+        "author": "Gianluigi Greco"
+    },
+    {
+        "author": "Gianmarco De Francisci Morales"
+    },
+    {
+        "author": "Gianpiero Monaco"
+    },
+    {
+        "author": "Gil Einziger"
+    },
+    {
+        "author": "Gil Kalai"
+    },
+    {
+        "author": "Gil Zussman"
+    },
+    {
+        "author": "Gilbert Falk"
+    },
+    {
+        "author": "Gilles Brassard"
+    },
+    {
+        "author": "Gilles M. E. Lafue"
+    },
+    {
+        "author": "Giorgio Ausiello"
+    },
+    {
+        "author": "Giorgio Delzanno"
+    },
+    {
+        "author": "Giorgio Ghelli"
+    },
+    {
+        "author": "Giorgio Levi"
+    },
+    {
+        "author": "Giovambattista Ianni"
+    },
+    {
+        "author": "Girish Chafle"
+    },
+    {
+        "author": "Gisela Mendez"
+    },
+    {
+        "author": "Gita Gopal"
+    },
+    {
+        "author": "Giuliano Pacini"
+    },
+    {
+        "author": "Giuseppe Castagna"
+    },
+    {
+        "author": "Giuseppe De Giacomo"
+    },
+    {
+        "author": "Giuseppe Di Battista"
+    },
+    {
+        "author": "Giuseppe Persiano"
+    },
+    {
+        "author": "Glencora Borradaile"
+    },
+    {
+        "author": "Goce Trajcevski"
+    },
+    {
+        "author": "Godfried T. Toussaint"
+    },
+    {
+        "author": "Gonzalo Navarro"
+    },
+    {
+        "author": "Gopal Pandurangan"
+    },
+    {
+        "author": "Gordon D. Plotkin"
+    },
+    {
+        "author": "Gordon T. Wilfong"
+    },
+    {
+        "author": "Gowtham Bellala"
+    },
+    {
+        "author": "Graham R. Brightwell"
+    },
+    {
+        "author": "Grant Ayers"
+    },
+    {
+        "author": "Grant Wang"
+    },
+    {
+        "author": "Grard P. Huet"
+    },
+    {
+        "author": "Greg Barish"
+    },
+    {
+        "author": "Greg Nelson"
+    },
+    {
+        "author": "Greg Ver Steeg"
+    },
+    {
+        "author": "Gregory Dudek"
+    },
+    {
+        "author": "Gregory F. Sullivan"
+    },
+    {
+        "author": "Gregory Frederick Diamos"
+    },
+    {
+        "author": "Gregory L. Heileman"
+    },
+    {
+        "author": "Grigore Rosu"
+    },
+    {
+        "author": "Gruia-Catalin Roman"
+    },
+    {
+        "author": "Gu-Yeon Wei"
+    },
+    {
+        "author": "Guan Wang"
+    },
+    {
+        "author": "Guandong Xu"
+    },
+    {
+        "author": "Guanfeng Liu"
+    },
+    {
+        "author": "Guangyu Sun"
+    },
+    {
+        "author": "Guevara Noubir"
+    },
+    {
+        "author": "Guillermo A. Prez"
+    },
+    {
+        "author": "Guimei Liu"
+    },
+    {
+        "author": "Guizhen Yang"
+    },
+    {
+        "author": "Gunes Ercal"
+    },
+    {
+        "author": "Guo Tong Xie"
+    },
+    {
+        "author": "Guo-Jie Li"
+    },
+    {
+        "author": "Guo-Jun Qi"
+    },
+    {
+        "author": "Guohui Li"
+    },
+    {
+        "author": "Guolei Yang"
+    },
+    {
+        "author": "Guoqiang Han"
+    },
+    {
+        "author": "Guozhu Dong"
+    },
+    {
+        "author": "Gurmeet Singh Manku"
+    },
+    {
+        "author": "Gurulingesh Raravi"
+    },
+    {
+        "author": "Gustav Nordh"
+    },
+    {
+        "author": "Guy Bresler"
+    },
+    {
+        "author": "Guy L. Steele Jr."
+    },
+    {
+        "author": "Guy N. Rothblum"
+    },
+    {
+        "author": "Guy Van den Broeck"
+    },
+    {
+        "author": "Guy W. Mineau"
+    },
+    {
+        "author": "Gyrgy Turn"
+    },
+    {
+        "author": "H. Brendan McMahan"
+    },
+    {
+        "author": "H. F. Ting"
+    },
+    {
+        "author": "H. V. Jagadish"
+    },
+    {
+        "author": "H. Venkateswaran"
+    },
+    {
+        "author": "Hadi Yami"
+    },
+    {
+        "author": "Hady Wirawan Lauw"
+    },
+    {
+        "author": "Hagit Shatkay"
+    },
+    {
+        "author": "Hai Fang"
+    },
+    {
+        "author": "Hai H. Wang"
+    },
+    {
+        "author": "Hai Li"
+    },
+    {
+        "author": "Hai Li 0001"
+    },
+    {
+        "author": "Hai Yu"
+    },
+    {
+        "author": "Haibin Wang"
+    },
+    {
+        "author": "Haibo Chen"
+    },
+    {
+        "author": "Haidong Wang"
+    },
+    {
+        "author": "Haifeng Liu"
+    },
+    {
+        "author": "Haifeng Xu"
+    },
+    {
+        "author": "Haifeng Yu"
+    },
+    {
+        "author": "Haipeng Luo"
+    },
+    {
+        "author": "Haiquan Li"
+    },
+    {
+        "author": "Hairong Kuang"
+    },
+    {
+        "author": "Haitham Hassanieh"
+    },
+    {
+        "author": "Haixun Wang"
+    },
+    {
+        "author": "Hakjoo Oh"
+    },
+    {
+        "author": "Hamid Mahini"
+    },
+    {
+        "author": "Han Zhu"
+    },
+    {
+        "author": "Hana Chockler"
+    },
+    {
+        "author": "Hang Li"
+    },
+    {
+        "author": "Hanghang Tong"
+    },
+    {
+        "author": "Hanjo Tubig"
+    },
+    {
+        "author": "Hanna Mazzawi"
+    },
+    {
+        "author": "Hannu Toivonen"
+    },
+    {
+        "author": "Hanqing Lu"
+    },
+    {
+        "author": "Hans Ulrich Simon"
+    },
+    {
+        "author": "Hans-Dieter Ehrich"
+    },
+    {
+        "author": "Hans-Hellmut Nagel"
+    },
+    {
+        "author": "Hans-Jrg Kreowski"
+    },
+    {
+        "author": "Hans-Juergen Boehm"
+    },
+    {
+        "author": "Hao Cheng"
+    },
+    {
+        "author": "Hao He"
+    },
+    {
+        "author": "Hao Huang"
+    },
+    {
+        "author": "Hao Wang"
+    },
+    {
+        "author": "Hao Wang 0005"
+    },
+    {
+        "author": "Hao Xu"
+    },
+    {
+        "author": "Hao Yang"
+    },
+    {
+        "author": "Hao Yu"
+    },
+    {
+        "author": "Hao Yuan"
+    },
+    {
+        "author": "Haodong Hu"
+    },
+    {
+        "author": "Haofen Wang"
+    },
+    {
+        "author": "Haopeng Zhang"
+    },
+    {
+        "author": "Haoran Li"
+    },
+    {
+        "author": "Haowen Chan"
+    },
+    {
+        "author": "Haoyi Xiong"
+    },
+    {
+        "author": "Haoyue Ping"
+    },
+    {
+        "author": "Hari Balakrishnan"
+    },
+    {
+        "author": "Hari Sundaram"
+    },
+    {
+        "author": "Hariharan Narayanan"
+    },
+    {
+        "author": "Haris Aziz 0001"
+    },
+    {
+        "author": "Harpreet S. Sawhney"
+    },
+    {
+        "author": "Harrick M. Vin"
+    },
+    {
+        "author": "Harry G. Mairson"
+    },
+    {
+        "author": "Harry Lang"
+    },
+    {
+        "author": "Harry R. Lewis"
+    },
+    {
+        "author": "Harry R. Tennant"
+    },
+    {
+        "author": "Hartmut Ehrig"
+    },
+    {
+        "author": "Hartmut Noltemeier"
+    },
+    {
+        "author": "Hartmut Schmeck"
+    },
+    {
+        "author": "Haruo Yokota"
+    },
+    {
+        "author": "Haryadi S. Gunawi"
+    },
+    {
+        "author": "Hasan Davulcu"
+    },
+    {
+        "author": "Hayato Yamana"
+    },
+    {
+        "author": "He Huang"
+    },
+    {
+        "author": "He Sun 0001"
+    },
+    {
+        "author": "Hector Garcia-Molina"
+    },
+    {
+        "author": "Heiko Schrder"
+    },
+    {
+        "author": "Helen J. Wang"
+    },
+    {
+        "author": "Hendrik Blockeel"
+    },
+    {
+        "author": "Hendrik Jan Hoogeboom"
+    },
+    {
+        "author": "Heng Huang"
+    },
+    {
+        "author": "Heng Ji"
+    },
+    {
+        "author": "Heng Tao Shen"
+    },
+    {
+        "author": "Henk Meijer"
+    },
+    {
+        "author": "Henry Lam"
+    },
+    {
+        "author": "Henry M. Levy"
+    },
+    {
+        "author": "Henry Markram"
+    },
+    {
+        "author": "Henry Milner"
+    },
+    {
+        "author": "Henry R. Ehrenberg"
+    },
+    {
+        "author": "Henry Tirri"
+    },
+    {
+        "author": "Herman J. Haverkort"
+    },
+    {
+        "author": "Herv Gallaire"
+    },
+    {
+        "author": "Hideaki Kim"
+    },
+    {
+        "author": "Hidenori Itoh"
+    },
+    {
+        "author": "Hideo Shimazu"
+    },
+    {
+        "author": "Hideya Iwasaki"
+    },
+    {
+        "author": "Himanshu Gupta"
+    },
+    {
+        "author": "Hiroaki Shiokawa"
+    },
+    {
+        "author": "Hirohisa Seki"
+    },
+    {
+        "author": "Hiroshi Nakagawa"
+    },
+    {
+        "author": "Hiroshi Sakai"
+    },
+    {
+        "author": "Hiroyuki Kitagawa"
+    },
+    {
+        "author": "Hisao Tamaki"
+    },
+    {
+        "author": "Hisashi Kashima"
+    },
+    {
+        "author": "Hlne Kirchner"
+    },
+    {
+        "author": "Ho-fung Leung"
+    },
+    {
+        "author": "Honesty C. Young"
+    },
+    {
+        "author": "Hong Chen"
+    },
+    {
+        "author": "Hong Cheng"
+    },
+    {
+        "author": "Hong Liu"
+    },
+    {
+        "author": "Hong Ma"
+    },
+    {
+        "author": "Hong Pan"
+    },
+    {
+        "author": "Hong Wang"
+    },
+    {
+        "author": "Honggang Zhang"
+    },
+    {
+        "author": "Hongkai Wen"
+    },
+    {
+        "author": "Hongning Wang"
+    },
+    {
+        "author": "Hongsong Li"
+    },
+    {
+        "author": "Hongteng Xu"
+    },
+    {
+        "author": "Hongxia Jin"
+    },
+    {
+        "author": "Hongyan Li"
+    },
+    {
+        "author": "Hongyang Zhang"
+    },
+    {
+        "author": "Hongyang Zhang 0001"
+    },
+    {
+        "author": "Hongyi Wang"
+    },
+    {
+        "author": "Hongyu Guo"
+    },
+    {
+        "author": "Hongyuan Zha"
+    },
+    {
+        "author": "Hongzhi Yin"
+    },
+    {
+        "author": "Hooyeon Lee"
+    },
+    {
+        "author": "Hossein Esfandiari"
+    },
+    {
+        "author": "Hossein Hojjat"
+    },
+    {
+        "author": "Hossein Jowhari"
+    },
+    {
+        "author": "Houman Alborzi"
+    },
+    {
+        "author": "Howard J. Karloff"
+    },
+    {
+        "author": "Howard Jay Siegel"
+    },
+    {
+        "author": "Hsinchun Chen"
+    },
+    {
+        "author": "Hu Ding"
+    },
+    {
+        "author": "Hu Xu"
+    },
+    {
+        "author": "Hua Wang"
+    },
+    {
+        "author": "Huahai Yang"
+    },
+    {
+        "author": "Huajun Chen"
+    },
+    {
+        "author": "Huan Li 0002"
+    },
+    {
+        "author": "Huan Liu"
+    },
+    {
+        "author": "Huan Liu 0001"
+    },
+    {
+        "author": "Huayu Wu 0001"
+    },
+    {
+        "author": "Hugo Krawczyk"
+    },
+    {
+        "author": "Hui Ding"
+    },
+    {
+        "author": "Hui Li"
+    },
+    {
+        "author": "Hui Zhao"
+    },
+    {
+        "author": "Huowang Chen"
+    },
+    {
+        "author": "Huy L. Nguyen"
+    },
+    {
+        "author": "Huy Pham"
+    },
+    {
+        "author": "Hwanjo Yu"
+    },
+    {
+        "author": "HweeHwa Pang"
+    },
+    {
+        "author": "Hyeontaek Lim"
+    },
+    {
+        "author": "HyoukJoong Lee"
+    },
+    {
+        "author": "Hyunsouk Cho"
+    },
+    {
+        "author": "I-Ling Yen"
+    },
+    {
+        "author": "Iain Phillips"
+    },
+    {
+        "author": "Ian A. Mason"
+    },
+    {
+        "author": "Ian H. Witten"
+    },
+    {
+        "author": "Ian Horrocks"
+    },
+    {
+        "author": "Ian Molloy"
+    },
+    {
+        "author": "Idit Keidar"
+    },
+    {
+        "author": "Igor Razgon"
+    },
+    {
+        "author": "Igor Shinkar"
+    },
+    {
+        "author": "Ilias Leontiadis"
+    },
+    {
+        "author": "Inbal Talgam-Cohen"
+    },
+    {
+        "author": "Inderjit S. Dhillon"
+    },
+    {
+        "author": "Indrajit Roy 0001"
+    },
+    {
+        "author": "Insoon Jo"
+    },
+    {
+        "author": "Ioana Dumitriu"
+    },
+    {
+        "author": "Ioannis Caragiannis"
+    },
+    {
+        "author": "Ioannis Koutis"
+    },
+    {
+        "author": "Ioannis P. Vlahavas"
+    },
+    {
+        "author": "Ioannis Panageas"
+    },
+    {
+        "author": "Ion Muslea"
+    },
+    {
+        "author": "Ira Pohl"
+    },
+    {
+        "author": "Irina Trubitsyna"
+    },
+    {
+        "author": "Irit Dinur"
+    },
+    {
+        "author": "Irit Katriel"
+    },
+    {
+        "author": "Irne Guessarian"
+    },
+    {
+        "author": "Isaac D. Scherson"
+    },
+    {
+        "author": "Isaac L. Chuang"
+    },
+    {
+        "author": "Isabelle Stanton"
+    },
+    {
+        "author": "Ishai Menache"
+    },
+    {
+        "author": "Ishan Chaudhuri"
+    },
+    {
+        "author": "Isidore Rigoutsos"
+    },
+    {
+        "author": "Ismail Ari"
+    },
+    {
+        "author": "Isolde Adler"
+    },
+    {
+        "author": "Israel Cidon"
+    },
+    {
+        "author": "Issei Sato"
+    },
+    {
+        "author": "Itai Ashlagi"
+    },
+    {
+        "author": "Ittai Abraham"
+    },
+    {
+        "author": "Itzhak Tamo"
+    },
+    {
+        "author": "Ivan Beschastnikh"
+    },
+    {
+        "author": "Ivan Bliznets"
+    },
+    {
+        "author": "Ivan M. Havel"
+    },
+    {
+        "author": "Ivona Bezkov"
+    },
+    {
+        "author": "Iyad A. Kanj"
+    },
+    {
+        "author": "J. George Shanthikumar"
+    },
+    {
+        "author": "J. Gregory Morrisett"
+    },
+    {
+        "author": "J. Gregory Steffan"
+    },
+    {
+        "author": "J. Ian Munro"
+    },
+    {
+        "author": "J. Ross Quinlan"
+    },
+    {
+        "author": "J. Wang"
+    },
+    {
+        "author": "Jacek Leszczylowski"
+    },
+    {
+        "author": "Jack Minker"
+    },
+    {
+        "author": "Jacob D. Abernethy"
+    },
+    {
+        "author": "Jacob Steinhardt"
+    },
+    {
+        "author": "Jaewoo Kang"
+    },
+    {
+        "author": "Jafar Adibi"
+    },
+    {
+        "author": "Jai Menon 0001"
+    },
+    {
+        "author": "Jaideep Srivastava"
+    },
+    {
+        "author": "Jaimin Dave"
+    },
+    {
+        "author": "Jake K. Aggarwal"
+    },
+    {
+        "author": "Jakob Nordstrm"
+    },
+    {
+        "author": "Jakob Rehof"
+    },
+    {
+        "author": "Jakub Lacki"
+    },
+    {
+        "author": "Jakub Tarnawski"
+    },
+    {
+        "author": "James Aspnes"
+    },
+    {
+        "author": "James B. Morris"
+    },
+    {
+        "author": "James B. Saxe"
+    },
+    {
+        "author": "James Bailey"
+    },
+    {
+        "author": "James C. Browne"
+    },
+    {
+        "author": "James Caverlee"
+    },
+    {
+        "author": "James Cheng"
+    },
+    {
+        "author": "James Clifford"
+    },
+    {
+        "author": "James Davidson"
+    },
+    {
+        "author": "James Davis"
+    },
+    {
+        "author": "James E. Hanson"
+    },
+    {
+        "author": "James F. Lynch"
+    },
+    {
+        "author": "James Geller"
+    },
+    {
+        "author": "James H. Martin"
+    },
+    {
+        "author": "James J. Lu"
+    },
+    {
+        "author": "James L. Hafner"
+    },
+    {
+        "author": "James Norris"
+    },
+    {
+        "author": "James P. Callan"
+    },
+    {
+        "author": "James P. Delgrande"
+    },
+    {
+        "author": "James R. Driscoll"
+    },
+    {
+        "author": "James R. Hamilton"
+    },
+    {
+        "author": "James Ze Wang"
+    },
+    {
+        "author": "Jamie Morgenstern"
+    },
+    {
+        "author": "Jan Chomicki"
+    },
+    {
+        "author": "Jan Gecsei"
+    },
+    {
+        "author": "Jan Hidders"
+    },
+    {
+        "author": "Jan Johannsen"
+    },
+    {
+        "author": "Jan Neerbek"
+    },
+    {
+        "author": "Jan O. Pedersen"
+    },
+    {
+        "author": "Jan Paredaens"
+    },
+    {
+        "author": "Jane W.-S. Liu"
+    },
+    {
+        "author": "Jane You"
+    },
+    {
+        "author": "Janne H. Korhonen"
+    },
+    {
+        "author": "Jared Casper"
+    },
+    {
+        "author": "Jason D. Hartline"
+    },
+    {
+        "author": "Jason V. Davis"
+    },
+    {
+        "author": "Jatin Chhugani"
+    },
+    {
+        "author": "Javed A. Aslam"
+    },
+    {
+        "author": "Jay Chen"
+    },
+    {
+        "author": "Jayant Madhavan"
+    },
+    {
+        "author": "Jaydeep Sen"
+    },
+    {
+        "author": "Jean Christoph Jung"
+    },
+    {
+        "author": "Jean-Baptiste Tristan"
+    },
+    {
+        "author": "Jean-Claude Latombe"
+    },
+    {
+        "author": "Jean-Claude Syre"
+    },
+    {
+        "author": "Jean-Daniel Boissonnat"
+    },
+    {
+        "author": "Jean-Franois Boulicaut"
+    },
+    {
+        "author": "Jean-Franois Raskin"
+    },
+    {
+        "author": "Jean-Louis Lassez"
+    },
+    {
+        "author": "Jean-Marie Hullot"
+    },
+    {
+        "author": "Jean-Pierre Bantre"
+    },
+    {
+        "author": "Jean-Pierre Jouannaud"
+    },
+    {
+        "author": "Jean-Pierre Seifert"
+    },
+    {
+        "author": "Jeanette P. Schmidt"
+    },
+    {
+        "author": "Jeff Dean"
+    },
+    {
+        "author": "Jeff Erickson 0001"
+    },
+    {
+        "author": "Jeff Pool"
+    },
+    {
+        "author": "Jeffrey C. Jackson"
+    },
+    {
+        "author": "Jeffrey Considine"
+    },
+    {
+        "author": "Jeffrey D. Ullman"
+    },
+    {
+        "author": "Jeffrey O. Kephart"
+    },
+    {
+        "author": "Jeffrey Pound"
+    },
+    {
+        "author": "Jeffrey S. Chase"
+    },
+    {
+        "author": "Jeffrey S. Dean"
+    },
+    {
+        "author": "Jeffrey S. Rosenschein"
+    },
+    {
+        "author": "Jelani Nelson"
+    },
+    {
+        "author": "Jennifer Neville"
+    },
+    {
+        "author": "Jennifer Rexford"
+    },
+    {
+        "author": "Jennifer T. Chayes"
+    },
+    {
+        "author": "Jennifer Widom"
+    },
+    {
+        "author": "Jennifer Wortman Vaughan"
+    },
+    {
+        "author": "Jens Lagergren"
+    },
+    {
+        "author": "Jens Palsberg"
+    },
+    {
+        "author": "Jeremiah Blocki"
+    },
+    {
+        "author": "Jeremy T. Fineman"
+    },
+    {
+        "author": "Jerry Li 0001"
+    },
+    {
+        "author": "Jerzy Marcinkowski"
+    },
+    {
+        "author": "Jerzy Tyszkiewicz"
+    },
+    {
+        "author": "Jesper Jansson"
+    },
+    {
+        "author": "Jesper W. Mikkelsen"
+    },
+    {
+        "author": "Jesse Kamp"
+    },
+    {
+        "author": "Ji Wang"
+    },
+    {
+        "author": "Ji Yang"
+    },
+    {
+        "author": "Ji Zhang"
+    },
+    {
+        "author": "Ji-Rong Wen"
+    },
+    {
+        "author": "Jia Chen"
+    },
+    {
+        "author": "Jia Li"
+    },
+    {
+        "author": "Jia Li 0001"
+    },
+    {
+        "author": "Jia Liu"
+    },
+    {
+        "author": "Jia Pan"
+    },
+    {
+        "author": "Jia Wu"
+    },
+    {
+        "author": "Jia Xu"
+    },
+    {
+        "author": "Jiaguang Sun"
+    },
+    {
+        "author": "Jiajie Xu"
+    },
+    {
+        "author": "Jiajun Li"
+    },
+    {
+        "author": "Jialie Shen"
+    },
+    {
+        "author": "Jialu Liu"
+    },
+    {
+        "author": "Jian Pei"
+    },
+    {
+        "author": "Jian Shen"
+    },
+    {
+        "author": "Jian Wang"
+    },
+    {
+        "author": "Jian Wu"
+    },
+    {
+        "author": "Jian Wu 0001"
+    },
+    {
+        "author": "Jian Xu"
+    },
+    {
+        "author": "Jian Yin"
+    },
+    {
+        "author": "Jian Zhang"
+    },
+    {
+        "author": "Jian Zhang 0003"
+    },
+    {
+        "author": "Jian-Tao Sun"
+    },
+    {
+        "author": "Jianchang Mao"
+    },
+    {
+        "author": "Jiang Chen"
+    },
+    {
+        "author": "Jianguo Wang 0001"
+    },
+    {
+        "author": "Jiangwei Pan"
+    },
+    {
+        "author": "Jianhua Feng"
+    },
+    {
+        "author": "Jianhui Chen"
+    },
+    {
+        "author": "Jianjun Zhou"
+    },
+    {
+        "author": "Jianlin Feng"
+    },
+    {
+        "author": "Jianmin Wang 0001"
+    },
+    {
+        "author": "Jianneng Cao"
+    },
+    {
+        "author": "Jianping Fan 0001"
+    },
+    {
+        "author": "Jianxin Li"
+    },
+    {
+        "author": "Jianyong Wang"
+    },
+    {
+        "author": "Jiaqi Zhang"
+    },
+    {
+        "author": "Jiawei Han 0001"
+    },
+    {
+        "author": "Jiaxing Zhang"
+    },
+    {
+        "author": "Jichuan Chang"
+    },
+    {
+        "author": "Jie Cao"
+    },
+    {
+        "author": "Jie Hao"
+    },
+    {
+        "author": "Jie Jiang"
+    },
+    {
+        "author": "Jie Shao"
+    },
+    {
+        "author": "Jie Tang 0001"
+    },
+    {
+        "author": "Jie Wang"
+    },
+    {
+        "author": "Jie Yin"
+    },
+    {
+        "author": "Jie Yu"
+    },
+    {
+        "author": "Jie Zhang"
+    },
+    {
+        "author": "Jiecao Chen"
+    },
+    {
+        "author": "Jieh Hsiang"
+    },
+    {
+        "author": "Jiehua Chen"
+    },
+    {
+        "author": "Jieping Ye"
+    },
+    {
+        "author": "Jignesh M. Patel"
+    },
+    {
+        "author": "Jihong Guan"
+    },
+    {
+        "author": "Jilian Zhang"
+    },
+    {
+        "author": "Jim E. Greer"
+    },
+    {
+        "author": "Jim Gray 0001"
+    },
+    {
+        "author": "Jimeng Sun"
+    },
+    {
+        "author": "Jiming Liu 0001"
+    },
+    {
+        "author": "Jin Chen"
+    },
+    {
+        "author": "Jin Huang 0003"
+    },
+    {
+        "author": "Jin Li 0001"
+    },
+    {
+        "author": "Jin Wang"
+    },
+    {
+        "author": "Jin Wang 0007"
+    },
+    {
+        "author": "Jin Zhang"
+    },
+    {
+        "author": "Jin-yi Cai"
+    },
+    {
+        "author": "Jinbo Xu"
+    },
+    {
+        "author": "Jing Chen"
+    },
+    {
+        "author": "Jing Dai"
+    },
+    {
+        "author": "Jing Gao"
+    },
+    {
+        "author": "Jing He 0004"
+    },
+    {
+        "author": "Jing Jiang"
+    },
+    {
+        "author": "Jing Lei"
+    },
+    {
+        "author": "Jing Li"
+    },
+    {
+        "author": "Jing Liu 0001"
+    },
+    {
+        "author": "Jing Qin"
+    },
+    {
+        "author": "Jing Tang"
+    },
+    {
+        "author": "Jing Wang"
+    },
+    {
+        "author": "Jing Wu"
+    },
+    {
+        "author": "Jing Xu"
+    },
+    {
+        "author": "Jing Yang"
+    },
+    {
+        "author": "Jing Yuan"
+    },
+    {
+        "author": "Jingbo Shang"
+    },
+    {
+        "author": "Jingbo Zhou"
+    },
+    {
+        "author": "Jingbo Zhu"
+    },
+    {
+        "author": "Jingjing Wang"
+    },
+    {
+        "author": "Jingkuan Song"
+    },
+    {
+        "author": "Jingling Yuan"
+    },
+    {
+        "author": "Jingren Zhou"
+    },
+    {
+        "author": "Jinhui Xu 0001"
+    },
+    {
+        "author": "Jinpeng Huai"
+    },
+    {
+        "author": "Jinquan Dai"
+    },
+    {
+        "author": "Jinshan Zhang 0002"
+    },
+    {
+        "author": "Jinsong Guo"
+    },
+    {
+        "author": "Jinwoo Shin"
+    },
+    {
+        "author": "Jinyan Li"
+    },
+    {
+        "author": "Jinyang Gao"
+    },
+    {
+        "author": "Jinyang Li 0001"
+    },
+    {
+        "author": "Jiong Guo"
+    },
+    {
+        "author": "Jiri Schindler"
+    },
+    {
+        "author": "Jitendra Padhye"
+    },
+    {
+        "author": "Jittat Fakcharoenphol"
+    },
+    {
+        "author": "Jiyan Yang"
+    },
+    {
+        "author": "Joachim Biskup"
+    },
+    {
+        "author": "Joachim Giesen"
+    },
+    {
+        "author": "Joachim Gudmundsson"
+    },
+    {
+        "author": "Joachim Niehren"
+    },
+    {
+        "author": "Joachim Parrow"
+    },
+    {
+        "author": "Joan Feigenbaum"
+    },
+    {
+        "author": "Joan Serr"
+    },
+    {
+        "author": "Joann J. Ordille"
+    },
+    {
+        "author": "Jock D. Mackinlay"
+    },
+    {
+        "author": "Joe Neeman"
+    },
+    {
+        "author": "Joel A. Tropp"
+    },
+    {
+        "author": "Joel H. Saltz"
+    },
+    {
+        "author": "Joel L. Wolf"
+    },
+    {
+        "author": "Johann A. Makowsky"
+    },
+    {
+        "author": "Johanne Cohen"
+    },
+    {
+        "author": "John Augustine"
+    },
+    {
+        "author": "John C. Duchi"
+    },
+    {
+        "author": "John C. Platt"
+    },
+    {
+        "author": "John Cavazos"
+    },
+    {
+        "author": "John D. Davis"
+    },
+    {
+        "author": "John D. Kececioglu"
+    },
+    {
+        "author": "John D. Lafferty"
+    },
+    {
+        "author": "John Dunagan"
+    },
+    {
+        "author": "John E. Hopcroft"
+    },
+    {
+        "author": "John F. Canny"
+    },
+    {
+        "author": "John Feo"
+    },
+    {
+        "author": "John Grant"
+    },
+    {
+        "author": "John Hershberger 0001"
+    },
+    {
+        "author": "John Kennedy"
+    },
+    {
+        "author": "John Kubiatowicz"
+    },
+    {
+        "author": "John L. Pfaltz"
+    },
+    {
+        "author": "John Langford 0001"
+    },
+    {
+        "author": "John Mylopoulos"
+    },
+    {
+        "author": "John N. Tsitsiklis"
+    },
+    {
+        "author": "John Peebles"
+    },
+    {
+        "author": "John R. Douceur"
+    },
+    {
+        "author": "John R. Smith"
+    },
+    {
+        "author": "John Riedl"
+    },
+    {
+        "author": "John S. Baras"
+    },
+    {
+        "author": "John Sullivan"
+    },
+    {
+        "author": "John Tromp"
+    },
+    {
+        "author": "John Turek"
+    },
+    {
+        "author": "John Whaley"
+    },
+    {
+        "author": "John Wilmes"
+    },
+    {
+        "author": "John Woodfill"
+    },
+    {
+        "author": "John Wright"
+    },
+    {
+        "author": "John-Jules Ch. Meyer"
+    },
+    {
+        "author": "Jon A. Webb"
+    },
+    {
+        "author": "Jon Feldman"
+    },
+    {
+        "author": "Jon G. Riecke"
+    },
+    {
+        "author": "Jonathan A. Kelner"
+    },
+    {
+        "author": "Jonathan Bachrach"
+    },
+    {
+        "author": "Jonathan Chang"
+    },
+    {
+        "author": "Jonathan Derryberry"
+    },
+    {
+        "author": "Jonathan J. King"
+    },
+    {
+        "author": "Jonathan S. Turner"
+    },
+    {
+        "author": "Jonathan Scarlett"
+    },
+    {
+        "author": "Jonathan Slocum"
+    },
+    {
+        "author": "Jonathan W. Berry"
+    },
+    {
+        "author": "Joo Martins"
+    },
+    {
+        "author": "Joohyun Lee"
+    },
+    {
+        "author": "Joost Engelfriet"
+    },
+    {
+        "author": "Joost N. Kok"
+    },
+    {
+        "author": "Jorge Lobo 0001"
+    },
+    {
+        "author": "Jorge Prez 0001"
+    },
+    {
+        "author": "Jos A. B. Fortes"
+    },
+    {
+        "author": "Jos L. Balczar"
+    },
+    {
+        "author": "Jos Luis Ambite"
+    },
+    {
+        "author": "Jos M. F. Moura"
+    },
+    {
+        "author": "Jos Meseguer"
+    },
+    {
+        "author": "Jos Miguel Hernndez-Lobato"
+    },
+    {
+        "author": "Jos Nelson Amaral"
+    },
+    {
+        "author": "Josep M. Pujol"
+    },
+    {
+        "author": "Josep-Llus Larriba-Pey"
+    },
+    {
+        "author": "Joseph A. Goguen"
+    },
+    {
+        "author": "Joseph A. Konstan"
+    },
+    {
+        "author": "Joseph Anderson"
+    },
+    {
+        "author": "Joseph C. Culberson"
+    },
+    {
+        "author": "Joseph Devietti"
+    },
+    {
+        "author": "Joseph E. Urban"
+    },
+    {
+        "author": "Joseph Gil"
+    },
+    {
+        "author": "Joseph JJ"
+    },
+    {
+        "author": "Joseph K. Bradley"
+    },
+    {
+        "author": "Joseph L. Hellerstein"
+    },
+    {
+        "author": "Joseph Naor"
+    },
+    {
+        "author": "Joseph O'Rourke"
+    },
+    {
+        "author": "Joseph Sifakis"
+    },
+    {
+        "author": "Joseph Tassarotti"
+    },
+    {
+        "author": "Joseph Wang"
+    },
+    {
+        "author": "Joshua S. Auerbach"
+    },
+    {
+        "author": "Joshua Zhexue Huang"
+    },
+    {
+        "author": "Joydeep Ghosh"
+    },
+    {
+        "author": "Jrg Rothe"
+    },
+    {
+        "author": "Jrg-Uwe Kietz"
+    },
+    {
+        "author": "Jrgen M. Janas"
+    },
+    {
+        "author": "Ju Fan"
+    },
+    {
+        "author": "Juan Antonio Navarro Prez"
+    },
+    {
+        "author": "Juan L. Reutter"
+    },
+    {
+        "author": "Juanzi Li"
+    },
+    {
+        "author": "Jude W. Shavlik"
+    },
+    {
+        "author": "Judea Pearl"
+    },
+    {
+        "author": "Judy Goldsmith"
+    },
+    {
+        "author": "Jue Wang"
+    },
+    {
+        "author": "Jugal Garg"
+    },
+    {
+        "author": "Juha Krkkinen"
+    },
+    {
+        "author": "Julia Stoyanovich"
+    },
+    {
+        "author": "Julian Shun"
+    },
+    {
+        "author": "Julie Letchner"
+    },
+    {
+        "author": "Julien Leblay"
+    },
+    {
+        "author": "Julin Mestre"
+    },
+    {
+        "author": "Jun (Jim) Xu"
+    },
+    {
+        "author": "Jun Chen"
+    },
+    {
+        "author": "Jun Chen 0004"
+    },
+    {
+        "author": "Jun Gao"
+    },
+    {
+        "author": "Jun Nakano"
+    },
+    {
+        "author": "Jun Sakuma"
+    },
+    {
+        "author": "Jun Sun"
+    },
+    {
+        "author": "Jun Wan"
+    },
+    {
+        "author": "Jun Wang"
+    },
+    {
+        "author": "Jun Xu"
+    },
+    {
+        "author": "Jun Yang"
+    },
+    {
+        "author": "Jun Zhang"
+    },
+    {
+        "author": "Juneyoung Lee"
+    },
+    {
+        "author": "Jungwook Choi"
+    },
+    {
+        "author": "Junjie Yao"
+    },
+    {
+        "author": "Junming Yin"
+    },
+    {
+        "author": "Junsong Yuan"
+    },
+    {
+        "author": "Junzhou Zhao"
+    },
+    {
+        "author": "Jure Leskovec"
+    },
+    {
+        "author": "Justin A. Boyan"
+    },
+    {
+        "author": "Justin Hsu"
+    },
+    {
+        "author": "Justin Ma"
+    },
+    {
+        "author": "Justin Thaler"
+    },
+    {
+        "author": "Justin Ward"
+    },
+    {
+        "author": "K. H. Kim"
+    },
+    {
+        "author": "K. K. Ramakrishnan"
+    },
+    {
+        "author": "K. Mani Chandy"
+    },
+    {
+        "author": "K. N. King"
+    },
+    {
+        "author": "K. Seluk Candan"
+    },
+    {
+        "author": "Kaan Kara"
+    },
+    {
+        "author": "Kai Li 0001"
+    },
+    {
+        "author": "Kai Liu"
+    },
+    {
+        "author": "Kai Zhang"
+    },
+    {
+        "author": "Kai Zhao"
+    },
+    {
+        "author": "Kai Zheng 0001"
+    },
+    {
+        "author": "Kaiqi Zhao"
+    },
+    {
+        "author": "Kalyan Veeramachaneni"
+    },
+    {
+        "author": "Kamalakar Karlapalem"
+    },
+    {
+        "author": "Kamesh Munagala"
+    },
+    {
+        "author": "Kanat Tangwongsan"
+    },
+    {
+        "author": "Kang G. Shin"
+    },
+    {
+        "author": "Kang Su Gatlin"
+    },
+    {
+        "author": "Kang Zhang"
+    },
+    {
+        "author": "Kannan Achan"
+    },
+    {
+        "author": "Kannan Ramchandran"
+    },
+    {
+        "author": "Kanthi Nagaraj"
+    },
+    {
+        "author": "Karen R. Sollins"
+    },
+    {
+        "author": "Karen Ward"
+    },
+    {
+        "author": "Kari-Jouko Rih"
+    },
+    {
+        "author": "Karin Strauss"
+    },
+    {
+        "author": "Karl Aberer"
+    },
+    {
+        "author": "Karl Bringmann"
+    },
+    {
+        "author": "Karl Crary"
+    },
+    {
+        "author": "Karl J. Lieberherr"
+    },
+    {
+        "author": "Karl Tuyls"
+    },
+    {
+        "author": "Karsten M. Borgwardt"
+    },
+    {
+        "author": "Karthik Abinav Sankararaman"
+    },
+    {
+        "author": "Karthik Ramachandra 0002"
+    },
+    {
+        "author": "Katherine E. Coons"
+    },
+    {
+        "author": "Kathleen Fisher"
+    },
+    {
+        "author": "Kathryn S. McKinley"
+    },
+    {
+        "author": "Katia P. Sycara"
+    },
+    {
+        "author": "Katja Hose"
+    },
+    {
+        "author": "Katrina Ligett"
+    },
+    {
+        "author": "Katsumi Tanaka"
+    },
+    {
+        "author": "Kaushik Dutta"
+    },
+    {
+        "author": "Kaushik Sinha"
+    },
+    {
+        "author": "Kave Eshghi"
+    },
+    {
+        "author": "Kavitha Srinivas"
+    },
+    {
+        "author": "Kazuo Iwama"
+    },
+    {
+        "author": "Ke Chen"
+    },
+    {
+        "author": "Ke Deng"
+    },
+    {
+        "author": "Ke Wang 0001"
+    },
+    {
+        "author": "Ke Xu 0001"
+    },
+    {
+        "author": "Ke Yang"
+    },
+    {
+        "author": "Ke Yi"
+    },
+    {
+        "author": "Kedar Dhamdhere"
+    },
+    {
+        "author": "Kee Yuan Ngiam"
+    },
+    {
+        "author": "Kei Hiraki"
+    },
+    {
+        "author": "Keith Irwin"
+    },
+    {
+        "author": "Keith Levin"
+    },
+    {
+        "author": "Keki B. Irani"
+    },
+    {
+        "author": "Kemal Ebcioglu"
+    },
+    {
+        "author": "Ken Barker"
+    },
+    {
+        "author": "Ken Goldberg"
+    },
+    {
+        "author": "Ken J. McDonell"
+    },
+    {
+        "author": "Ken Kennedy"
+    },
+    {
+        "author": "Ken'ichi Handa"
+    },
+    {
+        "author": "Kenji Nishida"
+    },
+    {
+        "author": "Kenjiro Taura"
+    },
+    {
+        "author": "Kenneth A. Ross"
+    },
+    {
+        "author": "Kenneth L. Clarkson"
+    },
+    {
+        "author": "Kenneth L. McMillan"
+    },
+    {
+        "author": "Kenny Q. Zhu"
+    },
+    {
+        "author": "Kent Quanrud"
+    },
+    {
+        "author": "Kent Treiber"
+    },
+    {
+        "author": "Kevin C. Chen"
+    },
+    {
+        "author": "Kevin Chen-Chuan Chang"
+    },
+    {
+        "author": "Kevin J. Brown"
+    },
+    {
+        "author": "Kevin J. Compton"
+    },
+    {
+        "author": "Kevin Lai"
+    },
+    {
+        "author": "Kevin Lee"
+    },
+    {
+        "author": "Kevin Leyton-Brown"
+    },
+    {
+        "author": "Kevin S. McCurley"
+    },
+    {
+        "author": "Kevin Smith"
+    },
+    {
+        "author": "Khaled A. S. Abdel-Ghaffar"
+    },
+    {
+        "author": "Khaled Elmeleegy"
+    },
+    {
+        "author": "Khaled M. Elbassioni"
+    },
+    {
+        "author": "Khanh Nguyen"
+    },
+    {
+        "author": "Kien A. Hua"
+    },
+    {
+        "author": "Kijung Shin"
+    },
+    {
+        "author": "Kim Marriott"
+    },
+    {
+        "author": "Kim S. Larsen"
+    },
+    {
+        "author": "Kimberly Keeton"
+    },
+    {
+        "author": "Kirill Levchenko"
+    },
+    {
+        "author": "Kirk Pruhs"
+    },
+    {
+        "author": "Kirsten Hildrum"
+    },
+    {
+        "author": "Kiyohito Nagano"
+    },
+    {
+        "author": "Kjetil Nrvg"
+    },
+    {
+        "author": "Klaus Berberich"
+    },
+    {
+        "author": "Klaus E. Schauser"
+    },
+    {
+        "author": "Klaus J. Berkling"
+    },
+    {
+        "author": "Klemens Bhm"
+    },
+    {
+        "author": "Koh Takeuchi"
+    },
+    {
+        "author": "Koichi Furukawa"
+    },
+    {
+        "author": "Kokichi Tanaka"
+    },
+    {
+        "author": "Konstantina Papagiannaki"
+    },
+    {
+        "author": "Konstantinos Mamouras"
+    },
+    {
+        "author": "Konstantinos Tsakalidis"
+    },
+    {
+        "author": "Kostas Tsichlas"
+    },
+    {
+        "author": "Kostas Tsioutsiouliklis"
+    },
+    {
+        "author": "Kotagiri Ramamohanarao"
+    },
+    {
+        "author": "Kousha Etessami"
+    },
+    {
+        "author": "Koustuv Dasgupta"
+    },
+    {
+        "author": "Krishna V. Palem"
+    },
+    {
+        "author": "Krishnamurthy Dvijotham"
+    },
+    {
+        "author": "Krishnamurthy Viswanathan"
+    },
+    {
+        "author": "Krishnaprasad Thirunarayan"
+    },
+    {
+        "author": "Krishnaram Kenthapadi"
+    },
+    {
+        "author": "Krishnendu Chatterjee"
+    },
+    {
+        "author": "Kristina Lerman"
+    },
+    {
+        "author": "Kriti Puniyani"
+    },
+    {
+        "author": "Krste Asanovic"
+    },
+    {
+        "author": "Krzysztof Choromanski"
+    },
+    {
+        "author": "Krzysztof Sornat"
+    },
+    {
+        "author": "Kshitij Doshi"
+    },
+    {
+        "author": "Kui Tang"
+    },
+    {
+        "author": "Kuiyu Chang"
+    },
+    {
+        "author": "Kumar Sricharan"
+    },
+    {
+        "author": "Kun Liu"
+    },
+    {
+        "author": "Kun-Lung Wu"
+    },
+    {
+        "author": "Kunio Murakami"
+    },
+    {
+        "author": "Kurt D. Bollacker"
+    },
+    {
+        "author": "Kurt Keutzer"
+    },
+    {
+        "author": "Kurt Maly"
+    },
+    {
+        "author": "Kwok-Yan Lam"
+    },
+    {
+        "author": "Kwong-Sak Leung"
+    },
+    {
+        "author": "Kyle Fox"
+    },
+    {
+        "author": "KyoungSoo Park"
+    },
+    {
+        "author": "Kyriakos Mouratidis"
+    },
+    {
+        "author": "Kyuseok Shim"
+    },
+    {
+        "author": "L. Aguilar"
+    },
+    {
+        "author": "L. Elisa Celis"
+    },
+    {
+        "author": "L. Venkata Subramaniam"
+    },
+    {
+        "author": "L. Zhang"
+    },
+    {
+        "author": "Laks V. S. Lakshmanan"
+    },
+    {
+        "author": "Lane A. Hemaspaandra"
+    },
+    {
+        "author": "Lap-Kei Lee"
+    },
+    {
+        "author": "Larry Carter"
+    },
+    {
+        "author": "Larry J. Stockmeyer"
+    },
+    {
+        "author": "Larry R. Harris"
+    },
+    {
+        "author": "Larry Rudolph"
+    },
+    {
+        "author": "Larry S. Davis"
+    },
+    {
+        "author": "Larry Travis"
+    },
+    {
+        "author": "Lars Arge"
+    },
+    {
+        "author": "Latifur Khan"
+    },
+    {
+        "author": "Laura Bozzelli"
+    },
+    {
+        "author": "Laura Chiticariu"
+    },
+    {
+        "author": "Laurent Fribourg"
+    },
+    {
+        "author": "Laurent Massouli"
+    },
+    {
+        "author": "Lawrence B. Holder"
+    },
+    {
+        "author": "Lawrence D. Bergman"
+    },
+    {
+        "author": "Lawrence H. Landweber"
+    },
+    {
+        "author": "Lawrence J. Henschen"
+    },
+    {
+        "author": "Laxmi Parida"
+    },
+    {
+        "author": "Laxmikant V. Kal"
+    },
+    {
+        "author": "Le Zhang"
+    },
+    {
+        "author": "Leana Golubchik"
+    },
+    {
+        "author": "Lee A. Hollaar"
+    },
+    {
+        "author": "Lee Naish"
+    },
+    {
+        "author": "Lee-Ad Gottlieb"
+    },
+    {
+        "author": "Lee-Feng Chien"
+    },
+    {
+        "author": "Leen Torenvliet"
+    },
+    {
+        "author": "Lei Liu"
+    },
+    {
+        "author": "Lei Wang"
+    },
+    {
+        "author": "Lei Xu"
+    },
+    {
+        "author": "Lei Zhang"
+    },
+    {
+        "author": "Lei Zhang 0016"
+    },
+    {
+        "author": "Lei Zou 0001"
+    },
+    {
+        "author": "Lein Harn"
+    },
+    {
+        "author": "Lenka Zdeborov"
+    },
+    {
+        "author": "Leong Hou U"
+    },
+    {
+        "author": "Leonidas Georgiadis"
+    },
+    {
+        "author": "Leonidas J. Guibas"
+    },
+    {
+        "author": "Leonidas Palios"
+    },
+    {
+        "author": "Leopoldo E. Bertossi"
+    },
+    {
+        "author": "Leslie Ann Goldberg"
+    },
+    {
+        "author": "Leslie G. Valiant"
+    },
+    {
+        "author": "Lester W. Mackey"
+    },
+    {
+        "author": "Lev Reyzin"
+    },
+    {
+        "author": "Li Liu"
+    },
+    {
+        "author": "Li Ma 0002"
+    },
+    {
+        "author": "Li Shang"
+    },
+    {
+        "author": "Li Shen"
+    },
+    {
+        "author": "Li Su"
+    },
+    {
+        "author": "Li Wang"
+    },
+    {
+        "author": "Li Wei 0001"
+    },
+    {
+        "author": "Li Zhang 0001"
+    },
+    {
+        "author": "Li Zhao"
+    },
+    {
+        "author": "Li Zhou"
+    },
+    {
+        "author": "Li-Yan Yuan"
+    },
+    {
+        "author": "Liad Blumrosen"
+    },
+    {
+        "author": "Liadan O'Callaghan"
+    },
+    {
+        "author": "Liang Chen"
+    },
+    {
+        "author": "Liang Lan"
+    },
+    {
+        "author": "Liang Li"
+    },
+    {
+        "author": "Liang Xiong"
+    },
+    {
+        "author": "Liang Zhang"
+    },
+    {
+        "author": "Lijie Chen"
+    },
+    {
+        "author": "Lijun Zhang"
+    },
+    {
+        "author": "Lilyana Mihalkova"
+    },
+    {
+        "author": "Limin Jia"
+    },
+    {
+        "author": "Limsoon Wong"
+    },
+    {
+        "author": "Lin Li 0001"
+    },
+    {
+        "author": "Lin Ma"
+    },
+    {
+        "author": "Lin Xu"
+    },
+    {
+        "author": "Linda Pagli"
+    },
+    {
+        "author": "Ling Chen"
+    },
+    {
+        "author": "Ling Huang"
+    },
+    {
+        "author": "Ling Li"
+    },
+    {
+        "author": "Ling Liu"
+    },
+    {
+        "author": "Ling Wang"
+    },
+    {
+        "author": "Lingxiao Huang"
+    },
+    {
+        "author": "Linpeng Huang"
+    },
+    {
+        "author": "Lintao Zhang"
+    },
+    {
+        "author": "Lior Seeman"
+    },
+    {
+        "author": "Lirong Xia"
+    },
+    {
+        "author": "Lisa Zhang"
+    },
+    {
+        "author": "Lise Getoor"
+    },
+    {
+        "author": "Liu Yang"
+    },
+    {
+        "author": "Liuba Shrira"
+    },
+    {
+        "author": "Lizhu Zhou"
+    },
+    {
+        "author": "Lizi Liao"
+    },
+    {
+        "author": "Lois M. L. Delcambre"
+    },
+    {
+        "author": "Long Guo"
+    },
+    {
+        "author": "Longbing Cao"
+    },
+    {
+        "author": "Lorenzo Alvisi"
+    },
+    {
+        "author": "Lorenzo De Stefani"
+    },
+    {
+        "author": "Lorenzo Orecchia"
+    },
+    {
+        "author": "Loreto Bravo"
+    },
+    {
+        "author": "Loretta Auvil"
+    },
+    {
+        "author": "Lori Alperin Resnick"
+    },
+    {
+        "author": "Loris D'Antoni"
+    },
+    {
+        "author": "Louiqa Raschid"
+    },
+    {
+        "author": "Louis Hodes"
+    },
+    {
+        "author": "Louis Monier"
+    },
+    {
+        "author": "Louis Theran"
+    },
+    {
+        "author": "Louxin Zhang"
+    },
+    {
+        "author": "Lszl A. Vgh"
+    },
+    {
+        "author": "Lu An Tang"
+    },
+    {
+        "author": "Lu Qin"
+    },
+    {
+        "author": "Lu Wang"
+    },
+    {
+        "author": "Lubomir Bic"
+    },
+    {
+        "author": "Luc Boasson"
+    },
+    {
+        "author": "Luc Segoufin"
+    },
+    {
+        "author": "Luca Baldassarre"
+    },
+    {
+        "author": "Luca Becchetti"
+    },
+    {
+        "author": "Luca Benini"
+    },
+    {
+        "author": "Luca Foschini"
+    },
+    {
+        "author": "Luca Spalazzi"
+    },
+    {
+        "author": "Luca de Alfaro"
+    },
+    {
+        "author": "Lucia"
+    },
+    {
+        "author": "Lucian Popa 0002"
+    },
+    {
+        "author": "Luciana S. Buriol"
+    },
+    {
+        "author": "Luigi Palopoli"
+    },
+    {
+        "author": "Luigi Stringa"
+    },
+    {
+        "author": "Luis Rademacher"
+    },
+    {
+        "author": "Lukasz Kowalik"
+    },
+    {
+        "author": "Luke Dickens"
+    },
+    {
+        "author": "Luo Si"
+    },
+    {
+        "author": "Lutz M. Wegner"
+    },
+    {
+        "author": "Lutz Schrder"
+    },
+    {
+        "author": "Lydia E. Kavraki"
+    },
+    {
+        "author": "M. Howard Williams"
+    },
+    {
+        "author": "M. Praveen"
+    },
+    {
+        "author": "M. S. Ramanujan"
+    },
+    {
+        "author": "Maaz Bin Safeer Ahmad"
+    },
+    {
+        "author": "Maciej Liskiewicz"
+    },
+    {
+        "author": "Madanlal Musuvathi"
+    },
+    {
+        "author": "Madhav V. Marathe"
+    },
+    {
+        "author": "Madhur Kohli"
+    },
+    {
+        "author": "Mahmut T. Kandemir"
+    },
+    {
+        "author": "Mahsa Derakhshan"
+    },
+    {
+        "author": "Mahyar Salek"
+    },
+    {
+        "author": "Majid Sarrafzadeh"
+    },
+    {
+        "author": "Makoto Amamiya"
+    },
+    {
+        "author": "Makoto Nakatsuji"
+    },
+    {
+        "author": "Makoto Onizuka"
+    },
+    {
+        "author": "Maksims Volkovs"
+    },
+    {
+        "author": "Mal Castellanos"
+    },
+    {
+        "author": "Malik Magdon-Ismail"
+    },
+    {
+        "author": "Mamoru Umemura"
+    },
+    {
+        "author": "Manasi Vartak"
+    },
+    {
+        "author": "Manfred Jaeger"
+    },
+    {
+        "author": "Manfred K. Warmuth"
+    },
+    {
+        "author": "Manish Gupta 0001"
+    },
+    {
+        "author": "Manish Jain"
+    },
+    {
+        "author": "Manish Marwah"
+    },
+    {
+        "author": "Manish Singh"
+    },
+    {
+        "author": "Manohar Kaul"
+    },
+    {
+        "author": "Manoj Gupta"
+    },
+    {
+        "author": "Manolis Koubarakis"
+    },
+    {
+        "author": "Mantas Simkus"
+    },
+    {
+        "author": "Manu Sridharan"
+    },
+    {
+        "author": "Manuel Bodirsky"
+    },
+    {
+        "author": "Manuel Cebrin"
+    },
+    {
+        "author": "Manuel Sorge"
+    },
+    {
+        "author": "Manuel V. Hermenegildo"
+    },
+    {
+        "author": "Mao Yang"
+    },
+    {
+        "author": "Maoying Qiao"
+    },
+    {
+        "author": "Marc Andries"
+    },
+    {
+        "author": "Marc Lelarge"
+    },
+    {
+        "author": "Marc Tommasi"
+    },
+    {
+        "author": "Marcelo Cintra"
+    },
+    {
+        "author": "Marcin Jurdzinski"
+    },
+    {
+        "author": "Marco A. Casanova"
+    },
+    {
+        "author": "Marco Cadoli"
+    },
+    {
+        "author": "Marco Calautti"
+    },
+    {
+        "author": "Marco Faella"
+    },
+    {
+        "author": "Marco Gaboardi"
+    },
+    {
+        "author": "Marco Gori"
+    },
+    {
+        "author": "Marco Manna"
+    },
+    {
+        "author": "Marco Molinaro"
+    },
+    {
+        "author": "Marco Montali"
+    },
+    {
+        "author": "Marco Schaerf"
+    },
+    {
+        "author": "Marek Cygan"
+    },
+    {
+        "author": "Margaret E. Connell"
+    },
+    {
+        "author": "Margus Veanes"
+    },
+    {
+        "author": "Maria Luisa Bonet"
+    },
+    {
+        "author": "Maria Luisa Sapino"
+    },
+    {
+        "author": "Maria Muslea"
+    },
+    {
+        "author": "Maria Vanina Martinez"
+    },
+    {
+        "author": "Maria-Esther Vidal"
+    },
+    {
+        "author": "Maria-Florina Balcan"
+    },
+    {
+        "author": "Marianne Shaw"
+    },
+    {
+        "author": "Marianne Winslett"
+    },
+    {
+        "author": "Mariano P. Consens"
+    },
+    {
+        "author": "Marie-Christine Rousset"
+    },
+    {
+        "author": "Marina Danilevsky"
+    },
+    {
+        "author": "Marina Lipshteyn"
+    },
+    {
+        "author": "Mario Alviano"
+    },
+    {
+        "author": "Mario Blaum"
+    },
+    {
+        "author": "Mario Szegedy"
+    },
+    {
+        "author": "Mario Tokoro"
+    },
+    {
+        "author": "Marios D. Dikaiakos"
+    },
+    {
+        "author": "Marios Skounakis"
+    },
+    {
+        "author": "Mark A. Iwen"
+    },
+    {
+        "author": "Mark A. Smith"
+    },
+    {
+        "author": "Mark D. Hill"
+    },
+    {
+        "author": "Mark J. Post"
+    },
+    {
+        "author": "Mark Lillibridge"
+    },
+    {
+        "author": "Mark N. Wegman"
+    },
+    {
+        "author": "Mark R. Tuttle"
+    },
+    {
+        "author": "Mark S. Manasse"
+    },
+    {
+        "author": "Mark S. Squillante"
+    },
+    {
+        "author": "Mark Sandler"
+    },
+    {
+        "author": "Mark Schmidt"
+    },
+    {
+        "author": "Mark de Berg"
+    },
+    {
+        "author": "Marko Grobelnik"
+    },
+    {
+        "author": "Marko Samer"
+    },
+    {
+        "author": "Markus Chimani"
+    },
+    {
+        "author": "Markus Krtzsch"
+    },
+    {
+        "author": "Markus Peters"
+    },
+    {
+        "author": "Markus Pschel"
+    },
+    {
+        "author": "Markus Weimer"
+    },
+    {
+        "author": "Marten van Dijk"
+    },
+    {
+        "author": "Martha Sideri"
+    },
+    {
+        "author": "Martin A. Fischler"
+    },
+    {
+        "author": "Martin Aumller 0001"
+    },
+    {
+        "author": "Martin Cadeiras"
+    },
+    {
+        "author": "Martin Ester"
+    },
+    {
+        "author": "Martin Farach-Colton"
+    },
+    {
+        "author": "Martin Hirzel"
+    },
+    {
+        "author": "Martin Hoefer"
+    },
+    {
+        "author": "Martin J. Strauss"
+    },
+    {
+        "author": "Martin J. Wainwright"
+    },
+    {
+        "author": "Martin Karsten"
+    },
+    {
+        "author": "Martin Kouteck"
+    },
+    {
+        "author": "Martin Mundhenk"
+    },
+    {
+        "author": "Martin Rajman"
+    },
+    {
+        "author": "Martin Strauss 0001"
+    },
+    {
+        "author": "Martin T. Vechev"
+    },
+    {
+        "author": "Martin Wattenberg"
+    },
+    {
+        "author": "Martin Wirsing"
+    },
+    {
+        "author": "Martin Zachariasen"
+    },
+    {
+        "author": "Marvin H. Solomon"
+    },
+    {
+        "author": "Mary F. Fernandez"
+    },
+    {
+        "author": "Mary F. Fernndez"
+    },
+    {
+        "author": "Mary Jane Irwin"
+    },
+    {
+        "author": "Masafumi Yamashita"
+    },
+    {
+        "author": "Masaharu Mizumoto"
+    },
+    {
+        "author": "Masaru Kitsuregawa"
+    },
+    {
+        "author": "Masashi Morimoto"
+    },
+    {
+        "author": "Masayuki Numao"
+    },
+    {
+        "author": "Massimo Cairo"
+    },
+    {
+        "author": "Massimo Mecella"
+    },
+    {
+        "author": "Mathias Bk Tejs Knudsen"
+    },
+    {
+        "author": "Mathieu Blondel"
+    },
+    {
+        "author": "Matt Welsh"
+    },
+    {
+        "author": "Matteo Frigo"
+    },
+    {
+        "author": "Matteo Migliavacca"
+    },
+    {
+        "author": "Matthew Coudron"
+    },
+    {
+        "author": "Matthew Morgenstern"
+    },
+    {
+        "author": "Matthias Grossglauser"
+    },
+    {
+        "author": "Matthias Kohler"
+    },
+    {
+        "author": "Matthias Mnich"
+    },
+    {
+        "author": "Matthias Poloczek"
+    },
+    {
+        "author": "Matthias Ruhl"
+    },
+    {
+        "author": "Matthias Schubert"
+    },
+    {
+        "author": "Matthias Weidlich"
+    },
+    {
+        "author": "Mauricio Martel"
+    },
+    {
+        "author": "Maurizio Gabbrielli"
+    },
+    {
+        "author": "Maurizio Lenzerini"
+    },
+    {
+        "author": "Maurizio Panti"
+    },
+    {
+        "author": "Max Dauchet"
+    },
+    {
+        "author": "Max H. Garzon"
+    },
+    {
+        "author": "Max Simchowitz"
+    },
+    {
+        "author": "Maximilian Katzmann"
+    },
+    {
+        "author": "Mayur Naik"
+    },
+    {
+        "author": "Md. Mostofa Ali Patwary"
+    },
+    {
+        "author": "Meghyn Bienvenu"
+    },
+    {
+        "author": "Mehdi T. Harandi"
+    },
+    {
+        "author": "Mehmet A. Orgun"
+    },
+    {
+        "author": "Mehran Sahami"
+    },
+    {
+        "author": "Meichun Hsu"
+    },
+    {
+        "author": "Meirav Zehavi"
+    },
+    {
+        "author": "Melika Abolhassani"
+    },
+    {
+        "author": "Meng Fang"
+    },
+    {
+        "author": "Meng Jiang 0001"
+    },
+    {
+        "author": "Meng Wang"
+    },
+    {
+        "author": "Meng Zhang"
+    },
+    {
+        "author": "Mengdi Wang"
+    },
+    {
+        "author": "Mengling Feng"
+    },
+    {
+        "author": "Merrick L. Furst"
+    },
+    {
+        "author": "Mert Saglam"
+    },
+    {
+        "author": "Mi-Yen Yeh"
+    },
+    {
+        "author": "Miao Zhang"
+    },
+    {
+        "author": "Micah Sherr"
+    },
+    {
+        "author": "Michael A. Bender"
+    },
+    {
+        "author": "Michael A. Harrison"
+    },
+    {
+        "author": "Michael A. Langston"
+    },
+    {
+        "author": "Michael Baron"
+    },
+    {
+        "author": "Michael Bauer"
+    },
+    {
+        "author": "Michael Carbin"
+    },
+    {
+        "author": "Michael Codish"
+    },
+    {
+        "author": "Michael D. Ernst"
+    },
+    {
+        "author": "Michael D. Smith 0001"
+    },
+    {
+        "author": "Michael E. Houle"
+    },
+    {
+        "author": "Michael F. P. O'Boyle"
+    },
+    {
+        "author": "Michael Fink 0001"
+    },
+    {
+        "author": "Michael Frazier"
+    },
+    {
+        "author": "Michael Gelfond"
+    },
+    {
+        "author": "Michael Hammer"
+    },
+    {
+        "author": "Michael Hay"
+    },
+    {
+        "author": "Michael I. Schwartzbach"
+    },
+    {
+        "author": "Michael J. Cafarella"
+    },
+    {
+        "author": "Michael J. Fischer"
+    },
+    {
+        "author": "Michael J. Freedman"
+    },
+    {
+        "author": "Michael J. Kearns"
+    },
+    {
+        "author": "Michael J. Maher"
+    },
+    {
+        "author": "Michael J. Pazzani"
+    },
+    {
+        "author": "Michael Jones"
+    },
+    {
+        "author": "Michael K. Ng"
+    },
+    {
+        "author": "Michael Kaminsky"
+    },
+    {
+        "author": "Michael Kaufmann 0001"
+    },
+    {
+        "author": "Michael Kifer"
+    },
+    {
+        "author": "Michael Kozuch"
+    },
+    {
+        "author": "Michael L. Brodie"
+    },
+    {
+        "author": "Michael L. Wick"
+    },
+    {
+        "author": "Michael Lesk"
+    },
+    {
+        "author": "Michael Luby"
+    },
+    {
+        "author": "Michael Mathioudakis"
+    },
+    {
+        "author": "Michael Mendler"
+    },
+    {
+        "author": "Michael Merritt"
+    },
+    {
+        "author": "Michael Morak"
+    },
+    {
+        "author": "Michael Mozer"
+    },
+    {
+        "author": "Michael Murphy"
+    },
+    {
+        "author": "Michael Norrish"
+    },
+    {
+        "author": "Michael P. Kim"
+    },
+    {
+        "author": "Michael R. Anderson"
+    },
+    {
+        "author": "Michael R. Fellows"
+    },
+    {
+        "author": "Michael R. Genesereth"
+    },
+    {
+        "author": "Michael R. Lyu"
+    },
+    {
+        "author": "Michael Rabinovich"
+    },
+    {
+        "author": "Michael Rodeh"
+    },
+    {
+        "author": "Michael S. Bernstein"
+    },
+    {
+        "author": "Michael Schapira"
+    },
+    {
+        "author": "Michael Shindler"
+    },
+    {
+        "author": "Michael Siegel"
+    },
+    {
+        "author": "Michael T. Hallett"
+    },
+    {
+        "author": "Michael Theobald"
+    },
+    {
+        "author": "Michael Vanden Boom"
+    },
+    {
+        "author": "Michael W. Hicks"
+    },
+    {
+        "author": "Michael Werman"
+    },
+    {
+        "author": "Michael Zakharyaschev"
+    },
+    {
+        "author": "Michael Zuckerman"
+    },
+    {
+        "author": "Michal Feldman"
+    },
+    {
+        "author": "Michal Pilipczuk"
+    },
+    {
+        "author": "Michal Rusinowitch"
+    },
+    {
+        "author": "Michalis Vazirgiannis"
+    },
+    {
+        "author": "Michel Bantre"
+    },
+    {
+        "author": "Michel Bidoit"
+    },
+    {
+        "author": "Michelangelo Diligenti"
+    },
+    {
+        "author": "Michele Flammini"
+    },
+    {
+        "author": "Michiel O. Noordewier"
+    },
+    {
+        "author": "Mickey Brautbar"
+    },
+    {
+        "author": "Miguel Castro"
+    },
+    {
+        "author": "Mihaela van der Schaar"
+    },
+    {
+        "author": "Mihai Patrascu"
+    },
+    {
+        "author": "Mihalis Yannakakis"
+    },
+    {
+        "author": "Mike P. Papazoglou"
+    },
+    {
+        "author": "Mike Paterson"
+    },
+    {
+        "author": "Mikhail Belkin"
+    },
+    {
+        "author": "Mikhail Bilenko"
+    },
+    {
+        "author": "Mikhail J. Atallah"
+    },
+    {
+        "author": "Miki Hermann"
+    },
+    {
+        "author": "Mikko Koivisto"
+    },
+    {
+        "author": "Mikls Z. Rcz"
+    },
+    {
+        "author": "Mikolaj Bojanczyk"
+    },
+    {
+        "author": "Milad Hashemi"
+    },
+    {
+        "author": "Milena Mihail"
+    },
+    {
+        "author": "Min Wang"
+    },
+    {
+        "author": "Min Wang 0001"
+    },
+    {
+        "author": "Min Wu 0008"
+    },
+    {
+        "author": "Min Xu"
+    },
+    {
+        "author": "Ming C. Lin"
+    },
+    {
+        "author": "Ming Gu 0002"
+    },
+    {
+        "author": "Ming Ji"
+    },
+    {
+        "author": "Ming Li 0001"
+    },
+    {
+        "author": "Ming Liu"
+    },
+    {
+        "author": "Ming Liu 0004"
+    },
+    {
+        "author": "Ming T. Liu"
+    },
+    {
+        "author": "Ming Zhang"
+    },
+    {
+        "author": "Ming-Syan Chen"
+    },
+    {
+        "author": "Minghua Zhang"
+    },
+    {
+        "author": "Mingjie Zhao"
+    },
+    {
+        "author": "Mingyu Xiao"
+    },
+    {
+        "author": "Minlan Yu"
+    },
+    {
+        "author": "Minos N. Garofalakis"
+    },
+    {
+        "author": "Minqing Hu"
+    },
+    {
+        "author": "Miquel Bofill"
+    },
+    {
+        "author": "Mireille Rgnier"
+    },
+    {
+        "author": "Mirek Riedewald"
+    },
+    {
+        "author": "Mirko Schiavone"
+    },
+    {
+        "author": "Miroslav Dudk"
+    },
+    {
+        "author": "Miryung Kim"
+    },
+    {
+        "author": "Mitsuru Kusumoto"
+    },
+    {
+        "author": "Mohamed Ahmed"
+    },
+    {
+        "author": "Mohamed Faouzi Atig"
+    },
+    {
+        "author": "Mohammad Ghodsi"
+    },
+    {
+        "author": "Mohammad Rostami"
+    },
+    {
+        "author": "Mohammad Taghi Hajiaghayi"
+    },
+    {
+        "author": "MohammadHossein Bateni"
+    },
+    {
+        "author": "MohammadTaghi Hajiaghayi"
+    },
+    {
+        "author": "Mohan Yang"
+    },
+    {
+        "author": "Mohsen Bayati"
+    },
+    {
+        "author": "Moiss Goldszmidt"
+    },
+    {
+        "author": "Monaldo Mastrolilli"
+    },
+    {
+        "author": "Mong-Li Lee"
+    },
+    {
+        "author": "Monica S. Lam"
+    },
+    {
+        "author": "Monika Henzinger"
+    },
+    {
+        "author": "Mooly Sagiv"
+    },
+    {
+        "author": "Moon-Jung Chung"
+    },
+    {
+        "author": "Moran Feldman"
+    },
+    {
+        "author": "Moritz Hardt"
+    },
+    {
+        "author": "Moritz Steiner"
+    },
+    {
+        "author": "Morten Stckel"
+    },
+    {
+        "author": "Morteza Ibrahimi"
+    },
+    {
+        "author": "Morteza Monemizadeh"
+    },
+    {
+        "author": "Morteza Zadimoghaddam"
+    },
+    {
+        "author": "Mosfeq Rashid"
+    },
+    {
+        "author": "Mosharaf Chowdhury"
+    },
+    {
+        "author": "Moshe Babaioff"
+    },
+    {
+        "author": "Moshe Tennenholtz"
+    },
+    {
+        "author": "Mostafa H. Ammar"
+    },
+    {
+        "author": "Motohide Umano"
+    },
+    {
+        "author": "Mu Li"
+    },
+    {
+        "author": "Mu-Woong Lee"
+    },
+    {
+        "author": "Muhammed Uluyol"
+    },
+    {
+        "author": "Mung Chiang"
+    },
+    {
+        "author": "Munindar P. Singh"
+    },
+    {
+        "author": "Murad S. Taqqu"
+    },
+    {
+        "author": "Murthy V. Devarakonda"
+    },
+    {
+        "author": "Murugan Sankaradass"
+    },
+    {
+        "author": "Mustafa Uysal"
+    },
+    {
+        "author": "Muthuramakrishnan Venkitasubramaniam"
+    },
+    {
+        "author": "My T. Thai"
+    },
+    {
+        "author": "N. Ranganathan"
+    },
+    {
+        "author": "N. V. Vinodchandran"
+    },
+    {
+        "author": "Na Li"
+    },
+    {
+        "author": "Na Zhao"
+    },
+    {
+        "author": "Nabil H. Mustafa"
+    },
+    {
+        "author": "Nachum Dershowitz"
+    },
+    {
+        "author": "Nader H. Bshouty"
+    },
+    {
+        "author": "Naeemul Hassan"
+    },
+    {
+        "author": "Nagiza F. Samatova"
+    },
+    {
+        "author": "Nahid Shahmehri"
+    },
+    {
+        "author": "Nam H. Nguyen"
+    },
+    {
+        "author": "Naman Agarwal"
+    },
+    {
+        "author": "Naman Goel"
+    },
+    {
+        "author": "Nan Jiang"
+    },
+    {
+        "author": "Nan Li"
+    },
+    {
+        "author": "Nancy A. Lynch"
+    },
+    {
+        "author": "Nanning Zheng"
+    },
+    {
+        "author": "Naoki Kobayashi 0001"
+    },
+    {
+        "author": "Naoki Marumo"
+    },
+    {
+        "author": "Naomi Nishimura"
+    },
+    {
+        "author": "Naonori Kakimura"
+    },
+    {
+        "author": "Naonori Ueda"
+    },
+    {
+        "author": "Naoto Ohsaka"
+    },
+    {
+        "author": "Naoto Takahashi"
+    },
+    {
+        "author": "Narayanan Sundaram"
+    },
+    {
+        "author": "Narayanan Vijaykrishnan"
+    },
+    {
+        "author": "Narendra Karmarkar"
+    },
+    {
+        "author": "Natali Ruchansky"
+    },
+    {
+        "author": "Nate Kushman"
+    },
+    {
+        "author": "Nathan Srebro"
+    },
+    {
+        "author": "Nati Linial"
+    },
+    {
+        "author": "Naveen Kumar"
+    },
+    {
+        "author": "Navendu Jain"
+    },
+    {
+        "author": "Navin Goyal"
+    },
+    {
+        "author": "Neal E. Young"
+    },
+    {
+        "author": "Neeldhara Misra"
+    },
+    {
+        "author": "Neil C. Rowe"
+    },
+    {
+        "author": "Neil M. Goldman"
+    },
+    {
+        "author": "Neil Vachharajani"
+    },
+    {
+        "author": "Nello Cristianini"
+    },
+    {
+        "author": "Neoklis Polyzotis"
+    },
+    {
+        "author": "Nguyen Quoc Viet Hung"
+    },
+    {
+        "author": "Nguyen Thanh Tam"
+    },
+    {
+        "author": "Nicholas Jacek"
+    },
+    {
+        "author": "Nicholas Jing Yuan"
+    },
+    {
+        "author": "Nick Bassiliades"
+    },
+    {
+        "author": "Nick Cercone"
+    },
+    {
+        "author": "Nick Gravin"
+    },
+    {
+        "author": "Nick Koudas"
+    },
+    {
+        "author": "Nick Lanham"
+    },
+    {
+        "author": "Nick Littlestone"
+    },
+    {
+        "author": "Nick Reingold"
+    },
+    {
+        "author": "Nick Roussopoulos"
+    },
+    {
+        "author": "Nicol Cesa-Bianchi"
+    },
+    {
+        "author": "Nicolas Macris"
+    },
+    {
+        "author": "Nicolas Rivera"
+    },
+    {
+        "author": "Nicole Immorlica"
+    },
+    {
+        "author": "Nicole Schweikardt"
+    },
+    {
+        "author": "Nicols E. Stier Moses"
+    },
+    {
+        "author": "Nihar B. Shah"
+    },
+    {
+        "author": "Nika Haghtalab"
+    },
+    {
+        "author": "Nikhil Swamy"
+    },
+    {
+        "author": "Nikita Ivkin"
+    },
+    {
+        "author": "Nikolaj Bjrner"
+    },
+    {
+        "author": "Nikolay Laptev"
+    },
+    {
+        "author": "Nikos Hardavellas"
+    },
+    {
+        "author": "Nikos Mamoulis"
+    },
+    {
+        "author": "Nikos Parotsidis"
+    },
+    {
+        "author": "Nikos Vlassis"
+    },
+    {
+        "author": "Nilesh N. Dalvi"
+    },
+    {
+        "author": "Niloy Ganguly"
+    },
+    {
+        "author": "Nils Klarlund"
+    },
+    {
+        "author": "Nils Kriege"
+    },
+    {
+        "author": "Nimar S. Arora"
+    },
+    {
+        "author": "Nina Taft"
+    },
+    {
+        "author": "Ning Chen"
+    },
+    {
+        "author": "Ning Ding"
+    },
+    {
+        "author": "Ning Kang"
+    },
+    {
+        "author": "Ning Li"
+    },
+    {
+        "author": "Ning Xu"
+    },
+    {
+        "author": "Ning Zheng"
+    },
+    {
+        "author": "Ningyi Xu"
+    },
+    {
+        "author": "Nir Ailon"
+    },
+    {
+        "author": "Nir Shavit"
+    },
+    {
+        "author": "Nirman Kumar"
+    },
+    {
+        "author": "Nishanth Dikkala"
+    },
+    {
+        "author": "Nisheeth K. Vishnoi"
+    },
+    {
+        "author": "Nita Goyal"
+    },
+    {
+        "author": "Nithya Rajamani"
+    },
+    {
+        "author": "Nitish Korula"
+    },
+    {
+        "author": "Noa Agmon"
+    },
+    {
+        "author": "Noboru Murata"
+    },
+    {
+        "author": "Nobuyoshi Miyazaki"
+    },
+    {
+        "author": "Nong Xiao"
+    },
+    {
+        "author": "Noriko H. Arai"
+    },
+    {
+        "author": "Norman C. Hutchinson"
+    },
+    {
+        "author": "Norton Greenfeld"
+    },
+    {
+        "author": "Nosayba El-Sayed"
+    },
+    {
+        "author": "Octavian Procopiuc"
+    },
+    {
+        "author": "Octavian Udrea"
+    },
+    {
+        "author": "Oege de Moor"
+    },
+    {
+        "author": "Ofer Dekel"
+    },
+    {
+        "author": "Ofer Strichman"
+    },
+    {
+        "author": "Ofir Geri"
+    },
+    {
+        "author": "Oktie Hassanzadeh"
+    },
+    {
+        "author": "Ola Svensson"
+    },
+    {
+        "author": "Olaf Hartig"
+    },
+    {
+        "author": "Olivier Coudert"
+    },
+    {
+        "author": "Olivier Danvy"
+    },
+    {
+        "author": "Olivier Dubois 0002"
+    },
+    {
+        "author": "Omer Barkol"
+    },
+    {
+        "author": "Omer Levy"
+    },
+    {
+        "author": "Omer Reingold"
+    },
+    {
+        "author": "Omer Tamuz"
+    },
+    {
+        "author": "Omid Madani"
+    },
+    {
+        "author": "Ophir Frieder"
+    },
+    {
+        "author": "Or Sheffet"
+    },
+    {
+        "author": "Oren Etzioni"
+    },
+    {
+        "author": "Oren Salzman"
+    },
+    {
+        "author": "Orna Kupferman"
+    },
+    {
+        "author": "Osamu Watanabe 0001"
+    },
+    {
+        "author": "Osbert Bastani"
+    },
+    {
+        "author": "Oscar Firschein"
+    },
+    {
+        "author": "Oscar H. Ibarra"
+    },
+    {
+        "author": "Osmar R. Zaane"
+    },
+    {
+        "author": "P. A. Subrahmanyam"
+    },
+    {
+        "author": "P. Anandan"
+    },
+    {
+        "author": "P. Dell'Orco"
+    },
+    {
+        "author": "P. Madhusudan"
+    },
+    {
+        "author": "P. Sadayappan"
+    },
+    {
+        "author": "P. Sreenivasa Kumar"
+    },
+    {
+        "author": "Palash Dey"
+    },
+    {
+        "author": "Paliath Narendran"
+    },
+    {
+        "author": "Pan Hu"
+    },
+    {
+        "author": "Panagiotis Karras"
+    },
+    {
+        "author": "Panayiotis Tsaparas"
+    },
+    {
+        "author": "Panayotis Mertikopoulos"
+    },
+    {
+        "author": "Pankaj Gupta"
+    },
+    {
+        "author": "Panos Kalnis"
+    },
+    {
+        "author": "Paolo Atzeni"
+    },
+    {
+        "author": "Paolo Costa"
+    },
+    {
+        "author": "Paolo Ferragina"
+    },
+    {
+        "author": "Paolo Guagliardo"
+    },
+    {
+        "author": "Paolo Liberatore"
+    },
+    {
+        "author": "Parikshit Gopalan"
+    },
+    {
+        "author": "Paris C. Kanellakis"
+    },
+    {
+        "author": "Partha Niyogi"
+    },
+    {
+        "author": "Partha Pratim Talukdar"
+    },
+    {
+        "author": "Pascal Koiran"
+    },
+    {
+        "author": "Pascal Poncelet"
+    },
+    {
+        "author": "Pascal Van Hentenryck"
+    },
+    {
+        "author": "Pasin Manurangsi"
+    },
+    {
+        "author": "Pat Helland"
+    },
+    {
+        "author": "Patrice Quinton"
+    },
+    {
+        "author": "Patricio V. Poblete"
+    },
+    {
+        "author": "Patrick A. V. Hall"
+    },
+    {
+        "author": "Patrick C. Fischer"
+    },
+    {
+        "author": "Patrick Cousot"
+    },
+    {
+        "author": "Patrick J. Hayes"
+    },
+    {
+        "author": "Patrick Jaillet"
+    },
+    {
+        "author": "Patrick Lincoln"
+    },
+    {
+        "author": "Paul Compton"
+    },
+    {
+        "author": "Paul De Bra"
+    },
+    {
+        "author": "Paul Fischer"
+    },
+    {
+        "author": "Paul Mineiro"
+    },
+    {
+        "author": "Paul N. Hilfinger"
+    },
+    {
+        "author": "Paul Valiant"
+    },
+    {
+        "author": "Paul W. Goldberg"
+    },
+    {
+        "author": "Paul Watson 0001"
+    },
+    {
+        "author": "Pauli Miettinen"
+    },
+    {
+        "author": "Pavel Avgustinov"
+    },
+    {
+        "author": "Pavol Bielik"
+    },
+    {
+        "author": "Pavol Cern"
+    },
+    {
+        "author": "Pawel Parys"
+    },
+    {
+        "author": "Pedro Casas"
+    },
+    {
+        "author": "Pedro Celis"
+    },
+    {
+        "author": "Pedro Cruz"
+    },
+    {
+        "author": "Pedro M. Domingos"
+    },
+    {
+        "author": "Peiya Liu"
+    },
+    {
+        "author": "Pekka Orponen"
+    },
+    {
+        "author": "Pekka Parviainen"
+    },
+    {
+        "author": "Peng Cheng"
+    },
+    {
+        "author": "Peng Wang"
+    },
+    {
+        "author": "Peng Zhang"
+    },
+    {
+        "author": "Pengcheng Wang"
+    },
+    {
+        "author": "Per Austrin"
+    },
+    {
+        "author": "Per-ke Larson"
+    },
+    {
+        "author": "Periklis A. Papakonstantinou"
+    },
+    {
+        "author": "Persi Diaconis"
+    },
+    {
+        "author": "Peter Auer"
+    },
+    {
+        "author": "Peter Bro Miltersen"
+    },
+    {
+        "author": "Peter Clote"
+    },
+    {
+        "author": "Peter Davies"
+    },
+    {
+        "author": "Peter Dolog"
+    },
+    {
+        "author": "Peter Druschel"
+    },
+    {
+        "author": "Peter F. Sweeney"
+    },
+    {
+        "author": "Peter G. Selfridge"
+    },
+    {
+        "author": "Peter Haase 0001"
+    },
+    {
+        "author": "Peter Habermehl"
+    },
+    {
+        "author": "Peter Hitchcock"
+    },
+    {
+        "author": "Peter Jackson"
+    },
+    {
+        "author": "Peter Jeavons"
+    },
+    {
+        "author": "Peter Jonsson"
+    },
+    {
+        "author": "Peter Lofgren"
+    },
+    {
+        "author": "Peter M. Chen"
+    },
+    {
+        "author": "Peter M. D. Gray"
+    },
+    {
+        "author": "Peter M. Kogge"
+    },
+    {
+        "author": "Peter N. Yianilos"
+    },
+    {
+        "author": "Peter P. Chen"
+    },
+    {
+        "author": "Peter R. Pietzuch"
+    },
+    {
+        "author": "Peter Raulefs"
+    },
+    {
+        "author": "Peter Sanders 0001"
+    },
+    {
+        "author": "Peter Sewell"
+    },
+    {
+        "author": "Peter Widmayer"
+    },
+    {
+        "author": "Peter van Emde Boas"
+    },
+    {
+        "author": "Petr A. Golovach"
+    },
+    {
+        "author": "Petr Savick"
+    },
+    {
+        "author": "Petra Selmer"
+    },
+    {
+        "author": "Petros Maniatis"
+    },
+    {
+        "author": "Phan Huy Tu"
+    },
+    {
+        "author": "Pheng-Ann Heng"
+    },
+    {
+        "author": "Phil Sallee"
+    },
+    {
+        "author": "Philip A. Chou"
+    },
+    {
+        "author": "Philip Klahr"
+    },
+    {
+        "author": "Philip Levis"
+    },
+    {
+        "author": "Philip M. Long"
+    },
+    {
+        "author": "Philip Wadler"
+    },
+    {
+        "author": "Philipp Cimiano"
+    },
+    {
+        "author": "Philipp Hertel"
+    },
+    {
+        "author": "Philippa Gardner"
+    },
+    {
+        "author": "Philippe Cudr-Mauroux"
+    },
+    {
+        "author": "Philippe Jacquet"
+    },
+    {
+        "author": "Philippe Picouet"
+    },
+    {
+        "author": "Piero A. Bonatti"
+    },
+    {
+        "author": "Pierpaolo Degano"
+    },
+    {
+        "author": "Pierre Lescanne"
+    },
+    {
+        "author": "Pierre Morizet-Mahoudeaux"
+    },
+    {
+        "author": "Pierre Schaus"
+    },
+    {
+        "author": "Pierre Senellart"
+    },
+    {
+        "author": "Pierre Wolper"
+    },
+    {
+        "author": "Pietro Michiardi"
+    },
+    {
+        "author": "Pietro Sala"
+    },
+    {
+        "author": "Pinar Tzn"
+    },
+    {
+        "author": "Ping Li 0001"
+    },
+    {
+        "author": "Ping Luo"
+    },
+    {
+        "author": "Ping Zhou"
+    },
+    {
+        "author": "Pinyan Lu"
+    },
+    {
+        "author": "Piotr Krysta"
+    },
+    {
+        "author": "Piotr Sankowski"
+    },
+    {
+        "author": "Piotr Skowron"
+    },
+    {
+        "author": "Piyush Kumar"
+    },
+    {
+        "author": "Prabhakar Ragde"
+    },
+    {
+        "author": "Prabhakar Raghavan"
+    },
+    {
+        "author": "Pradeep Dubey"
+    },
+    {
+        "author": "Pradeep Shenoy"
+    },
+    {
+        "author": "Pragnesh Jay Modi"
+    },
+    {
+        "author": "Prakash Panangaden"
+    },
+    {
+        "author": "Pramod Viswanath"
+    },
+    {
+        "author": "Praneeth Netrapalli"
+    },
+    {
+        "author": "Prasanna Ganesan"
+    },
+    {
+        "author": "Prasant Mohapatra"
+    },
+    {
+        "author": "Prasanta K. Bose"
+    },
+    {
+        "author": "Prasenjit Mitra"
+    },
+    {
+        "author": "Prashant J. Shenoy"
+    },
+    {
+        "author": "Prashanth Mohan"
+    },
+    {
+        "author": "Prateek Jain 0002"
+    },
+    {
+        "author": "Pratik Worah"
+    },
+    {
+        "author": "Praveen Yalagandula"
+    },
+    {
+        "author": "Pravesh Kothari"
+    },
+    {
+        "author": "Premkumar T. Devanbu"
+    },
+    {
+        "author": "Prithviraj Banerjee"
+    },
+    {
+        "author": "Prithviraj Sen"
+    },
+    {
+        "author": "Purnamrita Sarkar"
+    },
+    {
+        "author": "Qi Cheng"
+    },
+    {
+        "author": "Qi Liu"
+    },
+    {
+        "author": "Qi Su"
+    },
+    {
+        "author": "Qi Wu"
+    },
+    {
+        "author": "Qi Zhang"
+    },
+    {
+        "author": "Qi Zhang 0001"
+    },
+    {
+        "author": "Qian Chen"
+    },
+    {
+        "author": "Qian Wang"
+    },
+    {
+        "author": "Qian Zhong"
+    },
+    {
+        "author": "Qiang Cheng"
+    },
+    {
+        "author": "Qiang Liu"
+    },
+    {
+        "author": "Qiang Qu"
+    },
+    {
+        "author": "Qiang Wang"
+    },
+    {
+        "author": "Qiang Wu"
+    },
+    {
+        "author": "Qiang Yang 0001"
+    },
+    {
+        "author": "Qiang Ye"
+    },
+    {
+        "author": "Qiang Zhang"
+    },
+    {
+        "author": "Qiao Zhang"
+    },
+    {
+        "author": "Qiming Chen"
+    },
+    {
+        "author": "Qin Lv"
+    },
+    {
+        "author": "Qing He"
+    },
+    {
+        "author": "Qing Li"
+    },
+    {
+        "author": "Qing Wang"
+    },
+    {
+        "author": "Qing Zhang"
+    },
+    {
+        "author": "Qingbo Zhu"
+    },
+    {
+        "author": "Qinghua Zheng"
+    },
+    {
+        "author": "Qingqing Huang"
+    },
+    {
+        "author": "Qiong Luo 0001"
+    },
+    {
+        "author": "Qirong Ho"
+    },
+    {
+        "author": "Qixiang Sun"
+    },
+    {
+        "author": "Quan Yuan 0001"
+    },
+    {
+        "author": "R. Hart"
+    },
+    {
+        "author": "R. M. Lee"
+    },
+    {
+        "author": "Raajay Viswanathan"
+    },
+    {
+        "author": "Rachel Ben-Eliyahu-Zohary"
+    },
+    {
+        "author": "Rad Niazadeh"
+    },
+    {
+        "author": "Rada Chirkova"
+    },
+    {
+        "author": "Radek Grzeszczuk"
+    },
+    {
+        "author": "Radek Vingralek"
+    },
+    {
+        "author": "Radhia Cousot"
+    },
+    {
+        "author": "Radu Grigore"
+    },
+    {
+        "author": "Raef Bassily"
+    },
+    {
+        "author": "Rafael M. Frongillo"
+    },
+    {
+        "author": "Rafael Pass"
+    },
+    {
+        "author": "Rafael da Ponte Barbosa"
+    },
+    {
+        "author": "Rafail Ostrovsky"
+    },
+    {
+        "author": "Ragesh Jaiswal"
+    },
+    {
+        "author": "Raghu Karinthi"
+    },
+    {
+        "author": "Raghu Krishnapuram"
+    },
+    {
+        "author": "Raghu Meka"
+    },
+    {
+        "author": "Rahul Garg"
+    },
+    {
+        "author": "Rahul Gupta"
+    },
+    {
+        "author": "Rahul Sami"
+    },
+    {
+        "author": "Rahul Santhanam"
+    },
+    {
+        "author": "Rahul Sarpeshkar"
+    },
+    {
+        "author": "Rahul Savani"
+    },
+    {
+        "author": "Rahul Shah"
+    },
+    {
+        "author": "Raimund Seidel"
+    },
+    {
+        "author": "Rainer Gemulla"
+    },
+    {
+        "author": "Raja Ramnarayan"
+    },
+    {
+        "author": "Rajarshi Das"
+    },
+    {
+        "author": "Rajeev Raman"
+    },
+    {
+        "author": "Rajesh Hemant Chitnis"
+    },
+    {
+        "author": "Rajesh Jayaram"
+    },
+    {
+        "author": "Rajesh K. Gupta 0001"
+    },
+    {
+        "author": "Rajiv Chopra"
+    },
+    {
+        "author": "Rajiv Ramaswami"
+    },
+    {
+        "author": "Raju Rangaswami"
+    },
+    {
+        "author": "Rakesh Agrawal 0001"
+    },
+    {
+        "author": "Rakesh K. Sinha"
+    },
+    {
+        "author": "Rakesh M. Verma"
+    },
+    {
+        "author": "Ralf Mller"
+    },
+    {
+        "author": "Ramakrishna Gummadi"
+    },
+    {
+        "author": "Ramamohan Paturi"
+    },
+    {
+        "author": "Ramanathan V. Guha"
+    },
+    {
+        "author": "Ramasuri Narayanam"
+    },
+    {
+        "author": "Ramayya Krishnan"
+    },
+    {
+        "author": "Ramesh Govindan"
+    },
+    {
+        "author": "Ramesh Hariharan"
+    },
+    {
+        "author": "Ramesh Jain"
+    },
+    {
+        "author": "Ramesh Johari"
+    },
+    {
+        "author": "Ramesh K. Sitaraman"
+    },
+    {
+        "author": "Ramgopal R. Mettu"
+    },
+    {
+        "author": "Ramon Lawrence"
+    },
+    {
+        "author": "Ramya Raghavendra"
+    },
+    {
+        "author": "Ran Ben-Basat"
+    },
+    {
+        "author": "Ran Canetti"
+    },
+    {
+        "author": "Ran Duan"
+    },
+    {
+        "author": "Ran El-Yaniv"
+    },
+    {
+        "author": "Randall H. Wilson"
+    },
+    {
+        "author": "Randeep Bhatia"
+    },
+    {
+        "author": "Randy Goebel"
+    },
+    {
+        "author": "Randy H. Katz"
+    },
+    {
+        "author": "Rani Izsak"
+    },
+    {
+        "author": "Ranjit Jhala"
+    },
+    {
+        "author": "Rasmus Ibsen-Jensen"
+    },
+    {
+        "author": "Rasmus Kyng"
+    },
+    {
+        "author": "Rasmus Pagh"
+    },
+    {
+        "author": "Ratul Mahajan"
+    },
+    {
+        "author": "Ravi Janardan"
+    },
+    {
+        "author": "Ravi Kannan"
+    },
+    {
+        "author": "Ravi Mangal"
+    },
+    {
+        "author": "Ravi Mukkamala"
+    },
+    {
+        "author": "Ravi Sundaram"
+    },
+    {
+        "author": "Ravindran Kannan"
+    },
+    {
+        "author": "Ravishankar K. Iyer"
+    },
+    {
+        "author": "Ravishankar Krishnaswamy"
+    },
+    {
+        "author": "Rayadurgam Srikant"
+    },
+    {
+        "author": "Raymie Stata"
+    },
+    {
+        "author": "Raymond E. Jennings"
+    },
+    {
+        "author": "Raymond E. Miller"
+    },
+    {
+        "author": "Raymond K. Wong"
+    },
+    {
+        "author": "Raymond T. Yeh"
+    },
+    {
+        "author": "Razvan C. Bunescu"
+    },
+    {
+        "author": "Rdiger Reischuk"
+    },
+    {
+        "author": "Reda Alhajj"
+    },
+    {
+        "author": "Reinhard Heckel"
+    },
+    {
+        "author": "Remzi H. Arpaci-Dusseau"
+    },
+    {
+        "author": "Renato Paes Leme"
+    },
+    {
+        "author": "Renaud Hartert"
+    },
+    {
+        "author": "Renu Kurien Bostwick"
+    },
+    {
+        "author": "Reut Levi"
+    },
+    {
+        "author": "Rhicheek Patra"
+    },
+    {
+        "author": "Ricardo A. Baeza-Yates"
+    },
+    {
+        "author": "Riccardo Rosati"
+    },
+    {
+        "author": "Rich Caruana"
+    },
+    {
+        "author": "Richard A. DeMillo"
+    },
+    {
+        "author": "Richard A. Hankins"
+    },
+    {
+        "author": "Richard Anderson"
+    },
+    {
+        "author": "Richard Beigel"
+    },
+    {
+        "author": "Richard C. T. Lee"
+    },
+    {
+        "author": "Richard C. Waters"
+    },
+    {
+        "author": "Richard Cole 0001"
+    },
+    {
+        "author": "Richard Cooper"
+    },
+    {
+        "author": "Richard D. Sisson Jr."
+    },
+    {
+        "author": "Richard Draves"
+    },
+    {
+        "author": "Richard H. Wolniewicz"
+    },
+    {
+        "author": "Richard Hull 0001"
+    },
+    {
+        "author": "Richard Johnson"
+    },
+    {
+        "author": "Richard L. Tenney"
+    },
+    {
+        "author": "Richard M. Jiang"
+    },
+    {
+        "author": "Richard Mortier"
+    },
+    {
+        "author": "Richard Nock"
+    },
+    {
+        "author": "Richard Peng"
+    },
+    {
+        "author": "Richard Yi Da Xu"
+    },
+    {
+        "author": "Rick Siow Mong Goh"
+    },
+    {
+        "author": "Riddhiman Ghosh"
+    },
+    {
+        "author": "Rin-ichiro Taniguchi"
+    },
+    {
+        "author": "Rina Dechter"
+    },
+    {
+        "author": "Rishabh Singh"
+    },
+    {
+        "author": "Rishan Chen"
+    },
+    {
+        "author": "Rishiyur S. Nikhil"
+    },
+    {
+        "author": "Risi Kondor"
+    },
+    {
+        "author": "Rita C. Summers"
+    },
+    {
+        "author": "Rob Johnson"
+    },
+    {
+        "author": "Rob Sherwood"
+    },
+    {
+        "author": "Robert A. Kowalski"
+    },
+    {
+        "author": "Robert A. Wagner"
+    },
+    {
+        "author": "Robert B. Ross"
+    },
+    {
+        "author": "Robert Balzer"
+    },
+    {
+        "author": "Robert Baumgartner"
+    },
+    {
+        "author": "Robert C. Miller"
+    },
+    {
+        "author": "Robert Cartwright"
+    },
+    {
+        "author": "Robert Cohn"
+    },
+    {
+        "author": "Robert Cypher"
+    },
+    {
+        "author": "Robert D. Kleinberg"
+    },
+    {
+        "author": "Robert D. Nowak"
+    },
+    {
+        "author": "Robert DeLine"
+    },
+    {
+        "author": "Robert Demolombe"
+    },
+    {
+        "author": "Robert E. Schapire"
+    },
+    {
+        "author": "Robert Ennals"
+    },
+    {
+        "author": "Robert F. Murphy"
+    },
+    {
+        "author": "Robert G. Wedig"
+    },
+    {
+        "author": "Robert Ganian"
+    },
+    {
+        "author": "Robert Grandl"
+    },
+    {
+        "author": "Robert Gruber"
+    },
+    {
+        "author": "Robert H. Sloan"
+    },
+    {
+        "author": "Robert Harper 0001"
+    },
+    {
+        "author": "Robert Kleinberg"
+    },
+    {
+        "author": "Robert L. Grossman"
+    },
+    {
+        "author": "Robert Latham"
+    },
+    {
+        "author": "Robert M. MacGregor"
+    },
+    {
+        "author": "Robert Martin"
+    },
+    {
+        "author": "Robert Meersman"
+    },
+    {
+        "author": "Robert Neches"
+    },
+    {
+        "author": "Robert Paige"
+    },
+    {
+        "author": "Robert W. Irving"
+    },
+    {
+        "author": "Roberto Bisiani"
+    },
+    {
+        "author": "Roberto Grossi"
+    },
+    {
+        "author": "Roberto J. Bayardo Jr."
+    },
+    {
+        "author": "Robin Milner"
+    },
+    {
+        "author": "Rocco A. Servedio"
+    },
+    {
+        "author": "Roded Sharan"
+    },
+    {
+        "author": "Rodney Farrow"
+    },
+    {
+        "author": "Rodney W. Topor"
+    },
+    {
+        "author": "Roger Hoover"
+    },
+    {
+        "author": "Roger Zimmermann"
+    },
+    {
+        "author": "Rohan Puttagunta"
+    },
+    {
+        "author": "Rohit Jain"
+    },
+    {
+        "author": "Rohit Khandekar"
+    },
+    {
+        "author": "Rohit Parikh"
+    },
+    {
+        "author": "Rohit Singh 0001"
+    },
+    {
+        "author": "Rohit Singh 0002"
+    },
+    {
+        "author": "Rohit Vaish"
+    },
+    {
+        "author": "Rok Sosic"
+    },
+    {
+        "author": "Rolf Niedermeier"
+    },
+    {
+        "author": "Roman Dementiev"
+    },
+    {
+        "author": "Roman Kontchakov"
+    },
+    {
+        "author": "Roman Schindlauer"
+    },
+    {
+        "author": "Romas Aleliunas"
+    },
+    {
+        "author": "Romeo Rizzi"
+    },
+    {
+        "author": "Ron Lavi"
+    },
+    {
+        "author": "Ron Shamir"
+    },
+    {
+        "author": "Ron Y. Pinter"
+    },
+    {
+        "author": "Ron van der Meyden"
+    },
+    {
+        "author": "Ronald J. Brachman"
+    },
+    {
+        "author": "Ronald L. Rivest"
+    },
+    {
+        "author": "Ronald Parr"
+    },
+    {
+        "author": "Ronen Eldan"
+    },
+    {
+        "author": "Rong Ge 0001"
+    },
+    {
+        "author": "Rong Pan"
+    },
+    {
+        "author": "Rong Zhu"
+    },
+    {
+        "author": "Roni Khardon"
+    },
+    {
+        "author": "Roni Rosner"
+    },
+    {
+        "author": "Ronny Lempel"
+    },
+    {
+        "author": "Rossano Venturini"
+    },
+    {
+        "author": "Roy Friedman"
+    },
+    {
+        "author": "Roy H. Campbell"
+    },
+    {
+        "author": "Roy Levin"
+    },
+    {
+        "author": "Roy M. Jenevein"
+    },
+    {
+        "author": "Roy Schwartz"
+    },
+    {
+        "author": "Rubao Lee"
+    },
+    {
+        "author": "Rudy Raymond"
+    },
+    {
+        "author": "Rudy Setiono"
+    },
+    {
+        "author": "Rui Cai"
+    },
+    {
+        "author": "Rui Chen"
+    },
+    {
+        "author": "Rui Fang"
+    },
+    {
+        "author": "Rui Liu"
+    },
+    {
+        "author": "Rui Wang 0022"
+    },
+    {
+        "author": "Rui Yang"
+    },
+    {
+        "author": "Rui Zhang 0003"
+    },
+    {
+        "author": "Ruichu Cai"
+    },
+    {
+        "author": "Ruifeng Liu"
+    },
+    {
+        "author": "Ruoming Jin"
+    },
+    {
+        "author": "Ruosong Wang"
+    },
+    {
+        "author": "Ruoyu Sun"
+    },
+    {
+        "author": "Russell Greiner"
+    },
+    {
+        "author": "Ruta Mehta"
+    },
+    {
+        "author": "Ruy Ley-Wild"
+    },
+    {
+        "author": "Ryan B. Hayward"
+    },
+    {
+        "author": "Ryan Hayward"
+    },
+    {
+        "author": "Ryan M. Rogers"
+    },
+    {
+        "author": "Ryan McKenna"
+    },
+    {
+        "author": "Ryoji Kataoka"
+    },
+    {
+        "author": "Ryutaro Ichise"
+    },
+    {
+        "author": "Ryuzo Hasegawa"
+    },
+    {
+        "author": "S. Jerrold Kaplan"
+    },
+    {
+        "author": "S. Rao Kosaraju"
+    },
+    {
+        "author": "S. V. N. Vishwanathan"
+    },
+    {
+        "author": "S. W. Ng"
+    },
+    {
+        "author": "Sachin Katti"
+    },
+    {
+        "author": "Sachindra Joshi"
+    },
+    {
+        "author": "Sadra Yazdanbod"
+    },
+    {
+        "author": "Saeed Seddighin"
+    },
+    {
+        "author": "Sainyam Galhotra"
+    },
+    {
+        "author": "Sairam Gurajada"
+    },
+    {
+        "author": "Sairam Subramanian"
+    },
+    {
+        "author": "Sajib Dasgupta"
+    },
+    {
+        "author": "Saket Saurabh 0001"
+    },
+    {
+        "author": "Sakti Pramanik"
+    },
+    {
+        "author": "Saladi Rahul"
+    },
+    {
+        "author": "Sally Floyd"
+    },
+    {
+        "author": "Sally I. McClean"
+    },
+    {
+        "author": "Salvatore La Torre"
+    },
+    {
+        "author": "Sam Chiu-wai Wong"
+    },
+    {
+        "author": "Sam Toueg"
+    },
+    {
+        "author": "Sameena Shah"
+    },
+    {
+        "author": "Sameer Agarwal"
+    },
+    {
+        "author": "Samir Chowdhury"
+    },
+    {
+        "author": "Samir Khuller"
+    },
+    {
+        "author": "Samson Abramsky"
+    },
+    {
+        "author": "Samuel I. Daitch"
+    },
+    {
+        "author": "Samuel Madden"
+    },
+    {
+        "author": "Samuel McCauley"
+    },
+    {
+        "author": "Samuel T. Chanson"
+    },
+    {
+        "author": "Sandeep Chinchali"
+    },
+    {
+        "author": "Sandeep Sen"
+    },
+    {
+        "author": "Sandeep Sikka"
+    },
+    {
+        "author": "Sang-Wook Kim"
+    },
+    {
+        "author": "Sang-goo Lee"
+    },
+    {
+        "author": "Sangho Lee"
+    },
+    {
+        "author": "Sanglu Lu"
+    },
+    {
+        "author": "Sangyeun Cho"
+    },
+    {
+        "author": "Sanjay Bhansali"
+    },
+    {
+        "author": "Sanjay Chawla"
+    },
+    {
+        "author": "Sanjay Ghemawat"
+    },
+    {
+        "author": "Sanjay Krishnan"
+    },
+    {
+        "author": "Sanjay Ranka"
+    },
+    {
+        "author": "Sanjeev Arora"
+    },
+    {
+        "author": "Sanjeev Kumar"
+    },
+    {
+        "author": "Sanjit A. Seshia"
+    },
+    {
+        "author": "Sanjiva Prasad"
+    },
+    {
+        "author": "Sanjoy Dasgupta"
+    },
+    {
+        "author": "Sanjoy K. Baruah"
+    },
+    {
+        "author": "Sara Cohen"
+    },
+    {
+        "author": "Sarit Kraus"
+    },
+    {
+        "author": "Sarosh Talukdar"
+    },
+    {
+        "author": "Sasu Tarkoma"
+    },
+    {
+        "author": "Satinder P. Singh"
+    },
+    {
+        "author": "Satish K. Tripathi"
+    },
+    {
+        "author": "Satish Rao"
+    },
+    {
+        "author": "Satish Thatte"
+    },
+    {
+        "author": "Satoru Iwata 0001"
+    },
+    {
+        "author": "Saturnino Garcia"
+    },
+    {
+        "author": "Saul Schleimer"
+    },
+    {
+        "author": "Saumya K. Debray"
+    },
+    {
+        "author": "Sayan Mukherjee"
+    },
+    {
+        "author": "Sbastien Bubeck"
+    },
+    {
+        "author": "Scott A. Brandt"
+    },
+    {
+        "author": "Scott E. Decatur"
+    },
+    {
+        "author": "Scott Weinstein"
+    },
+    {
+        "author": "Sean C. Rhea"
+    },
+    {
+        "author": "Sean Chester"
+    },
+    {
+        "author": "Sebastian Link"
+    },
+    {
+        "author": "Sebastian Maneth"
+    },
+    {
+        "author": "Sebastian Ordyniak"
+    },
+    {
+        "author": "Sebastian Pokutta"
+    },
+    {
+        "author": "Sebastian Rudolph"
+    },
+    {
+        "author": "Sebastian Thrun"
+    },
+    {
+        "author": "Seema Nagar"
+    },
+    {
+        "author": "Seiichi Yoshizumi"
+    },
+    {
+        "author": "Sejeong Kwon"
+    },
+    {
+        "author": "Selva Samuel"
+    },
+    {
+        "author": "Sen Su"
+    },
+    {
+        "author": "Sen Wang"
+    },
+    {
+        "author": "Sen Wu 0002"
+    },
+    {
+        "author": "Seny Kamara"
+    },
+    {
+        "author": "Sepehr Assadi"
+    },
+    {
+        "author": "Sepideh Mahabadi"
+    },
+    {
+        "author": "Seppo Sippu"
+    },
+    {
+        "author": "Serafim Batzoglou"
+    },
+    {
+        "author": "Serge Abiteboul"
+    },
+    {
+        "author": "Serge Gaspers"
+    },
+    {
+        "author": "Serge Massar"
+    },
+    {
+        "author": "Sergei Nirenburg"
+    },
+    {
+        "author": "Sergej Sizov"
+    },
+    {
+        "author": "Sergey I. Nikolenko"
+    },
+    {
+        "author": "Sergio Tessaris"
+    },
+    {
+        "author": "Seth Copen Goldstein"
+    },
+    {
+        "author": "Seth Gilbert"
+    },
+    {
+        "author": "Setsuo Ohsuga"
+    },
+    {
+        "author": "Seung-won Hwang"
+    },
+    {
+        "author": "Seungyeop Han"
+    },
+    {
+        "author": "Seyed Hamed Hassani"
+    },
+    {
+        "author": "Seyed Majid Zahedi"
+    },
+    {
+        "author": "Seymour Ginsburg"
+    },
+    {
+        "author": "Shaddin Dughmi"
+    },
+    {
+        "author": "Shady Elbassuoni"
+    },
+    {
+        "author": "Shahar Dobzinski"
+    },
+    {
+        "author": "Shai Halevi"
+    },
+    {
+        "author": "Shai Shalev-Shwartz"
+    },
+    {
+        "author": "Shai Vardi"
+    },
+    {
+        "author": "Shaili Jain"
+    },
+    {
+        "author": "Sham Kakade"
+    },
+    {
+        "author": "Sham M. Kakade"
+    },
+    {
+        "author": "Shamim A. Naqvi"
+    },
+    {
+        "author": "Shan Shan Huang"
+    },
+    {
+        "author": "Shan-Hung Wu"
+    },
+    {
+        "author": "Shanchan Wu"
+    },
+    {
+        "author": "Shankar Krishnan"
+    },
+    {
+        "author": "Sharad Goel"
+    },
+    {
+        "author": "Sharma V. Thankachan"
+    },
+    {
+        "author": "Sharon Goldberg"
+    },
+    {
+        "author": "Shashank Yaduvanshi"
+    },
+    {
+        "author": "Shashi Shekhar"
+    },
+    {
+        "author": "Shaull Almagor"
+    },
+    {
+        "author": "Shay Moran"
+    },
+    {
+        "author": "Sheila Tejada"
+    },
+    {
+        "author": "Sheng Wang"
+    },
+    {
+        "author": "Sheng Zhong"
+    },
+    {
+        "author": "Shengchao Qin"
+    },
+    {
+        "author": "Shenghuo Zhu"
+    },
+    {
+        "author": "Shengyu Zhang"
+    },
+    {
+        "author": "Sherjil Ozair"
+    },
+    {
+        "author": "Shie Mannor"
+    },
+    {
+        "author": "Shigeki Shibayama"
+    },
+    {
+        "author": "Shigeo Sugimoto"
+    },
+    {
+        "author": "Shijie Zhang"
+    },
+    {
+        "author": "Shin'ichi Satoh"
+    },
+    {
+        "author": "Shinya Fushimi"
+    },
+    {
+        "author": "Shiri Chechik"
+    },
+    {
+        "author": "Shirui Pan"
+    },
+    {
+        "author": "Shivakumar Vaithyanathan"
+    },
+    {
+        "author": "Shivakumar Venkataraman"
+    },
+    {
+        "author": "Shivaram Venkataraman"
+    },
+    {
+        "author": "Shixia Liu"
+    },
+    {
+        "author": "Shoji Ura"
+    },
+    {
+        "author": "Shourya Roy"
+    },
+    {
+        "author": "Shouyuan Chen"
+    },
+    {
+        "author": "Shravan M. Narayanamurthy"
+    },
+    {
+        "author": "Shuang Chen"
+    },
+    {
+        "author": "Shuang Yang"
+    },
+    {
+        "author": "Shubho Sengupta"
+    },
+    {
+        "author": "Shuchi Chawla 0001"
+    },
+    {
+        "author": "Shuguang Hu"
+    },
+    {
+        "author": "Shuheng Zhou"
+    },
+    {
+        "author": "Shumo Chu"
+    },
+    {
+        "author": "Shunning Jiang"
+    },
+    {
+        "author": "Shuo Chen"
+    },
+    {
+        "author": "Si Wu"
+    },
+    {
+        "author": "Siau-Cheng Khoo"
+    },
+    {
+        "author": "Sibel Adali"
+    },
+    {
+        "author": "Siddharth Suri"
+    },
+    {
+        "author": "Siddhartha Chatterjee"
+    },
+    {
+        "author": "Silvio Lattanzi"
+    },
+    {
+        "author": "Simon J. Puglisi"
+    },
+    {
+        "author": "Simon Kasif"
+    },
+    {
+        "author": "Simon Mackenzie"
+    },
+    {
+        "author": "Simon Razniewski"
+    },
+    {
+        "author": "Simon Sheu"
+    },
+    {
+        "author": "Simone Bova"
+    },
+    {
+        "author": "Sina Dehghani"
+    },
+    {
+        "author": "Siu-Wing Cheng"
+    },
+    {
+        "author": "Siu-on Chan"
+    },
+    {
+        "author": "Sixue Liu"
+    },
+    {
+        "author": "Siyuan Liu"
+    },
+    {
+        "author": "Sleyman Cenk Sahinalp"
+    },
+    {
+        "author": "Slobodan Mitrovic"
+    },
+    {
+        "author": "Sndor P. Fekete"
+    },
+    {
+        "author": "Snehal Thakkar"
+    },
+    {
+        "author": "Snigdha Chaturvedi"
+    },
+    {
+        "author": "Sofya Vorotnikova"
+    },
+    {
+        "author": "Soheil Behnezhad"
+    },
+    {
+        "author": "Soner nder"
+    },
+    {
+        "author": "Song Han"
+    },
+    {
+        "author": "Song Yang"
+    },
+    {
+        "author": "Sorin Lerner"
+    },
+    {
+        "author": "Soumith Chintala"
+    },
+    {
+        "author": "Soumitra Dutta"
+    },
+    {
+        "author": "Spiro Michaylov"
+    },
+    {
+        "author": "Spyridon Triantafyllis"
+    },
+    {
+        "author": "Spyros Angelopoulos 0001"
+    },
+    {
+        "author": "Spyros Sioutas"
+    },
+    {
+        "author": "Sren Dahlgaard"
+    },
+    {
+        "author": "Sridhar Rajagopalan"
+    },
+    {
+        "author": "Sridhar Ramachandran"
+    },
+    {
+        "author": "Sridhar Ramaswamy"
+    },
+    {
+        "author": "Srihari Cadambi"
+    },
+    {
+        "author": "Srikanta Bedathur"
+    },
+    {
+        "author": "Srikanta Tirthapura"
+    },
+    {
+        "author": "Srikanth Kandula"
+    },
+    {
+        "author": "Srimat T. Chakradhar"
+    },
+    {
+        "author": "Srinadh Bhojanapalli"
+    },
+    {
+        "author": "Srinivas Bangalore"
+    },
+    {
+        "author": "Srinivas Devadas"
+    },
+    {
+        "author": "Srinivas Narayanan"
+    },
+    {
+        "author": "Srinivasa Rao Satti"
+    },
+    {
+        "author": "Srinivasan Parthasarathy 0002"
+    },
+    {
+        "author": "Srinivasan Seshan"
+    },
+    {
+        "author": "Sriram K. Rajamani"
+    },
+    {
+        "author": "Sriram Rao"
+    },
+    {
+        "author": "Sriram Vishwanath"
+    },
+    {
+        "author": "Srujana Merugu"
+    },
+    {
+        "author": "Stan Sclaroff"
+    },
+    {
+        "author": "Stanislav Rost"
+    },
+    {
+        "author": "Stanislav Zivny"
+    },
+    {
+        "author": "Stanley Kok"
+    },
+    {
+        "author": "Stanley Y. W. Su"
+    },
+    {
+        "author": "Stavros S. Cosmadakis"
+    },
+    {
+        "author": "Stefan Funke"
+    },
+    {
+        "author": "Stefan Kratsch"
+    },
+    {
+        "author": "Stefan Rmmele"
+    },
+    {
+        "author": "Stefan Saroiu"
+    },
+    {
+        "author": "Stefan Savage"
+    },
+    {
+        "author": "Stefan Schmid"
+    },
+    {
+        "author": "Stefano Tessaro"
+    },
+    {
+        "author": "Steffen Hlldobler"
+    },
+    {
+        "author": "Stephan Gnnemann"
+    },
+    {
+        "author": "Stephan Kreutzer"
+    },
+    {
+        "author": "Stephanie J. Cammarata"
+    },
+    {
+        "author": "Stephen A. Vavasis"
+    },
+    {
+        "author": "Stephen D. Scott"
+    },
+    {
+        "author": "Stephen Eubank"
+    },
+    {
+        "author": "Stephen H. Bach"
+    },
+    {
+        "author": "Stephen J. Wright"
+    },
+    {
+        "author": "Stephen Tu"
+    },
+    {
+        "author": "Steve Chien"
+    },
+    {
+        "author": "Steve Hanks"
+    },
+    {
+        "author": "Steve Lawrence"
+    },
+    {
+        "author": "Steve Oudot"
+    },
+    {
+        "author": "Steve Uhlig"
+    },
+    {
+        "author": "Steven A. Vere"
+    },
+    {
+        "author": "Steven C. H. Hoi"
+    },
+    {
+        "author": "Steven D. Gribble"
+    },
+    {
+        "author": "Steven D. Whitehead"
+    },
+    {
+        "author": "Steven Dawson"
+    },
+    {
+        "author": "Steven J. Phillips"
+    },
+    {
+        "author": "Steven L. Tanimoto"
+    },
+    {
+        "author": "Steven M. Drucker"
+    },
+    {
+        "author": "Steven Minton"
+    },
+    {
+        "author": "Steven P. Ketchpel"
+    },
+    {
+        "author": "Steven Pelley"
+    },
+    {
+        "author": "Steven Phillips"
+    },
+    {
+        "author": "Steven Skiena"
+    },
+    {
+        "author": "Steven Swanson"
+    },
+    {
+        "author": "Stewart A. Schuster"
+    },
+    {
+        "author": "Stratis Viglas"
+    },
+    {
+        "author": "Stuart A. Kurtz"
+    },
+    {
+        "author": "Subbarao Ghanta"
+    },
+    {
+        "author": "Subbarao Kambhampati"
+    },
+    {
+        "author": "Sudhakar Yalamanchili"
+    },
+    {
+        "author": "Sudhanva Gurumurthi"
+    },
+    {
+        "author": "Sujata Banerjee"
+    },
+    {
+        "author": "Sujay Sanghavi"
+    },
+    {
+        "author": "Sukhamay Kundu"
+    },
+    {
+        "author": "Suman Nath"
+    },
+    {
+        "author": "Sumio Fujita"
+    },
+    {
+        "author": "Sumit Ganguly"
+    },
+    {
+        "author": "Sumit Mittal"
+    },
+    {
+        "author": "Sundar Vishwanathan"
+    },
+    {
+        "author": "Sung Jin Kim"
+    },
+    {
+        "author": "Sunghun Kim 0001"
+    },
+    {
+        "author": "Sungjin Lee"
+    },
+    {
+        "author": "Sungpack Hong"
+    },
+    {
+        "author": "Sungroh Yoon"
+    },
+    {
+        "author": "Sunita Sarawagi"
+    },
+    {
+        "author": "Supratik Chakraborty"
+    },
+    {
+        "author": "Suprovat Ghoshal"
+    },
+    {
+        "author": "Suresh Chari"
+    },
+    {
+        "author": "Suryanarayana M. Sripada"
+    },
+    {
+        "author": "Susan Darling Urban"
+    },
+    {
+        "author": "Susan J. Eggers"
+    },
+    {
+        "author": "Susan L. Graham"
+    },
+    {
+        "author": "Susanne E. Hambrusch"
+    },
+    {
+        "author": "Sushant Sachdeva"
+    },
+    {
+        "author": "Suzanne M. Sharrock"
+    },
+    {
+        "author": "Svante Carlsson"
+    },
+    {
+        "author": "Svante Janson"
+    },
+    {
+        "author": "Sven Koenig"
+    },
+    {
+        "author": "Swarat Chaudhuri"
+    },
+    {
+        "author": "Swarup Chandra"
+    },
+    {
+        "author": "Swastik Kopparty"
+    },
+    {
+        "author": "Szymon Dudycz"
+    },
+    {
+        "author": "Szymon Torunczyk"
+    },
+    {
+        "author": "T. M. Murali"
+    },
+    {
+        "author": "T. S. E. Maibaum"
+    },
+    {
+        "author": "T.-H. Hubert Chan"
+    },
+    {
+        "author": "Taisuke Sato"
+    },
+    {
+        "author": "Takao Miura"
+    },
+    {
+        "author": "Takashi Yokomori"
+    },
+    {
+        "author": "Takayuki Kimura"
+    },
+    {
+        "author": "Takeo Kakuta"
+    },
+    {
+        "author": "Takeshi Mishima"
+    },
+    {
+        "author": "Takeshi Tokuyama"
+    },
+    {
+        "author": "Takuro Fukunaga"
+    },
+    {
+        "author": "Takuya Akiba"
+    },
+    {
+        "author": "Tal Malkin"
+    },
+    {
+        "author": "Tal Wagner"
+    },
+    {
+        "author": "Tamir Tassa"
+    },
+    {
+        "author": "Tanmoy Chakraborty 0002"
+    },
+    {
+        "author": "Tanveer A. Faruquie"
+    },
+    {
+        "author": "Tanveer Fathima Syeda-Mahmood"
+    },
+    {
+        "author": "Tanya Y. Berger-Wolf"
+    },
+    {
+        "author": "Tao Chen"
+    },
+    {
+        "author": "Tao Jiang 0001"
+    },
+    {
+        "author": "Tao Lei"
+    },
+    {
+        "author": "Tao Li 0001"
+    },
+    {
+        "author": "Tao Lin"
+    },
+    {
+        "author": "Tao Liu"
+    },
+    {
+        "author": "Tao Wang"
+    },
+    {
+        "author": "Tao Wei"
+    },
+    {
+        "author": "Tao Zhang"
+    },
+    {
+        "author": "Tapas Kanungo"
+    },
+    {
+        "author": "Tarun Kathuria"
+    },
+    {
+        "author": "Tasuku Soma"
+    },
+    {
+        "author": "Tat-Seng Chua"
+    },
+    {
+        "author": "Tathagata Das"
+    },
+    {
+        "author": "Tatsumi Furuya"
+    },
+    {
+        "author": "Ted Hart"
+    },
+    {
+        "author": "Tejas Kulkarni"
+    },
+    {
+        "author": "Ten-Hwang Lai"
+    },
+    {
+        "author": "Tengjiao Wang"
+    },
+    {
+        "author": "Tengyu Ma"
+    },
+    {
+        "author": "Teodor C. Przymusinski"
+    },
+    {
+        "author": "Terran Lane"
+    },
+    {
+        "author": "Terrance Swift"
+    },
+    {
+        "author": "Terrence W. Pratt"
+    },
+    {
+        "author": "Terry A. Welch"
+    },
+    {
+        "author": "Terry E. Weymouth"
+    },
+    {
+        "author": "Terry Gaasterland"
+    },
+    {
+        "author": "Terry R. Payne"
+    },
+    {
+        "author": "Tetsuya Higuchi"
+    },
+    {
+        "author": "Thanh Tran 0001"
+    },
+    {
+        "author": "Theodore Johnson"
+    },
+    {
+        "author": "Theodoros Damoulas"
+    },
+    {
+        "author": "Theodoros Rekatsinas"
+    },
+    {
+        "author": "Theophane Weber"
+    },
+    {
+        "author": "Thijs Laarhoven"
+    },
+    {
+        "author": "Thodoris Lykouris"
+    },
+    {
+        "author": "Thomas A. Henzinger"
+    },
+    {
+        "author": "Thomas Bonald"
+    },
+    {
+        "author": "Thomas Dueholm Hansen"
+    },
+    {
+        "author": "Thomas Dybdahl Ahle"
+    },
+    {
+        "author": "Thomas F. Wenisch"
+    },
+    {
+        "author": "Thomas J. E. Schwarz"
+    },
+    {
+        "author": "Thomas J. LeBlanc"
+    },
+    {
+        "author": "Thomas Legler"
+    },
+    {
+        "author": "Thomas Lengauer"
+    },
+    {
+        "author": "Thomas Lukasiewicz"
+    },
+    {
+        "author": "Thomas P. Hayes"
+    },
+    {
+        "author": "Thomas P. Parnell"
+    },
+    {
+        "author": "Thomas Papadakis"
+    },
+    {
+        "author": "Thomas R. Gross"
+    },
+    {
+        "author": "Thomas R. Hancock"
+    },
+    {
+        "author": "Thomas S. Huang"
+    },
+    {
+        "author": "Thomas Schneider 0002"
+    },
+    {
+        "author": "Thomas Schwentick"
+    },
+    {
+        "author": "Thomas W. Reps"
+    },
+    {
+        "author": "Thomas Wilke"
+    },
+    {
+        "author": "Thorsten von Eicken"
+    },
+    {
+        "author": "Thu D. Nguyen"
+    },
+    {
+        "author": "Tian Lan"
+    },
+    {
+        "author": "Tian Xia"
+    },
+    {
+        "author": "Tian Zhang"
+    },
+    {
+        "author": "Tianhao Wang"
+    },
+    {
+        "author": "Tianshi Chen"
+    },
+    {
+        "author": "Tianyu Liu"
+    },
+    {
+        "author": "Tijl De Bie"
+    },
+    {
+        "author": "Tiko Kameda"
+    },
+    {
+        "author": "Till Mossakowski"
+    },
+    {
+        "author": "Tilmann Rabl"
+    },
+    {
+        "author": "Tim Brecht"
+    },
+    {
+        "author": "Tim Roughgarden"
+    },
+    {
+        "author": "Tim Schmidt"
+    },
+    {
+        "author": "Tim Sheard"
+    },
+    {
+        "author": "Tim Weninger"
+    },
+    {
+        "author": "Timo von Oertzen"
+    },
+    {
+        "author": "Timon Gehr"
+    },
+    {
+        "author": "Timos Antonopoulos"
+    },
+    {
+        "author": "Timos Sellis"
+    },
+    {
+        "author": "Timothy Edmunds"
+    },
+    {
+        "author": "Timothy Griffin"
+    },
+    {
+        "author": "Tina Eliassi-Rad"
+    },
+    {
+        "author": "Ting Su"
+    },
+    {
+        "author": "Tirza Hirst"
+    },
+    {
+        "author": "Tobias Christiani"
+    },
+    {
+        "author": "Tobias Friedrich 0001"
+    },
+    {
+        "author": "Todd A. Proebsting"
+    },
+    {
+        "author": "Todd Mytkowicz"
+    },
+    {
+        "author": "Todd Phillips"
+    },
+    {
+        "author": "Tohru Moto-Oka"
+    },
+    {
+        "author": "Tom Coleman"
+    },
+    {
+        "author": "Tom Morgan"
+    },
+    {
+        "author": "Tom Rodden"
+    },
+    {
+        "author": "Tom Schrijvers"
+    },
+    {
+        "author": "Tom Z. J. Fu"
+    },
+    {
+        "author": "Tomas Karnagel"
+    },
+    {
+        "author": "Tomasz Imielinski"
+    },
+    {
+        "author": "Tomasz Ksiezyk"
+    },
+    {
+        "author": "Tomer Koren"
+    },
+    {
+        "author": "Tomer Sagi"
+    },
+    {
+        "author": "Tomoharu Iwata"
+    },
+    {
+        "author": "Tomohiro Sonobe"
+    },
+    {
+        "author": "Toms Brzdil"
+    },
+    {
+        "author": "Toms Feder"
+    },
+    {
+        "author": "Toms Lang"
+    },
+    {
+        "author": "Toms Lozano-Prez"
+    },
+    {
+        "author": "Toms Werner"
+    },
+    {
+        "author": "Tong Lu"
+    },
+    {
+        "author": "Tong Yang 0003"
+    },
+    {
+        "author": "Toni Mancini"
+    },
+    {
+        "author": "Toniann Pitassi"
+    },
+    {
+        "author": "Topi Talvitie"
+    },
+    {
+        "author": "Tore Risch"
+    },
+    {
+        "author": "Torsten Suel"
+    },
+    {
+        "author": "Toshihide Ibaraki"
+    },
+    {
+        "author": "Tova Milo"
+    },
+    {
+        "author": "Trac D. Tran"
+    },
+    {
+        "author": "Tran Cao Son"
+    },
+    {
+        "author": "Trevor Jim"
+    },
+    {
+        "author": "Trinabh Gupta"
+    },
+    {
+        "author": "Troels Bjerre Srensen"
+    },
+    {
+        "author": "Troy Lee"
+    },
+    {
+        "author": "Tsung-Han Lin"
+    },
+    {
+        "author": "Tsuyoshi Id"
+    },
+    {
+        "author": "Tuan-Anh Nguyen Pham"
+    },
+    {
+        "author": "Tuomas Sandholm"
+    },
+    {
+        "author": "Tyson Condie"
+    },
+    {
+        "author": "Tzi-cker Chiueh"
+    },
+    {
+        "author": "U. Kang"
+    },
+    {
+        "author": "Udayan Khurana"
+    },
+    {
+        "author": "Ueli M. Maurer"
+    },
+    {
+        "author": "Ugo Montanari"
+    },
+    {
+        "author": "Ullas Nambiar"
+    },
+    {
+        "author": "Ulrich Reimer"
+    },
+    {
+        "author": "Ulrich Schaechtle"
+    },
+    {
+        "author": "Umakishore Ramachandran"
+    },
+    {
+        "author": "Umang Bhaskar"
+    },
+    {
+        "author": "Umang Gupta"
+    },
+    {
+        "author": "Una-May O'Reilly"
+    },
+    {
+        "author": "Uriel Feige"
+    },
+    {
+        "author": "Usama M. Fayyad"
+    },
+    {
+        "author": "Utku Sirin"
+    },
+    {
+        "author": "V. Benjamin Livshits"
+    },
+    {
+        "author": "V. N. Spadavecchia"
+    },
+    {
+        "author": "V. S. Subrahmanian"
+    },
+    {
+        "author": "Vaggos Chatziafratis"
+    },
+    {
+        "author": "Vahid Liaghat"
+    },
+    {
+        "author": "Vaidy S. Sunderam"
+    },
+    {
+        "author": "Val Tannen"
+    },
+    {
+        "author": "Valdis Berzins"
+    },
+    {
+        "author": "Valeria de Paiva"
+    },
+    {
+        "author": "Van H. Vu"
+    },
+    {
+        "author": "Van Nguyen"
+    },
+    {
+        "author": "Varsha Dani"
+    },
+    {
+        "author": "Varun Kanade"
+    },
+    {
+        "author": "Vasilis Syrgkanis"
+    },
+    {
+        "author": "Vasilis Vassalos"
+    },
+    {
+        "author": "Vaspol Ruamviboonsuk"
+    },
+    {
+        "author": "Vassos Hadzilacos"
+    },
+    {
+        "author": "Vaughan R. Pratt"
+    },
+    {
+        "author": "Vctor Dalmau"
+    },
+    {
+        "author": "Venkata Jakkula"
+    },
+    {
+        "author": "Venkatesan T. Chakaravarthy"
+    },
+    {
+        "author": "Venkatesh Radhakrishnan"
+    },
+    {
+        "author": "Venkatesh Raman 0001"
+    },
+    {
+        "author": "Venkatesh Srinivasan"
+    },
+    {
+        "author": "Vernica Dahl"
+    },
+    {
+        "author": "Veselin Raychev"
+    },
+    {
+        "author": "Vibhor Rastogi"
+    },
+    {
+        "author": "Victor Alvarez"
+    },
+    {
+        "author": "Victor E. Lee"
+    },
+    {
+        "author": "Victor Marsault"
+    },
+    {
+        "author": "Victor Munts-Mulero"
+    },
+    {
+        "author": "Victor O. K. Li"
+    },
+    {
+        "author": "Victor Vianu"
+    },
+    {
+        "author": "Victor W. Lee"
+    },
+    {
+        "author": "Vijay Arya"
+    },
+    {
+        "author": "Vijay Menon"
+    },
+    {
+        "author": "Vijay V. Vazirani"
+    },
+    {
+        "author": "Vijay Vasudevan"
+    },
+    {
+        "author": "Vijaya Ramachandran"
+    },
+    {
+        "author": "Vikas Agarwal"
+    },
+    {
+        "author": "Vikas Sindhwani"
+    },
+    {
+        "author": "Vikash K. Mansinghka"
+    },
+    {
+        "author": "Viktor K. Prasanna"
+    },
+    {
+        "author": "Viktor Kuncak"
+    },
+    {
+        "author": "Vinay K. Chaudhri"
+    },
+    {
+        "author": "Vincent Cohen-Addad"
+    },
+    {
+        "author": "Vincent Conitzer"
+    },
+    {
+        "author": "Vincent W. Zheng"
+    },
+    {
+        "author": "Vincent Wenchen Zheng"
+    },
+    {
+        "author": "Vincenzo Auletta"
+    },
+    {
+        "author": "Vincenzo Liberatore"
+    },
+    {
+        "author": "Vineet Goyal"
+    },
+    {
+        "author": "Vineet Gupta 0001"
+    },
+    {
+        "author": "Vineet Singh"
+    },
+    {
+        "author": "Vinod Vaikuntanathan"
+    },
+    {
+        "author": "Vinod Yegneswaran"
+    },
+    {
+        "author": "Vipin Kumar"
+    },
+    {
+        "author": "Virendra J. Marathe"
+    },
+    {
+        "author": "Virgil D. Gligor"
+    },
+    {
+        "author": "Virginia Vassilevska Williams"
+    },
+    {
+        "author": "Vishal Sikka"
+    },
+    {
+        "author": "Vitaly Shmatikov"
+    },
+    {
+        "author": "Vittorio Castelli"
+    },
+    {
+        "author": "Vivek K. Goyal"
+    },
+    {
+        "author": "Vivek Srikumar"
+    },
+    {
+        "author": "Vladimir Kolmogorov"
+    },
+    {
+        "author": "Vladimir Vovk"
+    },
+    {
+        "author": "Vladislav Ryzhikov"
+    },
+    {
+        "author": "Vladlen Koltun"
+    },
+    {
+        "author": "Volkan Cevher"
+    },
+    {
+        "author": "Volkan Isler"
+    },
+    {
+        "author": "Vu Le"
+    },
+    {
+        "author": "Vwani P. Roychowdhury"
+    },
+    {
+        "author": "W. Bruce Croft"
+    },
+    {
+        "author": "W. Kent Fuchs"
+    },
+    {
+        "author": "Wagner Meira Jr."
+    },
+    {
+        "author": "Walid A. Najjar"
+    },
+    {
+        "author": "Walid Taha"
+    },
+    {
+        "author": "Walter Dosch"
+    },
+    {
+        "author": "Walter G. Wilson"
+    },
+    {
+        "author": "Walter L. Heimerdinger"
+    },
+    {
+        "author": "Wang-Chien Lee"
+    },
+    {
+        "author": "Wanyun Cui"
+    },
+    {
+        "author": "Warren Shen"
+    },
+    {
+        "author": "Wei Bian"
+    },
+    {
+        "author": "Wei Cao"
+    },
+    {
+        "author": "Wei Chen"
+    },
+    {
+        "author": "Wei Fan"
+    },
+    {
+        "author": "Wei Fan 0001"
+    },
+    {
+        "author": "Wei Feng"
+    },
+    {
+        "author": "Wei Han"
+    },
+    {
+        "author": "Wei Hu"
+    },
+    {
+        "author": "Wei Huang"
+    },
+    {
+        "author": "Wei Jin"
+    },
+    {
+        "author": "Wei Li"
+    },
+    {
+        "author": "Wei Lin"
+    },
+    {
+        "author": "Wei Lu"
+    },
+    {
+        "author": "Wei Lu 0002"
+    },
+    {
+        "author": "Wei Wang 0009"
+    },
+    {
+        "author": "Wei Wang 0010"
+    },
+    {
+        "author": "Wei Xu"
+    },
+    {
+        "author": "Wei Zhang"
+    },
+    {
+        "author": "Wei Zhang 0022"
+    },
+    {
+        "author": "Wei Zhang 0056"
+    },
+    {
+        "author": "Wei-Ying Ma"
+    },
+    {
+        "author": "Weijie Wu"
+    },
+    {
+        "author": "Weipeng P. Yan"
+    },
+    {
+        "author": "Weiru Liu"
+    },
+    {
+        "author": "Weishan Dong"
+    },
+    {
+        "author": "Weiwei Cheng"
+    },
+    {
+        "author": "Weiwei Wu"
+    },
+    {
+        "author": "Weiwu Hu"
+    },
+    {
+        "author": "Weixiong Zhang"
+    },
+    {
+        "author": "Wen Hua"
+    },
+    {
+        "author": "Wen Sun"
+    },
+    {
+        "author": "Wen Wang"
+    },
+    {
+        "author": "Wenbo He"
+    },
+    {
+        "author": "Wenchao Zhou"
+    },
+    {
+        "author": "Weng-Keen Wong"
+    },
+    {
+        "author": "Wenjie Zhang"
+    },
+    {
+        "author": "Wenjun Zhang 0001"
+    },
+    {
+        "author": "Wensheng Wu"
+    },
+    {
+        "author": "Wentai Liu"
+    },
+    {
+        "author": "Wentao Tian"
+    },
+    {
+        "author": "Wenxin Liang"
+    },
+    {
+        "author": "Wenyuan Dai"
+    },
+    {
+        "author": "Wenyuan Guo"
+    },
+    {
+        "author": "Werner Dilger"
+    },
+    {
+        "author": "Werner E. Kluge"
+    },
+    {
+        "author": "Werner Nutt"
+    },
+    {
+        "author": "Will Perkins"
+    },
+    {
+        "author": "William B. Gevarter"
+    },
+    {
+        "author": "William Culhane"
+    },
+    {
+        "author": "William D. Roome"
+    },
+    {
+        "author": "William E. Weihl"
+    },
+    {
+        "author": "William I. Chang"
+    },
+    {
+        "author": "William S. Evans"
+    },
+    {
+        "author": "William T. Freeman"
+    },
+    {
+        "author": "William W. Cohen"
+    },
+    {
+        "author": "William W. Wadge"
+    },
+    {
+        "author": "William Wang"
+    },
+    {
+        "author": "Willy Zwaenepoel"
+    },
+    {
+        "author": "Wilson C. Hsieh"
+    },
+    {
+        "author": "Wim Martens"
+    },
+    {
+        "author": "Wing-Kin Sung"
+    },
+    {
+        "author": "Witold Lipski Jr."
+    },
+    {
+        "author": "Wlodek Zadrozny"
+    },
+    {
+        "author": "Wojciech Czerwinski"
+    },
+    {
+        "author": "Wojciech M. Golab"
+    },
+    {
+        "author": "Wolfgang Dvork"
+    },
+    {
+        "author": "Wolfgang Effelsberg"
+    },
+    {
+        "author": "Wolfgang Faber 0001"
+    },
+    {
+        "author": "Wolfgang Fischl"
+    },
+    {
+        "author": "Wolfgang Gatterbauer"
+    },
+    {
+        "author": "Wolfgang Lehner"
+    },
+    {
+        "author": "Wolfgang Maass 0001"
+    },
+    {
+        "author": "Wolfgang Nejdl"
+    },
+    {
+        "author": "Wolfram Wiesemann"
+    },
+    {
+        "author": "Won Kim 0001"
+    },
+    {
+        "author": "Wynne Hsu"
+    },
+    {
+        "author": "Xavier Leroy"
+    },
+    {
+        "author": "Xi Li"
+    },
+    {
+        "author": "Xi Liu"
+    },
+    {
+        "author": "Xi Wang"
+    },
+    {
+        "author": "Xi Zhang"
+    },
+    {
+        "author": "Xian Li"
+    },
+    {
+        "author": "Xian Wu"
+    },
+    {
+        "author": "Xiang Ao"
+    },
+    {
+        "author": "Xiang Cheng 0003"
+    },
+    {
+        "author": "Xiang Li"
+    },
+    {
+        "author": "Xiang Liu"
+    },
+    {
+        "author": "Xiang Ren"
+    },
+    {
+        "author": "Xiang Wang"
+    },
+    {
+        "author": "Xiang Yu"
+    },
+    {
+        "author": "Xiang Zhang"
+    },
+    {
+        "author": "Xiang-Yang Li 0001"
+    },
+    {
+        "author": "Xiangdong Zhou"
+    },
+    {
+        "author": "Xiangliang Zhang"
+    },
+    {
+        "author": "Xiangrui Meng"
+    },
+    {
+        "author": "Xiangyang Xue"
+    },
+    {
+        "author": "Xiangyao Yu"
+    },
+    {
+        "author": "Xiangyu Zhang 0001"
+    },
+    {
+        "author": "Xiao Chen"
+    },
+    {
+        "author": "Xiao Lin"
+    },
+    {
+        "author": "Xiao Zhou"
+    },
+    {
+        "author": "Xiaocheng Hu"
+    },
+    {
+        "author": "Xiaochun Yang 0001"
+    },
+    {
+        "author": "Xiaodan Zhu"
+    },
+    {
+        "author": "Xiaodong He"
+    },
+    {
+        "author": "Xiaodong Li"
+    },
+    {
+        "author": "Xiaodong Wang"
+    },
+    {
+        "author": "Xiaodong Wu"
+    },
+    {
+        "author": "Xiaodong Zhang"
+    },
+    {
+        "author": "Xiaodong Zhang 0001"
+    },
+    {
+        "author": "Xiaofang Zhou"
+    },
+    {
+        "author": "Xiaofei He"
+    },
+    {
+        "author": "Xiaofeng Gao"
+    },
+    {
+        "author": "Xiaofeng He"
+    },
+    {
+        "author": "Xiaofeng Meng"
+    },
+    {
+        "author": "Xiaofeng Zhu"
+    },
+    {
+        "author": "Xiaohong Guan"
+    },
+    {
+        "author": "Xiaohua Hu"
+    },
+    {
+        "author": "Xiaohui Bei"
+    },
+    {
+        "author": "Xiaohui Xie"
+    },
+    {
+        "author": "Xiaojiang Chen"
+    },
+    {
+        "author": "Xiaojie Yuan"
+    },
+    {
+        "author": "Xiaojin Zhu 0001"
+    },
+    {
+        "author": "Xiaojun Chen 0006"
+    },
+    {
+        "author": "Xiaokang Yang"
+    },
+    {
+        "author": "Xiaokui Xiao"
+    },
+    {
+        "author": "Xiaoli Li 0001"
+    },
+    {
+        "author": "Xiaoli Z. Fern"
+    },
+    {
+        "author": "Xiaoliang Wang"
+    },
+    {
+        "author": "Xiaoling Wang"
+    },
+    {
+        "author": "Xiaolong Wang 0003"
+    },
+    {
+        "author": "Xiaoming Jin"
+    },
+    {
+        "author": "Xiaoming Sun"
+    },
+    {
+        "author": "Xiaomo Liu"
+    },
+    {
+        "author": "Xiaoning Ding"
+    },
+    {
+        "author": "Xiaopeng Xi"
+    },
+    {
+        "author": "Xiaoqian Jiang"
+    },
+    {
+        "author": "Xiaorui Sun"
+    },
+    {
+        "author": "Xiaorui Wang"
+    },
+    {
+        "author": "Xiaosong Ma"
+    },
+    {
+        "author": "Xiaotie Deng"
+    },
+    {
+        "author": "Xiaowei Jiang"
+    },
+    {
+        "author": "Xiaowei Wu"
+    },
+    {
+        "author": "Xiaowei Ying"
+    },
+    {
+        "author": "Xiaoxin Yin"
+    },
+    {
+        "author": "Xiaoxun Sun"
+    },
+    {
+        "author": "Xiaoyan Yang"
+    },
+    {
+        "author": "Xiaoyang Wang"
+    },
+    {
+        "author": "Xiaoyong Chai"
+    },
+    {
+        "author": "Xiaoyong Du"
+    },
+    {
+        "author": "Xiaoyu Ge"
+    },
+    {
+        "author": "Xiaoyu Wang"
+    },
+    {
+        "author": "Xike Xie"
+    },
+    {
+        "author": "Xin Cao"
+    },
+    {
+        "author": "Xin Huang 0001"
+    },
+    {
+        "author": "Xin Lin"
+    },
+    {
+        "author": "Xin Liu"
+    },
+    {
+        "author": "Xin Miao"
+    },
+    {
+        "author": "Xin Sui"
+    },
+    {
+        "author": "Xin Tong"
+    },
+    {
+        "author": "Xin Yao 0001"
+    },
+    {
+        "author": "Xindong Wu"
+    },
+    {
+        "author": "Xing Xie 0001"
+    },
+    {
+        "author": "Xingquan Zhu"
+    },
+    {
+        "author": "Xingwu Liu"
+    },
+    {
+        "author": "Xinhua Zhang"
+    },
+    {
+        "author": "Xinran Wang"
+    },
+    {
+        "author": "Xintao Wu"
+    },
+    {
+        "author": "Xinyu Wang"
+    },
+    {
+        "author": "Xiuli Ma"
+    },
+    {
+        "author": "XuanLong Nguyen"
+    },
+    {
+        "author": "Xuanjing Huang"
+    },
+    {
+        "author": "Xue Chen"
+    },
+    {
+        "author": "Xue Li"
+    },
+    {
+        "author": "Xue Liu 0001"
+    },
+    {
+        "author": "Xuehai Qian"
+    },
+    {
+        "author": "Xuelong Li"
+    },
+    {
+        "author": "Xuemin Lin"
+    },
+    {
+        "author": "Xutao Li"
+    },
+    {
+        "author": "Y. Wang"
+    },
+    {
+        "author": "Yabo Xu"
+    },
+    {
+        "author": "Yadong Mu"
+    },
+    {
+        "author": "Yakov Nekrich"
+    },
+    {
+        "author": "Yale N. Patt"
+    },
+    {
+        "author": "Yaliang Li"
+    },
+    {
+        "author": "Yan Chen"
+    },
+    {
+        "author": "Yan Li"
+    },
+    {
+        "author": "Yan Liu"
+    },
+    {
+        "author": "Yan Pan"
+    },
+    {
+        "author": "Yan Wang"
+    },
+    {
+        "author": "Yan Zhu 0014"
+    },
+    {
+        "author": "Yanchun Zhang"
+    },
+    {
+        "author": "Yang Cao"
+    },
+    {
+        "author": "Yang Chen"
+    },
+    {
+        "author": "Yang Chen 0001"
+    },
+    {
+        "author": "Yang Du"
+    },
+    {
+        "author": "Yang Hu"
+    },
+    {
+        "author": "Yang Li 0025"
+    },
+    {
+        "author": "Yang Richard Yang"
+    },
+    {
+        "author": "Yang Wang"
+    },
+    {
+        "author": "Yang Wu"
+    },
+    {
+        "author": "Yang Xiang"
+    },
+    {
+        "author": "Yang Yang"
+    },
+    {
+        "author": "Yang Yang 0002"
+    },
+    {
+        "author": "Yang Yuan"
+    },
+    {
+        "author": "Yang Zhang"
+    },
+    {
+        "author": "Yang Zhou"
+    },
+    {
+        "author": "Yang-Chang Hong"
+    },
+    {
+        "author": "Yangdong Deng"
+    },
+    {
+        "author": "Yanghua Xiao"
+    },
+    {
+        "author": "Yangqing Jia"
+    },
+    {
+        "author": "Yangwei Liu"
+    },
+    {
+        "author": "Yanhong A. Liu"
+    },
+    {
+        "author": "Yannai A. Gonczarowski"
+    },
+    {
+        "author": "Yannis Kotidis"
+    },
+    {
+        "author": "Yannis P. Tsividis"
+    },
+    {
+        "author": "Yannis Papakonstantinou"
+    },
+    {
+        "author": "Yanqi Zhou"
+    },
+    {
+        "author": "Yanqing Peng"
+    },
+    {
+        "author": "Yansheng Lu"
+    },
+    {
+        "author": "Yanyan Shen"
+    },
+    {
+        "author": "Yao Li"
+    },
+    {
+        "author": "Yao Zhao"
+    },
+    {
+        "author": "Yaron Singer"
+    },
+    {
+        "author": "Yasuhiro Fujiwara"
+    },
+    {
+        "author": "Yasushi Kiyoki"
+    },
+    {
+        "author": "Yasusi Kanada"
+    },
+    {
+        "author": "Ye Yuan"
+    },
+    {
+        "author": "Yehuda Afek"
+    },
+    {
+        "author": "Yeow Meng Chee"
+    },
+    {
+        "author": "Yevgen Voronenko"
+    },
+    {
+        "author": "Yezdi Lashkari"
+    },
+    {
+        "author": "Yi Chang"
+    },
+    {
+        "author": "Yi Chen"
+    },
+    {
+        "author": "Yi Deng"
+    },
+    {
+        "author": "Yi Fang"
+    },
+    {
+        "author": "Yi Feng"
+    },
+    {
+        "author": "Yi Li 0002"
+    },
+    {
+        "author": "Yi Liu"
+    },
+    {
+        "author": "Yi Ma"
+    },
+    {
+        "author": "Yi Wang"
+    },
+    {
+        "author": "Yi Wang 0006"
+    },
+    {
+        "author": "Yi Xu"
+    },
+    {
+        "author": "Yi Zhang"
+    },
+    {
+        "author": "Yi Zhen"
+    },
+    {
+        "author": "Yi-Kai Liu"
+    },
+    {
+        "author": "Yi-Shin Chen"
+    },
+    {
+        "author": "Yichao Zhou"
+    },
+    {
+        "author": "Yifei Lu"
+    },
+    {
+        "author": "Yigal Arens"
+    },
+    {
+        "author": "Yihong Zhao"
+    },
+    {
+        "author": "Yijia Chen"
+    },
+    {
+        "author": "Yijun Li"
+    },
+    {
+        "author": "Yilin Shen"
+    },
+    {
+        "author": "Yiling Chen"
+    },
+    {
+        "author": "Yiming Ma"
+    },
+    {
+        "author": "Yiming Zhang"
+    },
+    {
+        "author": "Yin Tat Lee"
+    },
+    {
+        "author": "Ying Cai"
+    },
+    {
+        "author": "Ying Chen 0001"
+    },
+    {
+        "author": "Ying Hu"
+    },
+    {
+        "author": "Ying Sheng"
+    },
+    {
+        "author": "Ying Xiao 0003"
+    },
+    {
+        "author": "Ying Xu"
+    },
+    {
+        "author": "Ying Xu 0002"
+    },
+    {
+        "author": "Ying Zhang 0001"
+    },
+    {
+        "author": "Ying Zhao"
+    },
+    {
+        "author": "Yingjie Shi"
+    },
+    {
+        "author": "Yingkai Li"
+    },
+    {
+        "author": "Yinlam Chow"
+    },
+    {
+        "author": "Yinyu Ye"
+    },
+    {
+        "author": "Yipeng Zhang"
+    },
+    {
+        "author": "Yiping Ke"
+    },
+    {
+        "author": "Yiqun Liu"
+    },
+    {
+        "author": "Yiran Chen"
+    },
+    {
+        "author": "Yishai A. Feldman"
+    },
+    {
+        "author": "Yitzhak Mandelbaum"
+    },
+    {
+        "author": "Yixin Chen"
+    },
+    {
+        "author": "Yizhen Wang"
+    },
+    {
+        "author": "Yizhou Sun"
+    },
+    {
+        "author": "Yngve Villanger"
+    },
+    {
+        "author": "Yoav Freund"
+    },
+    {
+        "author": "Yoav Katz"
+    },
+    {
+        "author": "Yonatan Aumann"
+    },
+    {
+        "author": "Yong Li 0008"
+    },
+    {
+        "author": "Yong Liu"
+    },
+    {
+        "author": "Yong Luo"
+    },
+    {
+        "author": "Yong Shi"
+    },
+    {
+        "author": "Yong Yu"
+    },
+    {
+        "author": "Yong Zhang"
+    },
+    {
+        "author": "Yongjian Fu"
+    },
+    {
+        "author": "Yongming Rao"
+    },
+    {
+        "author": "Yongqiang He"
+    },
+    {
+        "author": "Yongwei Wu"
+    },
+    {
+        "author": "Yongyi Mao"
+    },
+    {
+        "author": "Yoo Ah Kim"
+    },
+    {
+        "author": "Yoram Moses"
+    },
+    {
+        "author": "Yoram Singer"
+    },
+    {
+        "author": "Yosi Ben-Asher"
+    },
+    {
+        "author": "Yossi Matias"
+    },
+    {
+        "author": "Youming Qiao"
+    },
+    {
+        "author": "Yu Chen"
+    },
+    {
+        "author": "Yu Cheng"
+    },
+    {
+        "author": "Yu Cheng 0002"
+    },
+    {
+        "author": "Yu Deng"
+    },
+    {
+        "author": "Yu Du"
+    },
+    {
+        "author": "Yu Feng"
+    },
+    {
+        "author": "Yu He"
+    },
+    {
+        "author": "Yu Jiang"
+    },
+    {
+        "author": "Yu Sun"
+    },
+    {
+        "author": "Yu Wang"
+    },
+    {
+        "author": "Yu Wang 0002"
+    },
+    {
+        "author": "Yu Wang 0021"
+    },
+    {
+        "author": "Yu Xia 0005"
+    },
+    {
+        "author": "Yu Yang"
+    },
+    {
+        "author": "Yu Yin"
+    },
+    {
+        "author": "Yu Zheng"
+    },
+    {
+        "author": "Yu Zheng 0004"
+    },
+    {
+        "author": "Yu Zhou"
+    },
+    {
+        "author": "Yuan An"
+    },
+    {
+        "author": "Yuan Fang"
+    },
+    {
+        "author": "Yuan Lin"
+    },
+    {
+        "author": "Yuan Xie"
+    },
+    {
+        "author": "Yuan Yao"
+    },
+    {
+        "author": "Yuan Yu"
+    },
+    {
+        "author": "Yuan Zhong"
+    },
+    {
+        "author": "Yuanhua Lv"
+    },
+    {
+        "author": "Yuanjie Li"
+    },
+    {
+        "author": "Yuanyang Zhang"
+    },
+    {
+        "author": "Yuanzhi Li"
+    },
+    {
+        "author": "Yubin Xia"
+    },
+    {
+        "author": "Yue Hu"
+    },
+    {
+        "author": "Yue Liu"
+    },
+    {
+        "author": "Yue Lu"
+    },
+    {
+        "author": "Yue Qin"
+    },
+    {
+        "author": "Yue Wu"
+    },
+    {
+        "author": "Yueguo Chen"
+    },
+    {
+        "author": "Yuezhou Lv"
+    },
+    {
+        "author": "Yuh-Jzer Joung"
+    },
+    {
+        "author": "Yuheng Hu"
+    },
+    {
+        "author": "Yujiao Zhou"
+    },
+    {
+        "author": "Yuliang Li"
+    },
+    {
+        "author": "Yun Chen"
+    },
+    {
+        "author": "Yun Chi"
+    },
+    {
+        "author": "Yun Kuen Cheung"
+    },
+    {
+        "author": "Yun Long"
+    },
+    {
+        "author": "Yun Peng"
+    },
+    {
+        "author": "Yun Wang"
+    },
+    {
+        "author": "Yung Yi"
+    },
+    {
+        "author": "Yunhai Tong"
+    },
+    {
+        "author": "Yunhao Liu"
+    },
+    {
+        "author": "Yunhong Zhou"
+    },
+    {
+        "author": "Yunji Chen"
+    },
+    {
+        "author": "Yunyao Li 0001"
+    },
+    {
+        "author": "Yuqing Zhu"
+    },
+    {
+        "author": "Yuri V. Matiyasevich"
+    },
+    {
+        "author": "Yury Makarychev"
+    },
+    {
+        "author": "Yusheng Xie"
+    },
+    {
+        "author": "Yutian Chen"
+    },
+    {
+        "author": "Yuval Peres"
+    },
+    {
+        "author": "Yuxin Huang"
+    },
+    {
+        "author": "Yuxin Mao"
+    },
+    {
+        "author": "Yuxing Peng"
+    },
+    {
+        "author": "Yuyi Wang"
+    },
+    {
+        "author": "Zachary G. Ives"
+    },
+    {
+        "author": "Zachary Kincaid"
+    },
+    {
+        "author": "Zaiqing Nie"
+    },
+    {
+        "author": "Zarka Cvetanovic"
+    },
+    {
+        "author": "Ze-Nian Li"
+    },
+    {
+        "author": "Zechao Li"
+    },
+    {
+        "author": "Zena M. Ariola"
+    },
+    {
+        "author": "Zengjian Hu"
+    },
+    {
+        "author": "Zeyi Wen"
+    },
+    {
+        "author": "Zeyuan Allen Zhu"
+    },
+    {
+        "author": "Zeyuan Allen-Zhu"
+    },
+    {
+        "author": "Zhang Yi 0001"
+    },
+    {
+        "author": "Zhanyong Tang"
+    },
+    {
+        "author": "Zhao Chen"
+    },
+    {
+        "author": "Zhao Kang"
+    },
+    {
+        "author": "Zhao Song"
+    },
+    {
+        "author": "Zhaoguo Wang"
+    },
+    {
+        "author": "Zhaohui Wu 0001"
+    },
+    {
+        "author": "Zhen He"
+    },
+    {
+        "author": "Zhen Jia"
+    },
+    {
+        "author": "Zhen Lin"
+    },
+    {
+        "author": "Zhen Liu"
+    },
+    {
+        "author": "Zhen Liu 0001"
+    },
+    {
+        "author": "Zhen Zhang"
+    },
+    {
+        "author": "Zhendong Su"
+    },
+    {
+        "author": "Zheng Chen 0001"
+    },
+    {
+        "author": "Zheng Yu"
+    },
+    {
+        "author": "Zhenghao Wang"
+    },
+    {
+        "author": "Zhenghua Li"
+    },
+    {
+        "author": "Zhenghua Xu"
+    },
+    {
+        "author": "Zhenguo Li"
+    },
+    {
+        "author": "Zhengyang Liu"
+    },
+    {
+        "author": "Zhengyu Wang"
+    },
+    {
+        "author": "Zhengzheng Xing"
+    },
+    {
+        "author": "Zhenhui Li"
+    },
+    {
+        "author": "Zhenjie Zhang"
+    },
+    {
+        "author": "Zhenlin Wang"
+    },
+    {
+        "author": "Zhentao Li"
+    },
+    {
+        "author": "Zhenying He"
+    },
+    {
+        "author": "Zhenyu Guo"
+    },
+    {
+        "author": "Zhenyu Liao"
+    },
+    {
+        "author": "Zhenzhe Zheng"
+    },
+    {
+        "author": "Zhewei Wei"
+    },
+    {
+        "author": "Zhi Liu"
+    },
+    {
+        "author": "Zhi Qiao"
+    },
+    {
+        "author": "Zhi-Hua Zhou"
+    },
+    {
+        "author": "Zhi-Quan Luo"
+    },
+    {
+        "author": "Zhigang Wang"
+    },
+    {
+        "author": "Zhiguo Gong"
+    },
+    {
+        "author": "Zhihao Gavin Tang"
+    },
+    {
+        "author": "Zhihua Wang"
+    },
+    {
+        "author": "Zhiqiang Xu"
+    },
+    {
+        "author": "Zhiting Hu"
+    },
+    {
+        "author": "Zhiwei Steven Wu"
+    },
+    {
+        "author": "Zhiyi Huang 0002"
+    },
+    {
+        "author": "Zhiyuan Li"
+    },
+    {
+        "author": "Zhong She"
+    },
+    {
+        "author": "Zhong Su"
+    },
+    {
+        "author": "Zhongyuan Wang"
+    },
+    {
+        "author": "Zhongzhi Zhang"
+    },
+    {
+        "author": "Zhoujun Li"
+    },
+    {
+        "author": "Zi Huang"
+    },
+    {
+        "author": "Zibin Zheng"
+    },
+    {
+        "author": "Zihe Wang"
+    },
+    {
+        "author": "Ziheng Wei"
+    },
+    {
+        "author": "Zijing Tan"
+    },
+    {
+        "author": "Ziv Bar-Yossef"
+    },
+    {
+        "author": "Ziyang Chen"
+    },
+    {
+        "author": "Ziyu Guan"
+    },
+    {
+        "author": "Zo Abrams"
+    },
+    {
+        "author": "Zohar Manna"
+    },
+    {
+        "author": "Zohar S. Karnin"
+    },
+    {
+        "author": "Zohar Shay Karnin"
+    },
+    {
+        "author": "Zvi M. Kedem"
+    },
+    {
+        "author": "Zvi Ostfeld"
+    },
+    {
+        "author": "douard Bonnet"
+    },
+    {
+        "author": "va Tardos"
+    },
+    {
+        "author": "zgr Smer"
+    }
+]
